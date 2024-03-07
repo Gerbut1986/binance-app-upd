@@ -1,0 +1,27 @@
+15:51:42.761538> StopBalance = 226.06
+17:10:00.775565> BUY Fra40 1.00 signal received at 6710.18, fastSpread=20.00
+17:10:00.884271> BUY OK Fra40 at 6710.55;Gap=-48.00;Price=6710.18;Slippage=-37.0;Execution=102.711 ms; Execution2=108 ms
+18:30:41.617086> LMAX API yex0923 event stream failed
+18:30:41.619116> LMAX API yex0923 reconnection in 5 seconds
+00:04:59.971735> LMAX API yex0923 event stream failed
+00:04:59.979713> LMAX API yex0923 reconnection in 5 seconds
+00:10:08.198316> LMAX API yex0923 event stream failed
+00:10:08.201305> LMAX API yex0923 reconnection in 5 seconds
+00:15:16.582770> LMAX API yex0923 event stream failed
+00:15:16.584766> LMAX API yex0923 reconnection in 5 seconds
+00:20:25.054333> LMAX API yex0923 event stream failed
+00:20:25.055334> LMAX API yex0923 reconnection in 5 seconds
+00:25:41.078271> LMAX API yex0923 event stream failed
+00:25:41.081264> LMAX API yex0923 reconnection in 5 seconds
+00:30:48.968102> LMAX API yex0923 event stream failed
+00:30:48.970096> LMAX API yex0923 reconnection in 5 seconds
+00:36:04.741902> LMAX API yex0923 event stream failed
+00:36:04.743901> LMAX API yex0923 reconnection in 5 seconds
+00:41:48.651920> LMAX API yex0923 stream session disconnected
+00:41:48.656911> LMAX API yex0923 reconnection in 5 seconds
+00:46:56.050006> LMAX API yex0923 event stream failed
+00:46:56.052997> LMAX API yex0923 reconnection in 5 seconds
+00:52:02.716940> LMAX API yex0923 event stream failed
+00:52:02.719931> LMAX API yex0923 reconnection in 5 seconds
+00:57:09.448878> LMAX API yex0923 event stream failed
+00:57:09.451867> LMAX API yex0923 reconnection in 5 seconds

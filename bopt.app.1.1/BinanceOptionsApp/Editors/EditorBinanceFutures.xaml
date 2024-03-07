@@ -1,0 +1,36 @@
+﻿<Window x:Class="BinanceOptionsApp.Editors.EditorBinanceFutures"
+       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Height="320" Width="320" WindowStartupLocation="CenterOwner" Loaded="Window_Loaded" Closing="Window_Closing"
+        xmlns:cs="clr-namespace:BinanceOptionsApp.CustomStyles"
+        ResizeMode="NoResize"
+        Foreground="White" 
+        FontSize="14"
+        Title="Binance Futures Edit"
+        xmlns:controls="clr-namespace:BinanceOptionsApp.Controls">
+
+    <Grid Background="Gray">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="48"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Vertical" Margin="5">
+            <TextBlock Text="API Key"></TextBlock>
+            <TextBox Background="White" Text="{Binding Key,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"></TextBox>
+            <TextBlock Text="API Secret"></TextBlock>
+            <TextBox Background="White" Text="{Binding Secret,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <TextBlock Text="Trade Type"></TextBlock>
+            <ComboBox x:Name="cbTradeType"></ComboBox>
+            <TextBlock Margin="0,15,0,0" Text="{DynamicResource locName}"></TextBlock>
+            <TextBox Text="{Binding Name,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Button x:Name="buAccept" MinWidth="80" IsDefault="True" Click="BuAccept_Click" Content="{DynamicResource locDlgAccept}"></Button>
+            <Button x:Name="buCancel" MinWidth="80" Margin="5,0,0,0" IsCancel="True" Click="BuCancel_Click" Content="{DynamicResource locDlgCancel}"></Button>
+        </StackPanel>
+    </Grid>
+</Window>
+

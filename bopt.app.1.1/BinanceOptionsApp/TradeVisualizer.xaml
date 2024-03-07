@@ -1,0 +1,75 @@
+﻿<UserControl x:Class="BinanceOptionsApp.TradeVisualizer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:controls="clr-namespace:BinanceOptionsApp.Controls"
+             xmlns:vm="clr-namespace:VisualMarketsEngine;assembly=VisualMarketsEngine"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <TabControl x:Name="tabs">
+            <TabItem Header="Diagnostics" x:Name="tiDiagnostics">
+                <Grid Background="Gray">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="2*"></RowDefinition>
+                        <RowDefinition Height="24"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <controls:DiagnosticsGrid x:Name="diagnosticsControl" Grid.Row="0"></controls:DiagnosticsGrid>
+                    <Grid Grid.Row="1">
+                        <Rectangle Fill="#3f5555ff"></Rectangle>
+                        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="16" Foreground="LightBlue">LOG</TextBlock>
+                    </Grid>
+                    <ScrollViewer HorizontalScrollBarVisibility="Auto" Grid.Row="2" VerticalScrollBarVisibility="Auto">
+                        <TextBlock x:Name="logControl" TextWrapping="Wrap" FontFamily="Courier" Margin="5"></TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Live Chart" x:Name="tiLiveChart" Visibility="Collapsed">
+                <vm:ChartGroup x:Name="vmLive" Background="Gray" Foreground="White"></vm:ChartGroup>
+            </TabItem>
+            <TabItem Header="Backtest Chart" x:Name="tiBacktestChart" Visibility="Collapsed">
+                <vm:ChartGroup x:Name="vmBacktest" Background="Silver" Foreground="White"></vm:ChartGroup>
+            </TabItem>
+            <TabItem Header="Live Orders" x:Name="tiLiveOrders" Visibility="Collapsed">
+                <DataGrid x:Name="dgLiveOrders" AutoGenerateColumns="False" IsReadOnly="True" MouseDoubleClick="DgLiveOrders_MouseDoubleClick"
+                      CanUserAddRows="False" CanUserDeleteRows="False" CanUserReorderColumns="False" CanUserResizeRows="False">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Side" Binding="{Binding Side}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Volume" Binding="{Binding Volume}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Open Price" Binding="{Binding OpenPrice}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Open Time" Binding="{Binding OpenTime, StringFormat='{}{0:HH:mm:ss.fff}'}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Open Execution Time(ms)" Binding="{Binding OpenExecutionTimeMs}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Open Slippage(pt)" Binding="{Binding OpenSlippagePt}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Close Price" Binding="{Binding ClosePrice}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Close Time" Binding="{Binding CloseTime, StringFormat='{}{0:HH:mm:ss.fff}'}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Close Execution Time(ms)" Binding="{Binding CloseExecutionTimeMs}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Close Slippage(pt)" Binding="{Binding CloseSlippagePt}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Profit(pt)" Binding="{Binding ProfitPt}"></DataGridTextColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+            <TabItem Header="Backtest Orders" x:Name="tiBacktestOrders" Visibility="Collapsed">
+                <DataGrid x:Name="dgBacktestOrders" AutoGenerateColumns="False" IsReadOnly="True" MouseDoubleClick="DgBacktestOrders_MouseDoubleClick"
+                      CanUserAddRows="False" CanUserDeleteRows="False" CanUserReorderColumns="False" CanUserResizeRows="False">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Side" Binding="{Binding Side}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Volume" Binding="{Binding Volume}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Open Price" Binding="{Binding OpenPrice}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Open Time" Binding="{Binding OpenTime, StringFormat='{}{0:HH:mm:ss.fff}'}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Close Price" Binding="{Binding ClosePrice}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Close Time" Binding="{Binding CloseTime, StringFormat='{}{0:HH:mm:ss.fff}'}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Profit(pt)" Binding="{Binding ProfitPt}"></DataGridTextColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+            <TabItem Header="Debug" x:Name="tiDebug" Visibility="Collapsed">
+                <DataGrid x:Name="dgDebug" AutoGenerateColumns="False" IsReadOnly="True" MouseDoubleClick="DgDebug_MouseDoubleClick"
+                      CanUserAddRows="False" CanUserDeleteRows="False" CanUserReorderColumns="False" CanUserResizeRows="False"
+                          EnableRowVirtualization="True" EnableColumnVirtualization="True" VirtualizingStackPanel.IsVirtualizing="True">
+                </DataGrid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</UserControl>

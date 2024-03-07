@@ -1,0 +1,754 @@
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\BinanceOptionsApp.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\ButtonStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\CheckBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\ComboBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\DataGridStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\GroupBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\ListBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\MenuStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\Resources.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\ScrollBarStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\Styles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\TabControlStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\TextBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Dashboard.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Lang\Chinese.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Lang\English.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderDescription.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\AddHeader.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Analyzer.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CircularProgressBar.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Controls\DiagnosticsGrid.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\CustomWindowStyle.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Dashboard.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\DashHeader.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorActivFin.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorBinance.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorBitfinex.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorCelerFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorCfhFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorCTraderFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorDukasFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorExanteFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFastMatch.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFlexTradeFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFortexFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFxcmFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFxPigFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorGoldIMatrixFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorIB.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorIntegralFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorLmaxApi.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorLMaxFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorMT4.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorMT5.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorOgmFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorOkex.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorOneZeroFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorPrimeXmFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoAPI.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorTestNet.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorTradeMonitor.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorTraderMadeFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorXenFinFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorXtrdFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\ExpertInstaller.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Login.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\MainWindow.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\MessageWindow.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\OptionsDialog.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\OrderTypeEditor.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\PriceMarker.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderControl.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderDescription.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderEditDialog.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeMultiLegSpread.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeOneLeg.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeOneLegHedge.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeOneLegMulti.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeTwoLegLock.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeVisualizer.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\App.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_Content.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_MarkupCompile.cache
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_MarkupCompile.lref
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.exe
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.pdb
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.exe.config
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.exe
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.pdb
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\bin\Debug\Dsafa.WpfColorPicker.dll
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\bin\Debug\WpfScreenHelper.dll
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\bin\Debug\Yummy.Charts.dll
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\bin\Debug\Dsafa.WpfColorPicker.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\bin\Debug\RestSharp.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\bin\Debug\System.CodeDom.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\bin\Debug\websocket-sharp.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\bin\Debug\WpfScreenHelper.pdb
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\BinanceOptionsApp.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\ButtonStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\CheckBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\ComboBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\DataGridStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\GroupBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\ListBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\MenuStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\Resources.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\ScrollBarStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\Styles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\TabControlStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\TextBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\Dashboard.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\Lang\Chinese.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\Lang\English.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderDescription.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\AddHeader.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\Analyzer.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CircularProgressBar.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\Controls\DiagnosticsGrid.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\CustomWindowStyle.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\Dashboard.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\DashHeader.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorBinance.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorTestNet.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\Login.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\MainWindow.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\MessageWindow.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\OptionsDialog.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\OrderTypeEditor.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\PriceMarker.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderControl.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderDescription.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderEditDialog.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\TradeMultiLegSpread.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\TradeOneLeg.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\TradeOneLegHedge.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\TradeOneLegMulti.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\TradeVisualizer.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\App.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_Content.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_MarkupCompile.cache
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_MarkupCompile.lref
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\App.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\AddHeader.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\Analyzer.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CircularProgressBar.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\Controls\DiagnosticsGrid.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\ContextMenuStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\CustomWindowStyle.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\DashHeader.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorBinance.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorTestNet.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\Login.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\MainWindow.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\MessageWindow.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\OptionsDialog.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\OrderTypeEditor.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\PriceMarker.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderControl.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderEditDialog.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\TradeMultiLegSpread.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\TradeOneLeg.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\TradeOneLegHedge.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\TradeOneLegMulti.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\TradeVisualizer.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.g.resources
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.Properties.Resources.resources
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\BinanceOptionsApp.csproj.GenerateResource.cache
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\BinanceOptionsApp.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\BinanceOptionsApp.csproj.CopyComplete
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.exe
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.pdb
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CustomStyles\ButtonStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CustomStyles\CheckBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CustomStyles\ComboBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CustomStyles\DataGridStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CustomStyles\GroupBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CustomStyles\ListBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CustomStyles\MenuStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CustomStyles\Resources.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CustomStyles\ScrollBarStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CustomStyles\Styles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CustomStyles\TabControlStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CustomStyles\TextBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Dashboard.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Lang\Chinese.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Lang\English.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\ProviderDescription.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\AddHeader.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Analyzer.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CircularProgressBar.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Controls\DiagnosticsGrid.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CustomStyles\CustomWindowStyle.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Dashboard.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\DashHeader.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Editors\EditorBinance.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Editors\EditorTestNet.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Login.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\MainWindow.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\MessageWindow.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\OptionsDialog.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\OrderTypeEditor.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\PriceMarker.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\ProviderControl.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\ProviderDescription.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\ProviderEditDialog.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\TradeMultiLegSpread.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\TradeOneLeg.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\TradeOneLegHedge.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\TradeOneLegMulti.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\TradeVisualizer.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\App.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7_Content.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7_MarkupCompile.cache
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7_MarkupCompile.lref
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.exe
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.pdb
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\bin\Debug\WesternpipsPrivate7.exe.config
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\bin\Debug\WesternpipsPrivate7.exe
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\bin\Debug\WesternpipsPrivate7.pdb
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\bin\Debug\Dsafa.WpfColorPicker.dll
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\bin\Debug\WpfScreenHelper.dll
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\bin\Debug\Yummy.Charts.dll
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\bin\Debug\Dsafa.WpfColorPicker.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\bin\Debug\RestSharp.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\bin\Debug\System.CodeDom.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\bin\Debug\websocket-sharp.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\bin\Debug\WpfScreenHelper.pdb
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\App.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\AddHeader.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Analyzer.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CircularProgressBar.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Controls\DiagnosticsGrid.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CustomStyles\ContextMenuStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\CustomStyles\CustomWindowStyle.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\DashHeader.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Editors\EditorBinance.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Editors\EditorTestNet.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Login.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\MainWindow.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\MessageWindow.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\OptionsDialog.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\OrderTypeEditor.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\PriceMarker.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\ProviderControl.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\ProviderEditDialog.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\TradeMultiLegSpread.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\TradeOneLeg.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\TradeOneLegHedge.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\TradeOneLegMulti.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\TradeVisualizer.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.g.resources
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.Properties.Resources.resources
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.GenerateResource.cache
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.CopyComplete
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Editors\BinanceOptions.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\new\bopt.app\bopt.app\BinanceOptionsApp\obj\Debug\Editors\BinanceOptions.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\bin\Debug\WesternpipsPrivate7.exe.config
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\bin\Debug\WesternpipsPrivate7.exe
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\bin\Debug\WesternpipsPrivate7.pdb
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\bin\Debug\Dsafa.WpfColorPicker.dll
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\bin\Debug\WpfScreenHelper.dll
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\bin\Debug\Yummy.Charts.dll
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\bin\Debug\Dsafa.WpfColorPicker.xml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\bin\Debug\System.CodeDom.xml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\bin\Debug\websocket-sharp.xml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\bin\Debug\WpfScreenHelper.pdb
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\ButtonStyles.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\CheckBoxStyles.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\ComboBoxStyles.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\DataGridStyles.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\GroupBoxStyles.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\ListBoxStyles.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\MenuStyles.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\Resources.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\ScrollBarStyles.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\Styles.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\TabControlStyles.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\TextBoxStyles.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Dashboard.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Lang\Chinese.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Lang\English.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderDescription.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\AddHeader.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Analyzer.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CircularProgressBar.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Controls\DiagnosticsGrid.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\CustomWindowStyle.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Dashboard.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\DashHeader.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\BinanceOptions.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinance.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorTestNet.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Login.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\MessageWindow.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\OptionsDialog.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\OrderTypeEditor.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\PriceMarker.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderControl.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderDescription.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderEditDialog.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeMultiLegSpread.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLeg.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLegHedge.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLegMulti.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeVisualizer.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7_Content.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7_MarkupCompile.cache
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7_MarkupCompile.lref
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\AddHeader.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Analyzer.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CircularProgressBar.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Controls\DiagnosticsGrid.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\ContextMenuStyles.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\CustomWindowStyle.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\DashHeader.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\BinanceOptions.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinance.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorTestNet.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Login.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\MessageWindow.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\OptionsDialog.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\OrderTypeEditor.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\PriceMarker.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderControl.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderEditDialog.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeMultiLegSpread.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLeg.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLegHedge.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLegMulti.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeVisualizer.baml
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.g.resources
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.Properties.Resources.resources
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.exe
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.pdb
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinanceFutures.g.cs
+C:\Users\Administrator\Desktop\bot.app\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinanceFutures.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\bin\Debug\WesternpipsPrivate7.exe.config
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\bin\Debug\WesternpipsPrivate7.exe
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\bin\Debug\WesternpipsPrivate7.pdb
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\bin\Debug\Dsafa.WpfColorPicker.dll
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\bin\Debug\WpfScreenHelper.dll
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\bin\Debug\Yummy.Charts.dll
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\bin\Debug\Dsafa.WpfColorPicker.xml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\bin\Debug\RestSharp.xml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\bin\Debug\System.CodeDom.xml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\bin\Debug\websocket-sharp.xml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\bin\Debug\WpfScreenHelper.pdb
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.AssemblyReference.cache
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\ButtonStyles.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\CheckBoxStyles.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\ComboBoxStyles.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\DataGridStyles.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\GroupBoxStyles.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\ListBoxStyles.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\MenuStyles.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\Resources.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\ScrollBarStyles.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\Styles.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\TabControlStyles.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\TextBoxStyles.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Dashboard.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Lang\Chinese.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Lang\English.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderDescription.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\AddHeader.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Analyzer.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CircularProgressBar.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Controls\DiagnosticsGrid.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\CustomWindowStyle.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Dashboard.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\DashHeader.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\BinanceOptions.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinance.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinanceFutures.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorTestNet.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Login.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\MainWindow.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\MessageWindow.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\OptionsDialog.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\OrderTypeEditor.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\PriceMarker.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderControl.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderDescription.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderEditDialog.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeMultiLegSpread.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLeg.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLegHedge.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLegMulti.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeVisualizer.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\App.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7_Content.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7_MarkupCompile.cache
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7_MarkupCompile.lref
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\App.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\AddHeader.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Analyzer.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CircularProgressBar.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Controls\DiagnosticsGrid.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\ContextMenuStyles.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\CustomWindowStyle.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\DashHeader.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\BinanceOptions.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinance.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinanceFutures.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorTestNet.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\Login.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\MainWindow.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\MessageWindow.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\OptionsDialog.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\OrderTypeEditor.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\PriceMarker.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderControl.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderEditDialog.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeMultiLegSpread.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLeg.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLegHedge.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLegMulti.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeVisualizer.baml
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.g.resources
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.Properties.Resources.resources
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.GenerateResource.cache
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.CoreCompileInputs.cache
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.CopyComplete
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.exe
+C:\Users\andri\Downloads\MyFiles\Sergiy Riehl(Dedicated server)\binance-api-exemple\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.pdb
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\bin\Debug\WesternpipsPrivate7.exe.config
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\bin\Debug\WesternpipsPrivate7.exe
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\bin\Debug\WesternpipsPrivate7.pdb
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\bin\Debug\Dsafa.WpfColorPicker.dll
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\bin\Debug\WpfScreenHelper.dll
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\bin\Debug\Yummy.Charts.dll
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\bin\Debug\Dsafa.WpfColorPicker.xml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\bin\Debug\System.CodeDom.xml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\bin\Debug\websocket-sharp.xml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\bin\Debug\WpfScreenHelper.pdb
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\ButtonStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\CheckBoxStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\ComboBoxStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\DataGridStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\GroupBoxStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\ListBoxStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\MenuStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\Resources.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\ScrollBarStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\Styles.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\TabControlStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\TextBoxStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Dashboard.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Lang\Chinese.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Lang\English.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderDescription.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\AddHeader.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Analyzer.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CircularProgressBar.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Controls\DiagnosticsGrid.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\CustomWindowStyle.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Dashboard.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\DashHeader.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\BinanceOptions.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinance.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinanceFutures.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorTestNet.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Login.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\MessageWindow.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\OptionsDialog.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\OrderTypeEditor.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\PriceMarker.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderControl.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderDescription.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderEditDialog.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeMultiLegSpread.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLeg.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLegHedge.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLegMulti.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeVisualizer.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7_Content.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7_MarkupCompile.cache
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7_MarkupCompile.lref
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\AddHeader.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Analyzer.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CircularProgressBar.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Controls\DiagnosticsGrid.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\ContextMenuStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\CustomStyles\CustomWindowStyle.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\DashHeader.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\BinanceOptions.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinance.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinanceFutures.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Editors\EditorTestNet.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\Login.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\MessageWindow.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\OptionsDialog.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\OrderTypeEditor.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\PriceMarker.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderControl.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\ProviderEditDialog.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeMultiLegSpread.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLeg.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLegHedge.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeOneLegMulti.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\TradeVisualizer.baml
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.g.resources
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.Properties.Resources.resources
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.exe
+C:\Users\Administrator\Desktop\bopt.app.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.pdb
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\ButtonStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\CheckBoxStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\ComboBoxStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\DataGridStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\GroupBoxStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\ListBoxStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\MenuStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\Resources.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\ScrollBarStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\Styles.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\TabControlStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\TextBoxStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Dashboard.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Lang\Chinese.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Lang\English.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\ProviderDescription.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\AddHeader.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Analyzer.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CircularProgressBar.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Controls\DiagnosticsGrid.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\CustomWindowStyle.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Dashboard.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\DashHeader.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\BinanceOptions.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinance.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinanceFutures.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorTestNet.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Login.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\MessageWindow.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\OptionsDialog.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\OrderTypeEditor.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\PriceMarker.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\ProviderControl.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\ProviderDescription.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\ProviderEditDialog.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeMultiLegSpread.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeOneLeg.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeOneLegHedge.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeOneLegMulti.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeVisualizer.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7_Content.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7_MarkupCompile.cache
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7_MarkupCompile.lref
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.exe
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.pdb
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\bin\Debug\WesternpipsPrivate7.exe.config
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\bin\Debug\WesternpipsPrivate7.exe
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\bin\Debug\WesternpipsPrivate7.pdb
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\bin\Debug\Dsafa.WpfColorPicker.dll
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\bin\Debug\WpfScreenHelper.dll
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\bin\Debug\Yummy.Charts.dll
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\bin\Debug\Dsafa.WpfColorPicker.xml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\bin\Debug\System.CodeDom.xml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\bin\Debug\websocket-sharp.xml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\bin\Debug\WpfScreenHelper.pdb
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\AddHeader.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Analyzer.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CircularProgressBar.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Controls\DiagnosticsGrid.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\ContextMenuStyles.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\CustomWindowStyle.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\DashHeader.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\BinanceOptions.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinance.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinanceFutures.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorTestNet.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Login.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\MessageWindow.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\OptionsDialog.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\OrderTypeEditor.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\PriceMarker.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\ProviderControl.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\ProviderEditDialog.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeMultiLegSpread.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeOneLeg.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeOneLegHedge.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeOneLegMulti.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeVisualizer.baml
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.g.resources
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\WesternpipsPrivate7.Properties.Resources.resources
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorTestNetSpot.g.cs
+C:\Users\Administrator\Desktop\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorTestNetSpot.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\Dsafa.WpfColorPicker.dll
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\WpfScreenHelper.dll
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\Yummy.Charts.dll
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\Dsafa.WpfColorPicker.xml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\System.CodeDom.xml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\websocket-sharp.xml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\WpfScreenHelper.pdb
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\ButtonStyles.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\CheckBoxStyles.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\ComboBoxStyles.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\DataGridStyles.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\GroupBoxStyles.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\ListBoxStyles.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\MenuStyles.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\Resources.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\ScrollBarStyles.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\Styles.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\TabControlStyles.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\TextBoxStyles.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Dashboard.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Lang\Chinese.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Lang\English.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\ProviderDescription.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\AddHeader.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CircularProgressBar.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Controls\DiagnosticsGrid.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\CustomWindowStyle.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Dashboard.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\DashHeader.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\BinanceOptions.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinance.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinanceFutures.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorTestNet.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorTestNetSpot.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Login.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\MessageWindow.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\OptionsDialog.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\OrderTypeEditor.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\PriceMarker.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\ProviderControl.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\ProviderDescription.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\ProviderEditDialog.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeMultiLegSpread.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeOneLeg.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeVisualizer.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\AddHeader.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CircularProgressBar.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Controls\DiagnosticsGrid.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\ContextMenuStyles.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\CustomStyles\CustomWindowStyle.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\DashHeader.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\BinanceOptions.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinance.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorBinanceFutures.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorTestNet.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Editors\EditorTestNetSpot.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\Login.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\MessageWindow.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\OptionsDialog.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\OrderTypeEditor.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\PriceMarker.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\ProviderControl.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\ProviderEditDialog.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeMultiLegSpread.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeOneLeg.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeVisualizer.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeLatencyArbitrage.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeLatencyArbitrage.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TwoLegFutures.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TwoLegFutures.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TwoLegArbFutureUSD_M.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TwoLegArbFutureUSD_M.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TickOptimizer.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TickOptimizer.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeScalper.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeScalper.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\BinanceOptionsApp.exe.config
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\BinanceOptionsApp.exe
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\BinanceOptionsApp.pdb
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp_Content.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp_MarkupCompile.cache
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp_MarkupCompile.lref
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.g.resources
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.exe
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.pdb
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\StringValueDialog.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TickOptimizerOG.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\StringValueDialog.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TickOptimizerOG.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeZigZag.g.cs
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\TradeZigZag.baml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\Websockets.Standard.dll
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\Websockets.WebSocket4Net.dll
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\obj\Debug\BinanceOptionsApp.exe.config
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\SuperSocket.ProtoBase.dll
+C:\Users\Administrator\Desktop\binance-app-upd\bopt.app.1.1\BinanceOptionsApp\bin\Debug\SuperSocket.Client.dll

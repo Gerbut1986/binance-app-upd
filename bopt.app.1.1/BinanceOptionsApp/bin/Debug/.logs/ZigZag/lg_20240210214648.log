@@ -1,0 +1,194 @@
+21:46:53.461049> WebSocket connected! Start @depth [Future] process...
+21:46:53.823068> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:46:53.863071> WebSocket connected! Start Partial @depth20 [Future] process...
+21:46:54.504108> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:46:54.513106> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:46:54.573111> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:46:54.574113> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:46:55.937189> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:46:55.990194> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:46:56.034196> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:46:56.050196> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:46:57.499278> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 0 USDT
+21:46:58.119314> WebSocket connected! Start [MARGIN] @depth@100ms process...
+21:46:58.425331> WebSocket connected! Start Partial @depth20 [MARGIN] process...
+21:46:58.426333> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:46:58.427334> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:46:58.429333> Binance - Vxxv1AWf[MARGIN] MARGIN Balance: 0.54619926 USDT
+21:46:58.425331> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:46:58.502335> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:46:58.504335> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:46:58.467335> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:46:58.488335> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:46:58.553340> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:46:58.551338> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:46:58.696348> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+21:47:00.758465> WebSocket connected! Start @depth [Future] process...
+21:47:00.799471> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:47:00.811471> WebSocket connected! Start Partial @depth20 [Future] process...
+21:47:01.220492> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:01.549511> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:02.177546> WebSocket connected! Start @depth [Future] process...
+21:47:02.454566> WebSocket connected! Start @depth [Future] process...
+21:47:02.455564> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:02.455564> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:03.689636> WebSocket connected! Start @depth [Future] process...
+21:47:03.689636> WebSocket connected! Start @depth [Future] process...
+21:47:03.889648> WebSocket connected! Start [MARGIN] @depth@100ms process...
+21:47:04.201663> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+21:47:04.418676> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:04.512680> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:04.513683> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:04.633687> WebSocket connected! Start Partial @depth20 [MARGIN] process...
+21:47:09.038940> WebSocket connected! Start @depth [Future] process...
+21:47:09.089943> WebSocket connected! Start @depth [Future] process...
+21:47:09.104944> WebSocket connected! Start @depth [Future] process...
+21:47:09.362959> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:09.415961> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:09.421962> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:10.194008> WebSocket connected! Start @depth [Future] process...
+21:47:12.182121> WebSocket connected! Start @depth [Future] process...
+21:47:13.371189> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:13.378189> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:13.571201> WebSocket connected! Start @depth [Future] process...
+21:47:16.273357> WebSocket connected! Start @depth [Future] process...
+21:47:17.772440> WebSocket connected! Start @depth [Future] process...
+21:47:21.773675> WebSocket connected! Start @depth [Future] process...
+21:47:21.905677> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:21.905677> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:21.906679> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:23.021747> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:23.022747> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:23.022747> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:23.024744> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:23.024744> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:23.025747> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:23.026750> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:23.026750> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:23.027742> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:25.614891> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:25.615892> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:26.248927> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:26.249929> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:26.373934> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:26.373934> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:26.374936> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:26.373934> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:26.621951> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:26.622956> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:26.619950> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:26.629949> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:26.629949> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:27.014972> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:27.014972> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:27.014972> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:27.019972> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:27.019972> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:27.205983> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:27.205983> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:28.487059> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:28.488062> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:28.488062> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:28.813075> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:28.819076> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:28.820076> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:29.118093> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:29.118093> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:29.119094> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:29.247099> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:29.248101> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:29.248101> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:29.849134> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:29.849134> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:31.310218> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:47:31.310218> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:47:31.382220> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:47:31.386235> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:47:31.590234> WebSocket connected! Start @depth [Future] process...
+21:47:31.633249> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:47:31.634238> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:47:31.635238> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:47:31.635238> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:47:31.966255> WebSocket connected! Start @depth [Future] process...
+21:47:31.967255> WebSocket connected! Start @depth [Future] process...
+21:47:32.025258> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:32.037260> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:32.026259> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:47:32.128264> WebSocket connected! Start @depth [Future] process...
+21:47:32.270274> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:47:33.234328> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:33.235329> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:33.390338> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:33.390338> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:33.391339> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:33.399338> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:33.391339> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:33.574350> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:33.820362> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:33.820362> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:33.821363> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:35.049433> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:35.049433> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:35.152438> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:35.197440> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:35.991487> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:36.015489> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:36.025489> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:36.038490> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:36.045490> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:36.052490> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:36.145495> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:36.146496> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:37.078549> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:37.079550> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:38.311620> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:38.312620> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:39.564690> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:39.565694> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:39.938714> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:39.965715> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:41.274791> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:47:41.275790> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:47:42.273847> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:42.274847> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:43.319906> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:43.319906> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:43.320907> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:43.837937> WebSocket connected! Start @depth [Future] process...
+21:47:44.242960> WebSocket connected! Start @depth [Future] process...
+21:47:44.278963> WebSocket connected! Start @depth [Future] process...
+21:47:44.319965> WebSocket connected! Start @depth [Future] process...
+21:47:44.320964> WebSocket connected! Start @depth [Future] process...
+21:47:45.960058> WebSocket connected! Start @depth [Future] process...
+21:47:46.005062> WebSocket connected! Start @depth [Future] process...
+21:47:46.006061> WebSocket connected! Start @depth [Future] process...
+21:47:46.264074> WebSocket connected! Start @depth [Future] process...
+21:47:46.282075> WebSocket connected! Start @depth [Future] process...
+21:47:47.629153> WebSocket connected! Start @depth [Future] process...
+21:47:47.631154> WebSocket connected! Start @depth [Future] process...
+21:47:47.830164> WebSocket connected! Start @depth [Future] process...
+21:47:49.959287> WebSocket connected! Start @depth [Future] process...
+21:47:50.029304> WebSocket connected! Start @depth [Future] process...
+21:47:50.035291> WebSocket connected! Start @depth [Future] process...
+21:47:50.822337> WebSocket connected! Start @depth [Future] process...
+21:47:51.138356> WebSocket connected! Start @depth [Future] process...
+21:47:51.232363> WebSocket connected! Start @depth [Future] process...
+21:47:51.447377> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:51.457371> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:51.463372> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:53.096466> WebSocket connected! Start @depth [Future] process...
+21:47:53.097468> WebSocket connected! Start @depth [Future] process...
+21:47:53.097468> WebSocket connected! Start @depth [Future] process...
+21:47:53.717508> WebSocket connected! Start @depth [Future] process...
+21:47:54.505547> WebSocket connected! Start @depth [Future] process...
+21:47:55.336594> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:55.337596> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:55.367596> WebSocket connected! Start @depth [Future] process...
+21:47:55.471603> WebSocket connected! Start @depth [Future] process...
+21:47:56.882685> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:56.882685> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:56.936689> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:56.945687> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:47:57.053693> WebSocket connected! Start @depth [Future] process...
+21:47:57.144698> WebSocket connected! Start @depth [Future] process...
+21:47:57.270705> WebSocket connected! Start @depth [Future] process...

@@ -1,0 +1,11 @@
+10:34:35.762770> StopEquity = 955.74
+10:34:35.764769> CLOSE UsaTec 1.00 signal received at 16028.99 on MT5 5931218
+10:34:35.764769> CLOSE .USTECHCash 1.00 signal received at 16028.90 on MT4 62903090
+10:34:35.861708> CLOSE OK UsaTec at 16028.99;Gap=0.00;Price=16028.99;Slippage=0.0 initial closing ;Execution=94.940 ms
+10:34:36.181511> CLOSE OK .USTECHCash at 16028.90;Gap=0.00;Price=16028.90;Slippage=0.0 initial closing ;Execution=411.739 ms
+10:34:36.183509> Open Hedge on MT5 5931218 MT4 62903090
+10:34:36.233478> SELL .USTECHCash 1.00 signal received at 16026.80 on MT4 62903090
+10:34:36.233478> BUY UsaTec 1.00 signal received at 16030.54 on MT5 5931218
+10:34:36.296440> BUY OK UsaTec at 16030.54;Gap=0.00;Price=16030.54;Slippage=0.0;Execution=59.963 ms
+10:34:36.520306> SELL OK .USTECHCash at 16027.00;Gap=0.00;Price=16026.80;Slippage=20.0;Execution=284.829 ms
+10:34:36.522306> Wait signal on MT5 5931218 MT4 62903090 SELL LOCK TYPE

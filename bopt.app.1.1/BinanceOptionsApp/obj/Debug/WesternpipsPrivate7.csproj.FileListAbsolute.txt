@@ -1,0 +1,786 @@
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.exe.config
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.exe
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.pdb
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\Dsafa.WpfColorPicker.dll
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\WpfScreenHelper.dll
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\Dsafa.WpfColorPicker.xml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\Newtonsoft.Json.xml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\RestSharp.xml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\System.CodeDom.xml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\System.Numerics.Vectors.xml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\WpfScreenHelper.pdb
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.AssemblyReference.cache
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.SuggestedBindingRedirects.cache
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\ButtonStyles.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\CheckBoxStyles.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\ComboBoxStyles.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\DataGridStyles.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\GroupBoxStyles.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\ListBoxStyles.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\MenuStyles.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\Resources.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\ScrollBarStyles.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\Styles.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\TabControlStyles.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\TextBoxStyles.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Dashboard.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Lang\Chinese.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Lang\English.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ProviderDescription.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\AddHeader.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Analyzer.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CircularProgressBar.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Controls\DiagnosticsGrid.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\CustomWindowStyle.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Dashboard.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\DashHeader.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorActivFin.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorBinance.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorBitfinex.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorCelerFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorCfhFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorCTraderFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorDukasFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorExanteFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFastMatch.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFlexTradeFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFortexFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxcmFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxPigFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorGoldIMatrixFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorIB.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorIntegralFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorLmaxApi.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorLMaxFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT4.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT5.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorOgmFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorOkex.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorOneZeroFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorPrimeXmFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoAPI.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorTestNet.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorTradeMonitor.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorTraderMadeFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorXenFinFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorXtrdFix.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ExpertInstaller.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Login.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\MainWindow.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\MessageWindow.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\OptionsDialog.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\OrderTypeEditor.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\PriceMarker.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ProviderControl.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ProviderDescription.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ProviderEditDialog.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeMultiLegSpread.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeOneLeg.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeOneLegHedge.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeOneLegMulti.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeTwoLegLock.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeTwoLegSimpleHedge.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeVisualizer.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\App.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_Content.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_MarkupCompile.cache
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_MarkupCompile.lref
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\App.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\AddHeader.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Analyzer.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CircularProgressBar.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Controls\DiagnosticsGrid.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\ContextMenuStyles.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\CustomWindowStyle.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\DashHeader.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorActivFin.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorBinance.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorBitfinex.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorCelerFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorCfhFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorCTraderFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorDukasFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorExanteFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFastMatch.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFlexTradeFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFortexFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxcmFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxPigFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorGoldIMatrixFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorIB.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorIntegralFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorLmaxApi.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorLMaxFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT4.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT5.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorOgmFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorOkex.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorOneZeroFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorPrimeXmFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoAPI.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorTestNet.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorTradeMonitor.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorTraderMadeFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorXenFinFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorXtrdFix.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ExpertInstaller.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Login.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\MainWindow.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\MessageWindow.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\OptionsDialog.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\OrderTypeEditor.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\PriceMarker.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ProviderControl.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ProviderEditDialog.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeMultiLegSpread.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeOneLeg.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeOneLegHedge.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeOneLegMulti.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeTwoLegLock.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeTwoLegSimpleHedge.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeVisualizer.baml
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.g.resources
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.Properties.Resources.resources
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.GenerateResource.cache
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.CoreCompileInputs.cache
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.CopyComplete
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.exe
+D:\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.pdb
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.exe.config
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.exe
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.pdb
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\Dsafa.WpfColorPicker.dll
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\WpfScreenHelper.dll
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\Dsafa.WpfColorPicker.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\Newtonsoft.Json.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\RestSharp.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\System.CodeDom.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\System.Numerics.Vectors.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\WpfScreenHelper.pdb
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.AssemblyReference.cache
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\ButtonStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\CheckBoxStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\ComboBoxStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\DataGridStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\GroupBoxStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\ListBoxStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\MenuStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\Resources.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\ScrollBarStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\Styles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\TabControlStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\TextBoxStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Dashboard.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Lang\Chinese.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Lang\English.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ProviderDescription.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\AddHeader.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Analyzer.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CircularProgressBar.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Controls\DiagnosticsGrid.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\CustomWindowStyle.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Dashboard.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\DashHeader.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorActivFin.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorBinance.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorBitfinex.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorCelerFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorCfhFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorCTraderFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorDukasFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorExanteFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFastMatch.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFlexTradeFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFortexFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxcmFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxPigFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorGoldIMatrixFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorIB.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorIntegralFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorLmaxApi.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorLMaxFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT4.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT5.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorOgmFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorOkex.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorOneZeroFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorPrimeXmFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoAPI.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorTestNet.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorTradeMonitor.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorTraderMadeFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorXenFinFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorXtrdFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ExpertInstaller.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Login.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\MainWindow.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\MessageWindow.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\OptionsDialog.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\OrderTypeEditor.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\PriceMarker.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ProviderControl.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ProviderDescription.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ProviderEditDialog.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeMultiLegSpread.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeOneLeg.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeOneLegHedge.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeOneLegMulti.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeTwoLegLock.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeTwoLegSimpleHedge.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeVisualizer.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\App.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_Content.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_MarkupCompile.cache
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_MarkupCompile.lref
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\App.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\AddHeader.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Analyzer.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CircularProgressBar.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Controls\DiagnosticsGrid.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\ContextMenuStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\CustomStyles\CustomWindowStyle.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\DashHeader.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorActivFin.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorBinance.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorBitfinex.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorCelerFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorCfhFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorCTraderFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorDukasFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorExanteFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFastMatch.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFlexTradeFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFortexFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxcmFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxPigFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorGoldIMatrixFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorIB.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorIntegralFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorLmaxApi.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorLMaxFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT4.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT5.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorOgmFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorOkex.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorOneZeroFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorPrimeXmFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoAPI.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorTestNet.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorTradeMonitor.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorTraderMadeFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorXenFinFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Editors\EditorXtrdFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ExpertInstaller.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\Login.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\MainWindow.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\MessageWindow.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\OptionsDialog.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\OrderTypeEditor.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\PriceMarker.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ProviderControl.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\ProviderEditDialog.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeMultiLegSpread.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeOneLeg.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeOneLegHedge.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeOneLegMulti.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeTwoLegLock.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeTwoLegSimpleHedge.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\TradeVisualizer.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.g.resources
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.Properties.Resources.resources
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.GenerateResource.cache
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.CoreCompileInputs.cache
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.CopyComplete
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.exe
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.pdb
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7\bin\Debug\mt5api.dll
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.exe.config
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.exe
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.pdb
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\Dsafa.WpfColorPicker.dll
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\mt5api.dll
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\WpfScreenHelper.dll
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\Dsafa.WpfColorPicker.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\Newtonsoft.Json.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\RestSharp.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\System.CodeDom.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\System.Numerics.Vectors.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\WpfScreenHelper.pdb
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.AssemblyReference.cache
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\ButtonStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\CheckBoxStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\ComboBoxStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\DataGridStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\GroupBoxStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\ListBoxStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\MenuStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\Resources.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\ScrollBarStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\Styles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\TabControlStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\TextBoxStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Dashboard.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Lang\Chinese.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Lang\English.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ProviderDescription.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\AddHeader.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Analyzer.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CircularProgressBar.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Controls\DiagnosticsGrid.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\CustomWindowStyle.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Dashboard.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\DashHeader.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorActivFin.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorBinance.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorBitfinex.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorCelerFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorCfhFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorCTraderFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorDukasFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorExanteFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFastMatch.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFlexTradeFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFortexFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxcmFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxPigFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorGoldIMatrixFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorIB.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorIntegralFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorLmaxApi.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorLMaxFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT4.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT5.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorOgmFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorOkex.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorOneZeroFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorPrimeXmFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoAPI.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorTestNet.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorTradeMonitor.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorTraderMadeFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorXenFinFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorXtrdFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ExpertInstaller.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Login.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\MainWindow.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\MessageWindow.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\OptionsDialog.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\OrderTypeEditor.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\PriceMarker.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ProviderControl.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ProviderDescription.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ProviderEditDialog.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeMultiLegSpread.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeOneLeg.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeOneLegHedge.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeOneLegMulti.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeTwoLegLock.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeTwoLegSimpleHedge.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeVisualizer.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\App.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_Content.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_MarkupCompile.cache
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_MarkupCompile.lref
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\App.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\AddHeader.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Analyzer.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CircularProgressBar.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Controls\DiagnosticsGrid.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\ContextMenuStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\CustomWindowStyle.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\DashHeader.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorActivFin.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorBinance.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorBitfinex.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorCelerFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorCfhFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorCTraderFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorDukasFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorExanteFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFastMatch.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFlexTradeFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFortexFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxcmFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxPigFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorGoldIMatrixFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorIB.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorIntegralFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorLmaxApi.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorLMaxFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT4.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT5.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorOgmFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorOkex.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorOneZeroFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorPrimeXmFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoAPI.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorTestNet.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorTradeMonitor.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorTraderMadeFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorXenFinFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorXtrdFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ExpertInstaller.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Login.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\MainWindow.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\MessageWindow.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\OptionsDialog.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\OrderTypeEditor.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\PriceMarker.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ProviderControl.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ProviderEditDialog.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeMultiLegSpread.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeOneLeg.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeOneLegHedge.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeOneLegMulti.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeTwoLegLock.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeTwoLegSimpleHedge.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeVisualizer.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.g.resources
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.Properties.Resources.resources
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.GenerateResource.cache
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.CoreCompileInputs.cache
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.CopyComplete
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.exe
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.pdb
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\mt5api.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\websocket-sharp.dll
+D:\Westernpips Private 7\WesternpipsPrivate7(11.03.2022)(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\websocket-sharp.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.AssemblyReference.cache
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\ButtonStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\CheckBoxStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\ComboBoxStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\DataGridStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\GroupBoxStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\ListBoxStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\MenuStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\Resources.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\ScrollBarStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\Styles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\TabControlStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\TextBoxStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Dashboard.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Lang\Chinese.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Lang\English.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ProviderDescription.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\AddHeader.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Analyzer.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CircularProgressBar.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Controls\DiagnosticsGrid.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\CustomWindowStyle.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Dashboard.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\DashHeader.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorActivFin.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorBinance.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorBitfinex.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorCelerFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorCfhFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorCTraderFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorDukasFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorExanteFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFastMatch.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFlexTradeFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFortexFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxcmFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxPigFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorGoldIMatrixFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorIB.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorIntegralFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorLmaxApi.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorLMaxFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT4.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT5.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorOgmFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorOkex.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorOneZeroFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorPrimeXmFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoAPI.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorTestNet.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorTradeMonitor.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorTraderMadeFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorXenFinFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorXtrdFix.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ExpertInstaller.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Login.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\MainWindow.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\MessageWindow.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\OptionsDialog.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\OrderTypeEditor.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\PriceMarker.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ProviderControl.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ProviderDescription.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ProviderEditDialog.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeMultiLegSpread.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeOneLeg.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeOneLegHedge.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeOneLegMulti.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeTwoLegLock.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeTwoLegSimpleHedge.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeVisualizer.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\App.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_Content.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_MarkupCompile.cache
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_MarkupCompile.lref
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.exe
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.pdb
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.exe.config
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.exe
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.pdb
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\Dsafa.WpfColorPicker.dll
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\mt5api.dll
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\websocket-sharp.dll
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\WpfScreenHelper.dll
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\Dsafa.WpfColorPicker.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\MT4ServerAPI.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\mt5api.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\Newtonsoft.Json.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\RestSharp.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\System.CodeDom.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\System.Numerics.Vectors.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\websocket-sharp.xml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\bin\Debug\WpfScreenHelper.pdb
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\App.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\AddHeader.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Analyzer.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CircularProgressBar.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Controls\DiagnosticsGrid.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\ContextMenuStyles.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\CustomStyles\CustomWindowStyle.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\DashHeader.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorActivFin.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorBinance.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorBitfinex.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorCelerFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorCfhFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorCTraderFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorDukasFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorExanteFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFastMatch.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFlexTradeFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFortexFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxcmFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorFxPigFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorGoldIMatrixFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorIB.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorIntegralFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorLmaxApi.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorLMaxFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT4.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorMT5.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorOgmFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorOkex.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorOneZeroFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorPrimeXmFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoAPI.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorTestNet.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorTradeMonitor.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorTraderMadeFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorXenFinFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Editors\EditorXtrdFix.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ExpertInstaller.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\Login.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\MainWindow.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\MessageWindow.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\OptionsDialog.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\OrderTypeEditor.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\PriceMarker.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ProviderControl.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\ProviderEditDialog.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeMultiLegSpread.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeOneLeg.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeOneLegHedge.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeOneLegMulti.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeTwoLegLock.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeTwoLegSimpleHedge.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\TradeVisualizer.baml
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.g.resources
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.Properties.Resources.resources
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.GenerateResource.cache
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.CoreCompileInputs.cache
+D:\Westernpips Private 7\WesternpipsPrivate7(25.10.2023)\WesternpipsPrivate7(11.03.2022)\WesternpipsPrivate7(11.03.2023)\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.CopyComplete
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\ButtonStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\CheckBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\ComboBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\DataGridStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\GroupBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\ListBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\MenuStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\Resources.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\ScrollBarStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\Styles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\TabControlStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\TextBoxStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Dashboard.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Lang\Chinese.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Lang\English.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderDescription.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\AddHeader.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Analyzer.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CircularProgressBar.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Controls\DiagnosticsGrid.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\CustomWindowStyle.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Dashboard.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\DashHeader.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorActivFin.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorBinance.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorBitfinex.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorCelerFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorCfhFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorCTraderFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorDukasFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorExanteFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFastMatch.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFlexTradeFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFortexFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFxcmFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFxPigFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorGoldIMatrixFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorIB.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorIntegralFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorLmaxApi.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorLMaxFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorMT4.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorMT5.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorOgmFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorOkex.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorOneZeroFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorPrimeXmFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoAPI.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorTestNet.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorTradeMonitor.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorTraderMadeFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorXenFinFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorXtrdFix.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\ExpertInstaller.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Login.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\MainWindow.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\MessageWindow.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\OptionsDialog.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\OrderTypeEditor.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\PriceMarker.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderControl.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderDescription.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderEditDialog.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeMultiLegSpread.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeOneLeg.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeOneLegHedge.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeOneLegMulti.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeTwoLegLock.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeTwoLegSimpleHedge.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeVisualizer.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\App.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_Content.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_MarkupCompile.cache
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7_MarkupCompile.lref
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.exe
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.pdb
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.exe.config
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.exe
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\WesternpipsPrivate7.pdb
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\Dsafa.WpfColorPicker.dll
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\mt5api.dll
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\websocket-sharp.dll
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\WpfScreenHelper.dll
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\Dsafa.WpfColorPicker.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\MT4ServerAPI.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\mt5api.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\RestSharp.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\System.CodeDom.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\websocket-sharp.xml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\bin\Debug\WpfScreenHelper.pdb
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\App.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\AddHeader.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Analyzer.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CircularProgressBar.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Controls\DiagnosticsGrid.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\ContextMenuStyles.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\CustomStyles\CustomWindowStyle.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\DashHeader.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorActivFin.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorBinance.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorBitfinex.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorCelerFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorCfhFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorCTraderFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorDukasFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorExanteFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFastMatch.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFlexTradeFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFortexFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFxcmFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorFxPigFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorGoldIMatrixFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorIB.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorIntegralFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorLmaxApi.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorLMaxFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorMT4.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorMT5.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorOgmFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorOkex.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorOneZeroFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorPrimeXmFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoAPI.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorSaxoFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorTestNet.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorTradeMonitor.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorTraderMadeFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorXenFinFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Editors\EditorXtrdFix.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\ExpertInstaller.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\Login.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\MainWindow.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\MessageWindow.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\OptionsDialog.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\OrderTypeEditor.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\PriceMarker.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderControl.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\ProviderEditDialog.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeMultiLegSpread.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeOneLeg.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeOneLegHedge.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeOneLegMulti.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeTwoLegLock.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeTwoLegSimpleHedge.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\TradeVisualizer.baml
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.g.resources
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.Properties.Resources.resources
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.GenerateResource.cache
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Робочий стіл\BinanceOptApp Last\bopt.app\WesternpipsPrivate7\obj\Debug\WesternpipsPrivate7.csproj.CopyComplete

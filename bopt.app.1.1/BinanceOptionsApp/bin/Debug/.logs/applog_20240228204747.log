@@ -1,0 +1,51 @@
+20:47:59.846995> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.00000000 USDT
+20:47:59.965000> WebSocket connected! Start @depth [Future] process...
+20:47:59.965000> WebSocket connected! Start Partial @depth20 [SPOT] process...
+20:47:59.966001> WebSocket connected! Start Partial @depth20 [Future] process...
+20:47:59.967999> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:48:00.067007> WebSocket connected! Start Partial @depth20 [SPOT] process...
+20:48:00.486042> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:48:00.522035> WebSocket connected! Start @depth [Future] process...
+20:48:00.532048> WebSocket connected! Start Partial @depth20 [Future] process...
+20:48:01.072209> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 0.00782936 USDT
+21:16:58.840054>  DevBUY (+): 62.49175000 avgGapBuy:66.80825000 
+21:41:54.736166>  DevSELL (+): -76.99187500 avgGapSell:70.71187500 
+21:43:57.430400> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:43:57.430400> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:43:58.630470> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+22:07:28.494246>  DevSELL (-): -74.88887500 avgGapSell:72.00887500 
+22:07:45.643229>  DevSELL (-): -72.14887500 avgGapSell:72.00887500 
+22:07:50.146489> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+22:07:55.623801> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+22:07:56.784868> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+22:08:08.618546> WebSocket connected! Start @depth [Future] process...
+22:08:27.934657> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+22:08:27.935655> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+22:08:29.068731> WebSocket connected! Start @depth [Future] process...
+22:09:19.316601>  DevBUY (-): 100.02037500 avgGapBuy:61.53962500 
+22:09:19.330601>  DevSELL (-): -151.72037500 avgGapSell:61.54037500 
+22:09:19.720623>  DevSELL (+): -80.62037500 avgGapSell:61.54037500 
+22:09:24.860930>  DevSELL (+): -63.88037500 avgGapSell:61.54037500 
+22:09:28.757143>  DevSELL (+): -73.18037500 avgGapSell:61.54037500 
+22:09:29.318171>  DevSELL (-): -93.87037500 avgGapSell:61.54037500 
+22:09:30.537244>  DevSELL (-): -105.57037500 avgGapSell:61.54037500 
+22:09:31.355289>  DevSELL (+): -156.16037500 avgGapSell:61.54037500 
+22:09:31.965324>  DevSELL (-): -107.85037500 avgGapSell:61.54037500 
+22:09:36.999615> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+22:09:37.799661> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+22:09:43.118963> WebSocket connected! Start @depth [Future] process...
+22:09:43.728999> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+22:09:43.796001> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+22:09:46.986186> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+22:10:31.996768>  DevSELL (-): -89.85037500 avgGapSell:61.54037500 
+22:10:32.007768>  DevSELL (-): -96.13037500 avgGapSell:61.54037500 
+22:10:33.179840>  DevSELL (-): -142.51037500 avgGapSell:61.54037500 
+22:10:33.188838>  DevSELL (+): -127.91037500 avgGapSell:61.54037500 
+22:10:33.210840>  DevSELL (+): -135.33037500 avgGapSell:61.54037500 
+22:10:33.486854>  DevSELL (-): -143.33037500 avgGapSell:61.54037500 
+22:10:37.242068> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+22:10:37.243068> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+22:10:38.514141> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+22:10:46.665606> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+22:10:48.444710> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+22:10:49.966797> WebSocket connected! Start @depth [Future] process...

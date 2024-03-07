@@ -1,0 +1,20 @@
+21:45:10.320133> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:45:10.320133> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:45:10.323135> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:45:10.324135> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:45:10.710155> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:45:10.730157> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:45:11.814221> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:45:11.815223> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:45:11.815223> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:45:12.244252> WebSocket connected! Start @depth [Future] process...
+21:45:12.978286> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:45:12.978286> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again..
+21:45:14.062348> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:45:14.063354> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:45:14.063354> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:45:14.063354> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:45:15.383423> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:45:15.390424> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:45:15.395425> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:45:15.399426> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..

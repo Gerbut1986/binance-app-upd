@@ -1,0 +1,304 @@
+﻿<UserControl x:Class="BinanceOptionsApp.TradeMultiLegSpread"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BinanceOptionsApp"
+             xmlns:controls="clr-namespace:BinanceOptionsApp.Controls"
+             xmlns:models="clr-namespace:BinanceOptionsApp.Models"
+             xmlns:vm="clr-namespace:VisualMarketsEngine;assembly=VisualMarketsEngine"
+             mc:Ignorable="d" 
+             d:DesignHeight="650" d:DesignWidth="1024">
+    <Grid>
+        <Grid.Resources>
+            <ResourceDictionary>
+                <ResourceDictionary.MergedDictionaries>
+                    <ResourceDictionary Source="CustomStyles/ListBoxStyles.xaml"></ResourceDictionary>
+                    <ResourceDictionary Source="CustomStyles/TextBoxStyles.xaml"></ResourceDictionary>
+                    <ResourceDictionary Source="CustomStyles/GroupBoxStyles.xaml"></ResourceDictionary>
+                    <ResourceDictionary Source="CustomStyles/ComboBoxStyles.xaml"></ResourceDictionary>
+                    <ResourceDictionary Source="CustomStyles/CheckBoxStyles.xaml"></ResourceDictionary>
+                    <ResourceDictionary Source="CustomStyles/ScrollBarStyles.xaml"></ResourceDictionary>
+                </ResourceDictionary.MergedDictionaries>
+            </ResourceDictionary>
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4.5*"></RowDefinition>
+            <RowDefinition Height="4.5*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <GroupBox Header="{DynamicResource locTabControl}" Margin="5" Style="{StaticResource myLeftGroupBox}"
+                      Background="{StaticResource cwWindowTitleBackground}"
+                      IsEnabled="{Binding Started,Converter={StaticResource bToBi}}">
+                <Grid Background="{StaticResource cwGrayBackground}">
+                    <StackPanel VerticalAlignment="Center" Margin="5">
+                        <local:ProviderControl x:Name="fast"></local:ProviderControl>
+                        <Grid Margin="0,10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition Width="5"></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Button Style="{StaticResource myBlueButton}" MinWidth="130" Click="Button_Click">Add Broker</Button>
+                            <Button x:Name="removeBroker" Style="{StaticResource myRedButton}" Grid.Column="2" MinWidth="130" Click="Button_Click_1" Margin="5,0,0,0">Remove Broker</Button>
+                        </Grid>
+                    </StackPanel>
+                </Grid>
+            </GroupBox>
+        </Grid>
+        <Grid Grid.Row="0" Grid.Column="1">
+            <GroupBox Header="{DynamicResource locTabTrading}" Grid.Row="0" Margin="5" Style="{StaticResource myLeftGroupBox}" 
+                      Background="{StaticResource cwWindowTitleBackground}">
+                <Grid Background="{StaticResource cwGrayBackground}">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <GroupBox Header="{DynamicResource locTabProcess}" Margin="5,3" Padding="5,3" Style="{StaticResource LightGroupBox}">
+                        <StackPanel Orientation="Vertical">
+                            <StackPanel Orientation="Vertical" IsEnabled="{Binding Started,Converter={StaticResource bToBi}}">
+                                <StackPanel Orientation="Horizontal">
+                                    <CheckBox IsChecked="{Binding Log}" Content="{DynamicResource locTabLogCheck}"></CheckBox>
+                                </StackPanel>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"></RowDefinition>
+                                        <RowDefinition Height="Auto"></RowDefinition>
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition Width="3"></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Grid.Row="0" Grid.Column="0" Text="{DynamicResource locTabSlippage}"></TextBlock>
+                                    <controls:IntegerTextBox Grid.Row="1" Grid.Column="0" Value="{Binding Slippage,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"></controls:IntegerTextBox>
+                                    <TextBlock Grid.Row="0" Grid.Column="2" Text="{DynamicResource locTabPoint}"></TextBlock>
+                                    <controls:DecimalTextBox Grid.Row="1" Grid.Column="2" Value="{Binding Point,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" FractionalPart="8"></controls:DecimalTextBox>
+                                </Grid>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"></RowDefinition>
+                                        <RowDefinition Height="Auto"></RowDefinition>
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition Width="3"></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Grid.Row="0" Grid.Column="0" Text="{DynamicResource locTabMagic}"></TextBlock>
+                                    <controls:IntegerTextBox Grid.Row="1" Grid.Column="0" Value="{Binding Magic,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"></controls:IntegerTextBox>
+                                    <TextBlock Grid.Row="0" Grid.Column="2" Text="{DynamicResource locTabComission}"></TextBlock>
+                                    <controls:IntegerTextBox Grid.Row="1" Grid.Column="2" Value="{Binding Comission,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"></controls:IntegerTextBox>
+                                </Grid>
+                                <TextBlock Text="{DynamicResource locTabSleep}"></TextBlock>
+                                <controls:IntegerTextBox Value="{Binding SleepMs,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"></controls:IntegerTextBox>
+                            </StackPanel>
+                            <Grid Height="Auto" Margin="0,10">
+                                <Button x:Name="buStart" Style="{StaticResource myBlueButton}" Width="80" Click="BuStart_Click" Visibility="{Binding Started,Converter={StaticResource bToVi}}" Content="{DynamicResource locStart}"></Button>
+                                <Button x:Name="buStop" Style="{StaticResource myRedButton}" Width="80" Click="BuStop_Click" Visibility="{Binding Started,Converter={StaticResource bToV}}" Content="{DynamicResource locStop}"></Button>
+                                <Button x:Name="buLoad" Style="{StaticResource myLoadButton}" IsEnabled="{Binding Started,Converter={StaticResource bToBi}}" Click="BuLoad_Click"></Button>
+                                <Button x:Name="buSave" Style="{StaticResource mySaveButton}" IsEnabled="{Binding Started,Converter={StaticResource bToBi}}" Click="BuSave_Click"></Button>
+                            </Grid>
+                        </StackPanel>
+                    </GroupBox>
+                    <GroupBox Margin="0,3,5,3" Padding="5,3"  Grid.Column="1" Style="{StaticResource LightGroupBox}">
+                        <GroupBox.Header>
+                            <StackPanel Orientation="Horizontal">
+                                <CheckBox IsChecked="{Binding AllowOpen}" VerticalAlignment="Center" VerticalContentAlignment="Center" Content="{DynamicResource locTabOpen}"></CheckBox>
+                                <TextBlock x:Name="tbOpenOrderType" TextDecorations="Underline" Margin="15,0,0,0" Cursor="Hand" MouseLeftButtonUp="TbOpenOrderType_MouseLeftButtonUp" Text="{Binding Open.OrderTypeString}"></TextBlock>
+                            </StackPanel>
+                        </GroupBox.Header>
+                        <StackPanel Orientation="Vertical">
+                            <TextBlock Text="{DynamicResource locTabMinLevelOpen}"></TextBlock>
+                            <controls:DecimalTextBox Value="{Binding Open.MinimumLevel,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" FractionalPart="2"></controls:DecimalTextBox>
+
+                            <Grid x:Name="workTimeGrid">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"></RowDefinition>
+                                    <RowDefinition Height="Auto"></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition></ColumnDefinition>
+                                    <ColumnDefinition Width="3"></ColumnDefinition>
+                                    <ColumnDefinition></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Grid.Row="0" Grid.Column="0" Text="{DynamicResource locTabStartTime}"></TextBlock>
+                                <TextBox Grid.Row="1" Grid.Column="0" Text="{Binding Open.StartTime,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"></TextBox>
+                                <TextBlock Grid.Row="0" Grid.Column="2" Text="{DynamicResource locTabStopTime}"></TextBlock>
+                                <TextBox Grid.Row="1" Grid.Column="2" Text="{Binding Open.EndTime,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"></TextBox>
+                            </Grid>
+
+                            <TextBlock x:Name="openLotText" Text="{DynamicResource locTabLot}"></TextBlock>
+                            <controls:DecimalTextBox x:Name="openLotValue" Value="{Binding ElementName=list, Path=SelectedValue.MultiLegOpenVolume,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" FractionalPart="8"></controls:DecimalTextBox>
+
+
+                        </StackPanel>
+                    </GroupBox>
+                    <GroupBox Margin="0,3,5,3" Padding="5,3"  Grid.Column="2" Style="{StaticResource LightGroupBox}">
+                        <GroupBox.Header>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock VerticalAlignment="Center" Text="{DynamicResource locTabClose}"></TextBlock>
+                                <TextBlock x:Name="tbCloseOrderType" TextDecorations="Underline" Margin="15,0,0,0" Cursor="Hand" MouseLeftButtonUp="TbCloseOrderType_MouseLeftButtonUp" Text="{Binding Close.OrderTypeString}"></TextBlock>
+                            </StackPanel>
+                        </GroupBox.Header>
+                        <StackPanel Orientation="Vertical">
+                            <TextBlock Text="{DynamicResource locTabMinLevelClose}"></TextBlock>
+                            <controls:DecimalTextBox Value="{Binding Close.MinimumLevelClose,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" FractionalPart="2"></controls:DecimalTextBox>
+                            <TextBlock Text="{DynamicResource locTabFixTP}"></TextBlock>
+                            <controls:DecimalTextBox Value="{Binding Close.FixTP,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" FractionalPart="2"></controls:DecimalTextBox>
+                            <TextBlock Text="{DynamicResource locTabFixSL}"></TextBlock>
+                            <controls:DecimalTextBox Value="{Binding Close.FixSL,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" FractionalPart="2"></controls:DecimalTextBox>
+
+                            <Grid x:Name="gridMinOrderTime">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition></ColumnDefinition>
+                                    <ColumnDefinition Width="3"></ColumnDefinition>
+                                    <ColumnDefinition></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Grid.Row="0" Grid.Column="0" Text="{DynamicResource locTabMinOrderTime}"></TextBlock>
+                                <TextBlock Grid.Row="0" Grid.Column="2" Text="{DynamicResource locTabCloseTimer}"></TextBlock>
+                                <controls:IntegerTextBox Grid.Row="1" Grid.Column="0" Value="{Binding Open.MinOrderTimeSec,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"></controls:IntegerTextBox>
+                                <controls:IntegerTextBox Grid.Row="1" Grid.Column="2" Value="{Binding Close.CloseTimerSec,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"></controls:IntegerTextBox>
+                            </Grid>
+                        </StackPanel>
+                    </GroupBox>
+                </Grid>
+            </GroupBox>
+        </Grid>
+        <GroupBox Header="{DynamicResource locTabBrokers}" Grid.Row="1" Grid.ColumnSpan="2" Margin="3" Style="{StaticResource myLeftGroupBox}" 
+                      Background="{StaticResource cwWindowTitleBackground}">
+            <ListBox x:Name="list" ItemsSource="{Binding Providers}" 
+                     Background="{StaticResource cwWindowTitleBackground}" 
+                     BorderThickness="0" ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                     Foreground="White" SelectionChanged="List_SelectionChanged">
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel Orientation="Horizontal"></WrapPanel>
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+                <ListBox.ItemContainerStyle>
+                    <Style TargetType="ListBoxItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="ListBoxItem">
+                                    <Border Name="_Border" Padding="3" SnapsToDevicePixels="true">
+                                        <Border.BorderBrush>
+                                            <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                                                <LinearGradientBrush.GradientStops>
+                                                    <GradientStop Offset="0" Color="#ff6e02"></GradientStop>
+                                                    <GradientStop Offset="0.5" Color="#ffff00"></GradientStop>
+                                                    <GradientStop Offset="1" Color="#ff6e02"></GradientStop>
+                                                </LinearGradientBrush.GradientStops>
+                                            </LinearGradientBrush>
+                                        </Border.BorderBrush>
+                                        <ContentPresenter />
+                                    </Border>
+                                    <ControlTemplate.Triggers>
+                                        <Trigger Property="IsSelected" Value="True">
+                                            <Setter TargetName="_Border" Property="BorderThickness" Value="3"></Setter>
+                                            <Setter TargetName="_Border" Property="Padding" Value="0"></Setter>
+                                        </Trigger>
+                                    </ControlTemplate.Triggers>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </ListBox.ItemContainerStyle>
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Border Background="{Binding Path=.,Converter={StaticResource minmax}}" 
+                                BorderThickness="1" Width="200">
+                            <Border.BorderBrush>
+                                <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                                    <LinearGradientBrush.GradientStops>
+                                        <GradientStop Offset="0" Color="#ff6e02"></GradientStop>
+                                        <GradientStop Offset="0.5" Color="#ffff00"></GradientStop>
+                                        <GradientStop Offset="1" Color="#ff6e02"></GradientStop>
+                                    </LinearGradientBrush.GradientStops>
+                                </LinearGradientBrush>
+                            </Border.BorderBrush>
+
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"></RowDefinition>
+                                    <RowDefinition Height="Auto"></RowDefinition>
+                                    <RowDefinition Height="Auto"></RowDefinition>
+                                    <RowDefinition Height="Auto"></RowDefinition>
+                                    <RowDefinition Height="Auto"></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <TextBlock HorizontalAlignment="Stretch" TextAlignment="Center" FontWeight="Bold" Text="{Binding Name}" Margin="5"></TextBlock>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="1" Margin="3">
+                                    <TextBlock Text="{Binding Prefix}"></TextBlock>
+                                    <TextBlock Text="{Binding Symbol}"></TextBlock>
+                                    <TextBlock Text="{Binding Postfix}"></TextBlock>
+                                    <TextBlock Text="{DynamicResource locMultiOpenVolume}" Margin="5,0,5,0"></TextBlock>
+                                    <TextBlock Text="{Binding MultiLegOpenVolume,Converter={StaticResource volConv}}"></TextBlock>
+                                </StackPanel>
+                                <Grid Grid.Row="2">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition Width="10"></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Grid.Column="0" HorizontalAlignment="Right" Foreground="#ffec00">
+                                        <TextBlock.Text>
+                                            <MultiBinding Converter="{StaticResource priceConv}">
+                                                <Binding Path="."></Binding>
+                                                <Binding Path="Bid"></Binding>
+                                            </MultiBinding>
+                                        </TextBlock.Text>
+                                    </TextBlock>
+                                    <TextBlock Grid.Column="2" HorizontalAlignment="Left" Foreground="#97e2f9">
+                                        <TextBlock.Text>
+                                            <MultiBinding Converter="{StaticResource priceConv}">
+                                                <Binding Path="."></Binding>
+                                                <Binding Path="Ask"></Binding>
+                                            </MultiBinding>
+                                        </TextBlock.Text>
+                                    </TextBlock>
+                                </Grid>
+                                <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Center">
+                                    <TextBlock Text="{Binding Volume,Converter={StaticResource volConv}}"></TextBlock>
+                                    <TextBlock Margin="5,0,0,0" Text="{DynamicResource locTabBrokerLot}"></TextBlock>
+                                </StackPanel>
+                                <StackPanel Grid.Row="4" Orientation="Horizontal" HorizontalAlignment="Left">
+                                    <TextBlock Text="{DynamicResource locTabGap}"></TextBlock>
+                                    <TextBlock Margin="5,0,0,0" Text="{Binding MultiLegGap,Converter={StaticResource volConv}}"></TextBlock>
+                                </StackPanel>
+                                <StackPanel Grid.Row="4" Orientation="Horizontal" HorizontalAlignment="Right">
+                                    <TextBlock Text="{Binding MultiLegProfit,Converter={StaticResource volConv}}"></TextBlock>
+                                    <TextBlock Margin="5,0,0,0" Text="{DynamicResource locTabBrokerPoint}"></TextBlock>
+                                </StackPanel>
+                            </Grid>
+                        </Border>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </GroupBox>
+        <GroupBox Header="{DynamicResource locTabStrategyLog}" Grid.Row="2" Grid.ColumnSpan="2" Margin="5" Style="{StaticResource myLeftGroupBox}" 
+                  Background="{StaticResource cwTabStripBackground}">
+            <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" 
+                          Background="{StaticResource cwWindowTitleBackground}">
+                <TextBlock x:Name="logBlock" TextWrapping="Wrap" FontFamily="Courier" Margin="5"></TextBlock>
+            </ScrollViewer>
+        </GroupBox>
+        <Button x:Name="logClear" Click="LogClear_Click"
+            Style="{StaticResource myLogCloseButton}" MinWidth="22" Margin="5,5,0,0" Grid.Row="2" 
+            VerticalAlignment="Top" HorizontalAlignment="Left">X</Button>
+    </Grid>
+</UserControl>

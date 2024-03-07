@@ -1,0 +1,74 @@
+﻿<Window x:Class="BinanceOptionsApp.ProviderEditDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BinanceOptionsApp"
+        mc:Ignorable="d"
+        Height="250" Width="540" WindowStartupLocation="CenterOwner" Loaded="Window_Loaded"
+        xmlns:cs="clr-namespace:BinanceOptionsApp.CustomStyles"
+        Style="{StaticResource cwWindowStyle}"
+        ResizeMode="NoResize"
+        Foreground="White" Title="Edit Provider"
+        FontSize="14"
+        xmlns:controls="clr-namespace:BinanceOptionsApp.Controls">
+    
+    <Grid Background="Gray">
+        <Grid.Resources>
+            <ResourceDictionary>
+                <ResourceDictionary.MergedDictionaries>
+                    <ResourceDictionary Source="CustomStyles/GroupBoxStyles.xaml"></ResourceDictionary>
+                    <ResourceDictionary Source="CustomStyles/TextBoxStyles.xaml"></ResourceDictionary>
+                    <ResourceDictionary Source="CustomStyles/CheckBoxStyles.xaml"></ResourceDictionary>
+                    <ResourceDictionary Source="CustomStyles/ButtonStyles.xaml"></ResourceDictionary>
+                </ResourceDictionary.MergedDictionaries>
+                <Style TargetType="TextBox" BasedOn="{StaticResource EditorTextBox}"></Style>
+                <Style TargetType="CheckBox" BasedOn="{StaticResource LightCheckBox}"></Style>
+                <Style TargetType="controls:IntegerTextBox" BasedOn="{StaticResource EditorTextBox}"></Style>
+                <Style TargetType="Button" BasedOn="{StaticResource myGreenThinButton}"></Style>
+                <Style TargetType="GroupBox" BasedOn="{StaticResource StandardGroupBox}"></Style>
+            </ResourceDictionary>
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="48"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel VerticalAlignment="Center" Orientation="Vertical" Margin="5">
+            <local:ProviderControl x:Name="providerControl"/>
+            <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                <TextBlock VerticalAlignment="Center" MinWidth="80">Bid Color:</TextBlock>
+                <Border Margin="5,0,0,0" BorderBrush="LightBlue" BorderThickness="1" Width="80" Height="24" MouseLeftButtonUp="Border_MouseLeftButtonUp" Cursor="Hand">
+                    <Border.Background>
+                        <SolidColorBrush Color="{Binding BidColor}"/>
+                    </Border.Background>
+                </Border>
+                <TextBlock Margin="15,0,0,0" VerticalAlignment="Center" MinWidth="80">Bid Width:</TextBlock>
+                <controls:IntegerTextBox Value="{Binding BidWidth}" MinWidth="80" VerticalAlignment="Center" Margin="5,0,0,0"></controls:IntegerTextBox>
+                <Rectangle VerticalAlignment="Center" MinWidth="120" Height="{Binding BidWidth}" Margin="15,0,0,0">
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="{Binding BidColor}"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                <TextBlock VerticalAlignment="Center" MinWidth="80">Ask Color:</TextBlock>
+                <Border Margin="5,0,0,0" BorderBrush="LightBlue" BorderThickness="1" Width="80" Height="24" MouseLeftButtonUp="Border_MouseLeftButtonUpAsk" Cursor="Hand">
+                    <Border.Background>
+                        <SolidColorBrush Color="{Binding AskColor}"/>
+                    </Border.Background>
+                </Border>
+                <TextBlock Margin="15,0,0,0" VerticalAlignment="Center" MinWidth="80">Ask Width:</TextBlock>
+                <controls:IntegerTextBox Value="{Binding AskWidth}" MinWidth="80" VerticalAlignment="Center" Margin="5,0,0,0"></controls:IntegerTextBox>
+                <Rectangle VerticalAlignment="Center" MinWidth="120" Height="{Binding AskWidth}" Margin="15,0,0,0">
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="{Binding AskColor}"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Button x:Name="buAccept" Style="{StaticResource myBlueButton}" MinWidth="80" IsDefault="True" Click="BuAccept_Click" Content="{DynamicResource locDlgAccept}"></Button>
+            <Button x:Name="buCancel" Style="{StaticResource myRedButton}" MinWidth="80" Margin="5,0,0,0" IsCancel="True" Click="BuCancel_Click" Content="{DynamicResource locDlgCancel}"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

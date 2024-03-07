@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JSemb1+v8OjuqctQYSsE09CqFayfyW31db6UmQ49WkVRdT3eXBgxZ743PAYynrfKwVQiFb/m7Z2r0zEL5ijpjw==",
+  "success": true,
+  "projectFilePath": "/home/runner/work/SuperSocket/SuperSocket/pkg/SuperSocket.WebSocketServer.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.build.tasks.git/1.0.0/microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.sourcelink.common/1.0.0/microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.sourcelink.github/1.0.0/microsoft.sourcelink.github.1.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

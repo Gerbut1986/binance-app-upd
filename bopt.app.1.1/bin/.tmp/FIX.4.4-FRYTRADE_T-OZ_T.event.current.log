@@ -1,0 +1,52 @@
+20210603-17:33:35.856 : Created session
+20210603-17:33:35.888 : Connecting to 216.93.241.29 on port 23985
+20210603-17:33:36.140 : Connection succeeded
+20210603-17:33:36.140 : Session reset: ResetOnLogon
+20210603-17:33:36.140 : Session reset: ResetSeqNumFlag
+20210603-17:33:36.140 : Initiated logon request
+20210603-17:33:36.218 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20210603-17:33:36.218 : Received logon
+20210603-17:34:26.762 : Initiated logout request
+20210603-17:34:26.832 : Received logout response
+20210603-17:34:26.832 : Session reset: ResetOnLogout
+20210603-17:34:26.832 : Session FIX.4.4:FRYTRADE_T->OZ_T disconnecting: Received logout response
+20210603-17:34:26.832 : Session reset: ResetOnDisconnect
+20210603-17:35:43.588 : Created session
+20210603-17:35:43.619 : Connecting to 216.93.241.29 on port 23985
+20210603-17:35:43.853 : Connection succeeded
+20210603-17:35:43.853 : Session reset: ResetOnLogon
+20210603-17:35:43.853 : Session reset: ResetSeqNumFlag
+20210603-17:35:43.853 : Initiated logon request
+20210603-17:35:43.931 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20210603-17:35:43.931 : Received logon
+20210603-17:37:29.092 : Initiated logout request
+20210603-17:37:29.170 : Received logout response
+20210603-17:37:29.170 : Session reset: ResetOnLogout
+20210603-17:37:29.170 : Session FIX.4.4:FRYTRADE_T->OZ_T disconnecting: Received logout response
+20210603-17:37:29.170 : Session reset: ResetOnDisconnect
+20210603-17:37:45.144 : Created session
+20210603-17:37:45.175 : Connecting to 216.93.241.29 on port 23985
+20210603-17:37:45.425 : Connection succeeded
+20210603-17:37:45.425 : Session reset: ResetOnLogon
+20210603-17:37:45.425 : Session reset: ResetSeqNumFlag
+20210603-17:37:45.425 : Initiated logon request
+20210603-17:37:45.503 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20210603-17:37:45.503 : Received logon
+20210603-17:38:12.170 : Initiated logout request
+20210603-17:38:12.233 : Received logout response
+20210603-17:38:12.248 : Session reset: ResetOnLogout
+20210603-17:38:12.248 : Session FIX.4.4:FRYTRADE_T->OZ_T disconnecting: Received logout response
+20210603-17:38:12.248 : Session reset: ResetOnDisconnect
+20210603-17:38:19.521 : Created session
+20210603-17:38:19.552 : Connecting to 216.93.241.29 on port 23985
+20210603-17:38:19.786 : Connection succeeded
+20210603-17:38:19.786 : Session reset: ResetOnLogon
+20210603-17:38:19.786 : Session reset: ResetSeqNumFlag
+20210603-17:38:19.786 : Initiated logon request
+20210603-17:38:19.865 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20210603-17:38:19.865 : Received logon
+20210603-17:38:25.912 : Initiated logout request
+20210603-17:38:25.975 : Received logout response
+20210603-17:38:25.991 : Session reset: ResetOnLogout
+20210603-17:38:25.991 : Session FIX.4.4:FRYTRADE_T->OZ_T disconnecting: Received logout response
+20210603-17:38:26.006 : Session reset: ResetOnDisconnect

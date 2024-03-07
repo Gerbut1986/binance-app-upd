@@ -1,0 +1,93 @@
+19:00:35.027102> WebSocket connected! Start [MARGIN] @depth@100ms process...
+19:00:35.047099> WebSocket connected! Start Partial @depth10 [MARGIN] process...
+19:00:35.080098> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+19:00:35.236107> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:00:35.331116> WebSocket connected! Start Partial @depth10 [Future] process...
+19:00:35.437122> New Max DevBuy: 0.00000000 GapBuy:-0.02800000 avgGapBuy:-0.02800000 deviationBuy:0.00000000
+19:00:35.438120> Ask1: 100.05000000 Bid1:100.04000000 Ask2:100.0230 Bid2:100.0220
+19:00:35.438120> New Min DevSell: 0.00000000 GapSell:-0.01700000 avgGapSell:-0.01700000 deviationSell:0.00000000
+19:00:35.438120> Ask1: 100.05000000 Bid1:100.04000000 Ask2:100.0230 Bid2:100.0220
+19:00:37.198310> WebSocket connected! Start Partial @depth10 [MARGIN] process...
+19:00:37.205310> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+19:00:37.206311> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:00:37.216310> WebSocket connected! Start Partial @depth10 [Future] process...
+19:00:37.226311> Binance - Vxxv1AWf[MARGIN] MARGIN Balance: 195.22807737 USDT
+19:00:37.742340> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 69.44887885 USDT
+19:00:37.745340> WebSocket connected! Start [MARGIN] @depth@100ms process...
+19:01:53.001914> Binance - Vxxv1AWf[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+19:01:53.728208> [1Leg]: Sell FAILED solusdt;Gap=0;Price=100.01000
+19:07:01.650782> New Max DevBuy: 0.00200000 GapBuy:-0.02400000 avgGapBuy:-0.02600000 deviationBuy:0.00200000
+19:07:01.651780> Ask1: 100.01000000 Bid1:100.00000000 Ask2:99.9870 Bid2:99.9860
+19:07:01.711789> New Min DevSell: 0.00400000 GapSell:-0.01300000 avgGapSell:-0.01700000 deviationSell:0.00400000
+19:07:01.712785> Ask1: 100.01000000 Bid1:100.00000000 Ask2:99.9870 Bid2:99.9860
+19:07:01.834791> New Min DevSell: -0.01100000 GapSell:-0.02800000 avgGapSell:-0.01700000 deviationSell:-0.01100000
+19:07:01.836793> Ask1: 100.01000000 Bid1:100.00000000 Ask2:99.9720 Bid2:99.9710
+19:07:02.060806> New Min DevSell: -0.01200000 GapSell:-0.02900000 avgGapSell:-0.01700000 deviationSell:-0.01200000
+19:07:02.062805> Ask1: 100.01000000 Bid1:100.00000000 Ask2:99.9740 Bid2:99.9730
+19:07:02.174811> New Min DevSell: -0.02100000 GapSell:-0.03800000 avgGapSell:-0.01700000 deviationSell:-0.02100000
+19:07:02.175812> Ask1: 99.96000000 Bid1:99.95000000 Ask2:99.9220 Bid2:99.9210
+19:07:02.188813> New Min DevSell: -0.03700000 GapSell:-0.05400000 avgGapSell:-0.01700000 deviationSell:-0.03700000
+19:07:02.188813> Ask1: 99.96000000 Bid1:99.95000000 Ask2:99.8960 Bid2:99.8950
+19:07:02.221814> New Max DevBuy: 0.0104545454545454545454545455 GapBuy:-0.02900000 avgGapBuy:-0.0394545454545454545454545455 deviationBuy:0.0104545454545454545454545455
+19:07:02.328818> Ask1: 99.94000000 Bid1:99.93000000 Ask2:99.8950 Bid2:99.8940
+19:07:02.424827> New Min DevSell: -0.03800000 GapSell:-0.05500000 avgGapSell:-0.01700000 deviationSell:-0.03800000
+19:07:02.424827> Ask1: 99.94000000 Bid1:99.93000000 Ask2:99.8750 Bid2:99.8740
+19:07:02.467829> New Min DevSell: -0.05300000 GapSell:-0.07000000 avgGapSell:-0.01700000 deviationSell:-0.05300000
+19:07:02.468829> Ask1: 99.94000000 Bid1:99.93000000 Ask2:99.8600 Bid2:99.8590
+19:07:02.534832> New Min DevSell: -0.06300000 GapSell:-0.08000000 avgGapSell:-0.01700000 deviationSell:-0.06300000
+19:07:02.535832> Ask1: 99.94000000 Bid1:99.93000000 Ask2:99.8500 Bid2:99.8490
+19:07:02.587834> New Max DevBuy: 0.0434444444444444444444444444 GapBuy:-0.00100000 avgGapBuy:-0.0444444444444444444444444444 deviationBuy:0.0434444444444444444444444444
+19:07:02.588836> Ask1: 99.88000000 Bid1:99.87000000 Ask2:99.8800 Bid2:99.8790
+19:07:02.746844> New Min DevSell: -0.06500000 GapSell:-0.08200000 avgGapSell:-0.01700000 deviationSell:-0.06500000
+19:07:02.750844> Ask1: 99.91000000 Bid1:99.90000000 Ask2:99.8180 Bid2:99.8170
+19:07:02.751845> New Min DevSell: -0.09500000 GapSell:-0.11200000 avgGapSell:-0.01700000 deviationSell:-0.09500000
+19:07:02.755845> Ask1: 99.94000000 Bid1:99.93000000 Ask2:99.8180 Bid2:99.8170
+19:07:02.771848> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:07:02.773845> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again..
+19:07:02.853849> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again..
+19:07:03.041860> New Max DevBuy: 0.0501739130434782608695652174 GapBuy:0.00300000 avgGapBuy:-0.0471739130434782608695652174 deviationBuy:0.0501739130434782608695652174
+19:07:03.046860> Ask1: 99.87000000 Bid1:99.86000000 Ask2:99.8740 Bid2:99.8730
+19:07:04.141926> New Max DevBuy: 0.0768863636363636363636363636 GapBuy:0.03600000 avgGapBuy:-0.0408863636363636363636363636 deviationBuy:0.0768863636363636363636363636
+19:07:04.146925> Ask1: 99.91000000 Bid1:99.94000000 Ask2:99.8740 Bid2:99.8730
+19:07:04.453943> New Min DevSell: -0.09900000 GapSell:-0.11600000 avgGapSell:-0.01700000 deviationSell:-0.09900000
+19:07:04.454942> Ask1: 100.00000000 Bid1:99.99000000 Ask2:99.8740 Bid2:99.8730
+19:07:04.514946> New Min DevSell: -0.13900000 GapSell:-0.15600000 avgGapSell:-0.01700000 deviationSell:-0.13900000
+19:07:04.515946> Ask1: 100.04000000 Bid1:100.03000000 Ask2:99.8740 Bid2:99.8730
+19:07:04.598950> New Min DevSell: -0.15900000 GapSell:-0.17600000 avgGapSell:-0.01700000 deviationSell:-0.15900000
+19:07:04.599951> Ask1: 100.06000000 Bid1:100.05000000 Ask2:99.8740 Bid2:99.8730
+19:07:04.921969> New Min DevSell: -0.19900000 GapSell:-0.21600000 avgGapSell:-0.01700000 deviationSell:-0.19900000
+19:07:04.922970> Ask1: 100.10000000 Bid1:100.09000000 Ask2:99.8740 Bid2:99.8730
+19:07:05.018975> WebSocket connected! Start @depth [Future] process...
+19:07:05.416996> New Min DevSell: -0.20900000 GapSell:-0.22600000 avgGapSell:-0.01700000 deviationSell:-0.20900000
+19:07:05.426997> Ask1: 100.11000000 Bid1:100.10000000 Ask2:99.8740 Bid2:99.8730
+19:07:05.505003> WebSocket connected! Start @depth [Future] process...
+19:07:05.631011> New Min DevSell: -0.21900000 GapSell:-0.23600000 avgGapSell:-0.01700000 deviationSell:-0.21900000
+19:07:05.631011> Ask1: 100.12000000 Bid1:100.11000000 Ask2:99.8740 Bid2:99.8730
+19:07:06.175041> New Min DevSell: -0.22900000 GapSell:-0.24600000 avgGapSell:-0.01700000 deviationSell:-0.22900000
+19:07:06.176040> Ask1: 100.13000000 Bid1:100.12000000 Ask2:99.8740 Bid2:99.8730
+19:07:07.174098> New Min DevSell: -0.24900000 GapSell:-0.26600000 avgGapSell:-0.01700000 deviationSell:-0.24900000
+19:07:07.175098> Ask1: 100.15000000 Bid1:100.14000000 Ask2:99.8740 Bid2:99.8730
+19:07:07.813135> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:07:07.813135> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+19:07:07.859204> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:07:07.871136> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+19:07:09.057209> WebSocket connected! Start @depth [Future] process...
+19:07:09.239216> WebSocket connected! Start @depth [Future] process...
+19:08:06.666026> New Max DevBuy: 0.07870000 GapBuy:-0.11700000 avgGapBuy:-0.19570000 deviationBuy:0.07870000
+19:08:06.667026> Ask1: 99.99000000 Bid1:99.98000000 Ask2:99.8740 Bid2:99.8730
+19:08:07.529484> New Max DevBuy: 0.09780000 GapBuy:-0.09700000 avgGapBuy:-0.19480000 deviationBuy:0.09780000
+19:08:07.529484> Ask1: 99.97000000 Bid1:99.96000000 Ask2:99.8740 Bid2:99.8730
+19:08:12.247275> New Max DevBuy: 0.10800000 GapBuy:-0.08700000 avgGapBuy:-0.19500000 deviationBuy:0.10800000
+19:08:12.249275> Ask1: 99.96000000 Bid1:99.95000000 Ask2:99.8740 Bid2:99.8730
+19:08:12.546293> New Max DevBuy: 0.11750000 GapBuy:-0.07700000 avgGapBuy:-0.19450000 deviationBuy:0.11750000
+19:08:12.546293> Ask1: 99.95000000 Bid1:99.94000000 Ask2:99.8740 Bid2:99.8730
+19:08:15.049218> New Max DevBuy: 0.12670000 GapBuy:-0.06700000 avgGapBuy:-0.19370000 deviationBuy:0.12670000
+19:08:15.051219> Ask1: 99.94000000 Bid1:99.93000000 Ask2:99.8740 Bid2:99.8730
+19:08:15.650253> New Max DevBuy: 0.13600000 GapBuy:-0.05700000 avgGapBuy:-0.19300000 deviationBuy:0.13600000
+19:08:15.650253> Ask1: 99.93000000 Bid1:99.92000000 Ask2:99.8740 Bid2:99.8730
+19:08:18.055177> New Max DevBuy: 0.14480000 GapBuy:-0.04700000 avgGapBuy:-0.19180000 deviationBuy:0.14480000
+19:08:18.056177> Ask1: 99.92000000 Bid1:99.91000000 Ask2:99.8740 Bid2:99.8730
+19:08:18.456203> New Max DevBuy: 0.15340000 GapBuy:-0.03700000 avgGapBuy:-0.19040000 deviationBuy:0.15340000
+19:08:18.457204> Ask1: 99.91000000 Bid1:99.90000000 Ask2:99.8740 Bid2:99.8730
+19:08:19.156343> New Max DevBuy: 0.16180000 GapBuy:-0.02700000 avgGapBuy:-0.18880000 deviationBuy:0.16180000
+19:08:19.156343> Ask1: 99.90000000 Bid1:99.89000000 Ask2:99.8740 Bid2:99.8730

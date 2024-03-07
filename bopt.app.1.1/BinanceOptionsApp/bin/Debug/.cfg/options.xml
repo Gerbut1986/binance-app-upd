@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<OptionsModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Smtp>
+    <Port>0</Port>
+    <SSL>false</SSL>
+  </Smtp>
+  <Clicker>
+    <UseClickerForOpen>false</UseClickerForOpen>
+    <UseClickerForClose>false</UseClickerForClose>
+    <XBuy>0</XBuy>
+    <YBuy>0</YBuy>
+    <XSell>0</XSell>
+    <YSell>0</YSell>
+    <XClose>0</XClose>
+    <YClose>0</YClose>
+  </Clicker>
+</OptionsModel>

@@ -1,0 +1,464 @@
+20:19:57.847269> WebSocket connected! Start @depth [Future] process...
+20:19:57.851261> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+20:19:57.862272> WebSocket connected! Start Partial @depth20 [Future] process...
+20:19:57.914261> WebSocket connected! Start [MARGIN] @depth@100ms process...
+20:19:57.918265> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:19:57.922265> WebSocket connected! Start Partial @depth20 [MARGIN] process...
+20:19:58.008278> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+20:19:58.013273> WebSocket connected! Start [MARGIN] @depth@100ms process...
+20:19:58.070276> WebSocket connected! Start Partial @depth20 [MARGIN] process...
+20:19:58.129274> Binance - Vxxv1AWf[MARGIN] MARGIN Balance: 0.55236018 USDT
+20:19:58.430295> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:19:58.478296> WebSocket connected! Start Partial @depth20 [Future] process...
+20:19:58.480296> WebSocket connected! Start @depth [Future] process...
+20:19:58.936635> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 0.66986043 USDT
+20:22:58.818248> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:22:58.820243> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:22:58.823244> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:22:58.823244> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:23:03.840531> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:23:03.841531> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:23:03.841531> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:23:03.842538> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:23:05.184607> WebSocket connected! Start @depth [Future] process...
+20:23:05.215609> WebSocket connected! Start @depth [Future] process...
+20:24:59.424158> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:24:59.425158> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:24:59.425158> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:24:59.426158> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:25:04.564465> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:25:04.565454> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:25:04.565454> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:25:04.566456> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:25:05.617513> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:25:05.768522> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:26:05.514664> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:26:05.521663> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:26:05.642672> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:26:05.943688> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:26:10.529953> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:26:10.701967> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:26:11.121985> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:26:13.133102> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:26:15.892259> WebSocket connected! Start @depth [Future] process...
+20:26:18.490548> WebSocket connected! Start @depth [Future] process...
+20:29:05.871006> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:29:05.872006> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:29:06.060016> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:29:06.061017> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:29:10.952298> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:29:10.952298> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:29:11.063301> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:29:11.068302> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:29:12.111395> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:29:12.313373> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:29:16.060590> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:29:16.061591> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:29:18.810747> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:29:18.823749> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:29:21.073878> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:29:21.073878> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:29:22.388953> WebSocket connected! Start @depth [Future] process...
+20:29:23.827036> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:29:23.828036> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:29:25.071107> WebSocket connected! Start @depth [Future] process...
+20:32:22.603162> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:32:22.616165> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:32:25.157309> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:32:25.157309> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:32:27.744480> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:32:27.762462> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:32:28.969526> WebSocket connected! Start @depth [Future] process...
+20:32:30.180597> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:32:30.245606> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:32:31.443669> WebSocket connected! Start @depth [Future] process...
+20:34:12.354455> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:34:12.355456> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:34:12.357455> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:34:12.381456> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:34:17.362742> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:34:17.362742> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:34:17.439747> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:34:17.439747> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:34:19.316855> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:34:19.413860> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:35:29.060732> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:35:29.062731> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:35:31.581860> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:35:31.582860> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:35:34.147003> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:35:34.148007> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:35:35.433087> WebSocket connected! Start @depth [Future] process...
+20:35:36.626150> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:35:36.626150> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:35:37.640210> WebSocket connected! Start @depth [Future] process...
+20:38:35.667424> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:38:35.681424> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:38:37.696532> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:38:37.696532> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:38:40.715705> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:38:40.718706> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:38:41.987777> WebSocket connected! Start @depth [Future] process...
+20:38:42.726820> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:38:42.726820> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:38:43.911887> WebSocket connected! Start @depth [Future] process...
+20:40:19.707380> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:40:19.707380> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:40:19.708382> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:40:19.708382> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:40:24.735668> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:40:24.736668> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:40:24.735668> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:40:24.737670> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:40:26.085746> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:40:26.349762> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:41:42.280115> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:41:42.281115> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:41:43.956211> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:41:43.956211> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:41:47.285403> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:41:47.286403> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:41:48.573474> WebSocket connected! Start @depth [Future] process...
+20:41:48.988498> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:41:48.995499> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:41:50.214570> WebSocket connected! Start @depth [Future] process...
+20:44:48.872814> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:44:48.873815> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:44:50.229898> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:44:50.230892> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:44:53.953103> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:44:53.956106> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:44:55.291180> WebSocket connected! Start @depth [Future] process...
+20:44:55.429189> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:44:55.517194> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:44:56.883271> WebSocket connected! Start @depth [Future] process...
+20:47:26.848872> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:47:26.849871> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:47:26.849871> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:47:26.850872> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:47:31.873160> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:47:31.873160> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:47:31.874160> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:47:31.875159> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:47:32.943221> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:47:32.999224> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:47:55.656531> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:47:55.657523> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:47:57.090605> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:47:57.090605> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:48:00.726818> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:48:00.726818> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:48:01.900880> WebSocket connected! Start @depth [Future] process...
+20:48:02.094892> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:48:02.094892> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:48:03.492976> WebSocket connected! Start @depth [Future] process...
+20:51:02.213220> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:51:02.214220> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:51:03.621302> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:51:03.635303> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:51:07.248868> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:51:07.257509> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:51:08.474868> WebSocket connected! Start @depth [Future] process...
+20:51:08.689591> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:51:08.690592> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:51:09.971675> WebSocket connected! Start @depth [Future] process...
+20:53:33.371888> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:53:33.371888> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:53:33.372887> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:53:33.373887> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:53:38.394176> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:53:38.394176> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:53:38.395175> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:53:38.395175> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:53:39.460239> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:53:39.525239> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:54:08.629910> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:54:08.630910> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:54:10.009988> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:54:10.009988> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:54:13.687198> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:54:13.688200> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:54:14.808264> WebSocket connected! Start @depth [Future] process...
+20:54:15.017274> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:54:15.017274> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:54:16.317349> WebSocket connected! Start @depth [Future] process...
+20:57:15.060706> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:57:15.061706> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:57:16.357780> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:57:16.357780> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:57:20.096996> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:57:20.096996> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:57:21.371068> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:57:21.371068> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:57:21.398069> WebSocket connected! Start @depth [Future] process...
+20:57:22.775147> WebSocket connected! Start @depth [Future] process...
+21:00:21.552400> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:00:21.553399> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:00:22.902477> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:00:22.905476> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:00:26.580688> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:00:26.582691> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:00:27.970767> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:00:27.975768> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:00:28.174779> WebSocket connected! Start @depth [Future] process...
+21:00:29.580859> WebSocket connected! Start @depth [Future] process...
+21:01:40.001897> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:01:40.001897> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:01:45.011184> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:01:45.025185> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:01:46.719283> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:02:40.091342> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:02:40.307361> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:02:45.318642> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:02:45.319643> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:02:46.588715> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:03:28.342108> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:03:28.342108> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:03:29.591181> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:03:29.591181> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:03:33.432400> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:03:33.433400> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:03:34.628469> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:03:34.662472> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:03:35.094497> WebSocket connected! Start @depth [Future] process...
+21:03:35.876540> WebSocket connected! Start @depth [Future] process...
+21:06:35.423835> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:06:35.424837> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:06:35.993870> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:06:36.017871> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:06:40.575132> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:06:40.575132> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:06:41.033156> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:06:41.033156> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:06:42.779258> WebSocket connected! Start @depth [Future] process...
+21:06:42.802259> WebSocket connected! Start @depth [Future] process...
+21:07:46.948936> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:07:47.017941> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:07:52.027228> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:07:52.028324> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:07:53.117290> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:08:46.863372> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:08:46.870372> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:08:51.891662> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:08:52.101672> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:08:53.835771> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:09:43.058594> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:09:43.059595> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:09:43.060594> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:09:43.061597> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:09:48.072885> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:09:48.073882> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:09:48.072885> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:09:48.158887> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:09:50.070995> WebSocket connected! Start @depth [Future] process...
+21:09:50.103999> WebSocket connected! Start @depth [Future] process...
+21:12:50.261328> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:12:50.263330> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:12:50.264328> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:12:50.264328> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:12:55.354621> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:12:55.359619> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:12:55.363621> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:12:55.363621> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:12:56.610764> WebSocket connected! Start @depth [Future] process...
+21:12:57.157723> WebSocket connected! Start @depth [Future] process...
+21:15:53.627842> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:15:53.628842> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:15:56.809024> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:15:56.873028> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:15:57.312051> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:15:57.312051> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:15:58.659129> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:15:58.659129> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:16:00.837264> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:16:02.006322> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:16:02.006322> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:16:02.313341> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:16:02.313341> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:16:04.265452> WebSocket connected! Start @depth [Future] process...
+21:16:04.272454> WebSocket connected! Start @depth [Future] process...
+21:16:54.415332> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:16:54.415332> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:16:59.430614> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:16:59.430614> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:17:01.672744> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:19:04.462785> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:19:04.464784> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:19:04.465785> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:19:04.537799> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:19:09.471071> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:19:09.517072> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:19:09.670083> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:19:09.674083> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:19:11.408182> WebSocket connected! Start @depth [Future] process...
+21:19:11.409182> WebSocket connected! Start @depth [Future] process...
+21:22:11.486509> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:22:11.488508> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:22:11.537510> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:22:11.782525> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:22:16.544799> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:22:16.546798> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:22:16.794813> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:22:16.794813> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:22:18.564913> WebSocket connected! Start @depth [Future] process...
+21:22:18.722920> WebSocket connected! Start @depth [Future] process...
+21:23:01.450373> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:23:01.451373> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:23:06.506664> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:23:06.506664> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:23:08.035750> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:24:02.087848> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:24:02.143853> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:24:07.169139> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:24:07.176141> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:24:08.709234> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:25:18.748021> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:25:18.748021> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:25:18.807024> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:25:18.821025> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:25:23.784312> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:25:23.825313> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:25:23.826314> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:25:23.826314> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:25:25.451404> WebSocket connected! Start @depth [Future] process...
+21:25:25.481427> WebSocket connected! Start @depth [Future] process...
+21:28:25.668747> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:28:25.670739> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:28:25.669738> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:28:25.671740> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:28:30.794031> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:28:30.795044> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:28:30.795044> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:28:30.796033> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:28:31.915099> WebSocket connected! Start @depth [Future] process...
+21:28:32.084105> WebSocket connected! Start @depth [Future] process...
+21:31:08.486074> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:31:08.487075> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:31:08.880097> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:31:08.883099> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:31:13.582370> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:31:13.582370> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:31:13.900384> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:31:13.901387> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:31:14.834440> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:31:15.119457> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:31:32.028424> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:31:32.222436> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:31:32.173432> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:31:32.571453> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:31:37.230721> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:31:37.238724> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:31:37.686752> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:31:37.698749> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:31:39.091829> WebSocket connected! Start @depth [Future] process...
+21:31:39.113838> WebSocket connected! Start @depth [Future] process...
+21:34:39.514177> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:34:39.536174> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:34:39.527173> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:34:39.562176> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:34:44.552952> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:34:44.559462> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:34:44.599465> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:34:44.599465> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:34:46.481572> WebSocket connected! Start @depth [Future] process...
+21:34:46.481572> WebSocket connected! Start @depth [Future] process...
+21:37:46.989070> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:37:46.990070> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:37:46.989070> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:37:46.991070> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:37:52.050359> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:37:52.051360> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:37:52.052360> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:37:52.052360> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:37:54.198482> WebSocket connected! Start @depth [Future] process...
+21:37:54.199483> WebSocket connected! Start @depth [Future] process...
+21:38:15.432700> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:38:15.432700> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:38:15.433700> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:38:15.434700> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:38:20.562994> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:38:20.563994> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:38:20.563994> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:38:20.572995> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:38:22.228090> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:38:22.228090> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:40:54.467819> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:40:54.467819> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:40:54.760837> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:40:54.771837> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:40:59.793124> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:40:59.794126> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:40:59.793124> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:41:00.108143> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:41:02.246265> WebSocket connected! Start @depth [Future] process...
+21:41:02.567283> WebSocket connected! Start @depth [Future] process...
+21:44:02.594606> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:44:02.595605> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:44:02.664606> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:44:02.671608> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:44:07.600892> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:44:07.600892> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:44:07.966914> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:44:07.967915> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:44:09.465997> WebSocket connected! Start @depth [Future] process...
+21:44:09.484000> WebSocket connected! Start @depth [Future] process...
+21:47:09.702332> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:09.723335> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:09.738336> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:09.751337> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:14.813626> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:47:14.814626> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:47:14.818626> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:47:14.819627> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:47:16.620730> WebSocket connected! Start @depth [Future] process...
+21:47:16.621731> WebSocket connected! Start @depth [Future] process...
+21:47:22.865088> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:22.874087> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:22.892089> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:47:22.899090> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:47:27.955380> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:47:27.955380> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:47:27.956380> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:47:27.956380> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:47:29.258455> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:47:29.259455> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:50:16.937068> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:50:16.970071> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:50:16.987077> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:50:17.139080> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:50:22.030368> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:50:22.030368> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:50:22.203371> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:50:22.203371> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:50:23.809462> WebSocket connected! Start @depth [Future] process...
+21:50:24.423503> WebSocket connected! Start @depth [Future] process...
+21:53:23.932792> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:53:23.933791> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:53:24.482821> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:53:24.490822> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:53:28.964080> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:53:28.964080> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:53:29.649117> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:53:29.649117> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:53:31.537227> WebSocket connected! Start @depth [Future] process...
+21:53:31.859246> WebSocket connected! Start @depth [Future] process...
+21:54:29.650559> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:54:29.651559> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:54:29.650559> Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:54:29.726562> A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:54:34.762858> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:54:34.762858> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:54:34.783860> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:54:34.784854> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:54:36.783968> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:54:37.192990> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:56:32.372310> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:56:32.493319> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:56:32.380311> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:56:32.495323> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:56:37.560609> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:56:37.560609> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:56:37.560609> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:56:37.561608> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:56:39.253707> WebSocket connected! Start @depth [Future] process...
+21:56:39.438716> WebSocket connected! Start @depth [Future] process...

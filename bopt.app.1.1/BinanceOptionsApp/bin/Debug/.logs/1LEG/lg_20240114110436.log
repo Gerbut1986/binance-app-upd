@@ -1,0 +1,304 @@
+11:04:37.664688> WebSocket connected! Start [SPOT] @depth@100ms process...
+11:04:37.664688> Lenta has started...Start SubscribeToTradeStream @trade [spot] process...
+11:04:37.678691> WebSocket connected! Start Partial @depth10 [Future] process...
+11:04:37.756695> WebSocket connected! Start [SPOT] @depth@100ms process...
+11:04:37.781697> Lenta has started...Start SubscribeToTradeStream @trade [spot] process...
+11:04:37.800699> Binance - O6Lyrsb3[SPOT] SPOT Balance: 0.00000000 USDT
+11:04:37.932710> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+11:04:37.962712> WebSocket connected! Start Partial @depth10 [Future] process...
+11:04:37.969710> WebSocket connected! Start @depth [Future] process...
+11:04:38.174733> WebSocket connected! Start Partial @depth10 [Future] process...
+11:04:38.433391> WebSocket connected! Start Partial @depth10 [Future] process...
+11:04:38.433391> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+11:04:38.486390> WebSocket connected! Start @depth [Future] process...
+11:04:38.656403> BinanceFuture - O6Lyrsb3[SPOT] SPOT Balance: 7.44349674 USDT
+11:04:38.821413> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:38.822411> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:39.065423> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:39.066423> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:39.306448> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:39.307499> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:39.546823> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:39.547820> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:39.784950> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:39.784950> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:40.025698> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:40.025698> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:40.267988> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:40.268982> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:40.511024> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:40.511024> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:40.747696> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:40.748682> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:40.988700> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:40.989702> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:41.226746> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:41.227746> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:41.473711> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:41.473711> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:41.710828> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:41.711826> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:41.952834> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:41.953839> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:42.195846> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:42.196847> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:42.432629> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:42.433625> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:42.674631> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:42.674631> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:42.912652> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:42.913646> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:43.153659> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:43.153659> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:43.399672> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:43.400674> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:43.636691> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:43.637693> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:43.876704> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:43.877701> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:44.117713> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:44.117713> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:44.357257> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:44.359259> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:44.600273> Binance - O6Lyrsb3[SPOT] Order status = NEW
+11:04:44.601280> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:44.909344> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:44.910344> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:45.186365> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:45.186365> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:45.473377> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:45.474377> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:45.754553> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:45.755558> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:46.029844> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:46.029844> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:46.325704> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:46.326704> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:46.609724> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:46.610719> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:46.887736> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:46.889736> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:47.171753> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:47.172754> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:47.462473> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:47.463473> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:47.756490> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:47.757489> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:48.047284> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:48.047284> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:48.337301> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:48.338302> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:48.631791> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:48.632792> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:48.915832> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:48.916809> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:49.216720> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:49.217721> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:49.496736> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:49.497736> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:49.781754> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:49.782754> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:50.062769> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:50.063769> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:50.341156> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:50.341156> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:50.625184> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:50.626172> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:50.912434> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:50.920439> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:51.202017> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:51.202017> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:51.490035> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:51.491034> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:51.768050> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:51.769050> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:52.049674> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:52.050666> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:52.328681> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:52.328681> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:52.604705> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:52.605697> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:52.894712> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:52.895714> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:53.176732> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:53.177736> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:53.460659> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:53.460659> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:53.738676> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:53.739684> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:54.019692> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:54.020692> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:54.320714> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:54.320714> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:54.597733> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:54.598737> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:54.884376> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:54.884376> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:55.184621> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:55.185620> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:55.462636> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:55.462636> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:55.749652> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:55.750652> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:56.045668> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:56.046670> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:56.338687> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:56.338687> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:56.644703> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:56.644703> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:56.952721> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:56.953721> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:57.239738> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:57.240742> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:57.526754> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:57.527754> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:57.798770> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:57.799779> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:58.096179> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:58.096179> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:58.369541> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:58.371539> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:58.648557> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:58.649557> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:58.947582> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:58.949574> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:59.228591> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:59.228591> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:59.502007> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:59.504007> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:04:59.793024> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:04:59.793024> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:00.097938> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:00.097938> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:00.372954> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:00.372954> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:00.655971> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:00.656971> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:00.943785> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:00.944785> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:01.233801> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:01.233801> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:01.551820> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:01.552821> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:01.868839> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:01.869839> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:02.172855> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:02.172855> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:02.474872> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:02.475874> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:02.767889> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:02.768889> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:03.045907> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:03.046916> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:03.344928> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:03.345924> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:03.646940> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:03.648940> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:03.962957> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:03.970957> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:04.503989> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:04.503989> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:04.923014> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:04.924014> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:05.460046> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:05.466044> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:05.953072> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:05.954073> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:06.689119> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:06.689119> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:07.021133> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:07.021133> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:07.296149> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:07.296149> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:07.677171> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:07.678171> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:08.086194> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:08.087196> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:08.869248> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:08.870243> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:09.369268> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:09.370268> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:09.657285> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:09.667284> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:09.949303> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:09.949303> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:10.232317> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:10.233319> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:10.584337> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:10.584337> Sell FAILED XRPUSDT;Gap=;Price=0.57830
+11:05:10.869356> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:10.870362> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:11.169371> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:11.169371> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:11.472967> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:11.473965> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:11.754981> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:11.754981> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:12.031996> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:12.033000> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:12.332016> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:12.332016> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:12.605031> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:12.605031> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:12.898544> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:12.899543> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:13.191560> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:13.192559> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:13.473577> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:13.473577> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:13.753017> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:13.754013> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:14.058783> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:14.064779> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:14.343407> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:14.344406> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:14.672426> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:14.673425> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:14.978826> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:14.979827> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:15.251868> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:15.252850> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:15.553861> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:15.562863> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:15.856877> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:15.856877> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:16.135892> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:16.135892> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:16.411908> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:16.412908> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:16.697621> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:16.698620> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:16.971576> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:16.971576> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:17.245698> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:17.245698> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:17.536715> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:17.536715> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:17.842733> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:17.842733> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:18.122749> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:18.122749> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:18.419367> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:18.419367> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:18.699384> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:18.700384> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:18.987398> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:18.987398> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:19.286422> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:19.287424> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:19.602135> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:19.603135> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:19.879153> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:19.880154> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:20.164171> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:20.165171> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:20.468419> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:20.469421> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:20.757429> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:20.758437> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:21.054964> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:21.055959> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:21.337976> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:21.337976> Sell FAILED XRPUSDT;Gap=;Price=0.57840
+11:05:21.617950> Binance - O6Lyrsb3[SPOT] Api Error Code: -2019 Message: Margin is insufficient.
+11:05:21.618951> Sell FAILED XRPUSDT;Gap=;Price=0.57840

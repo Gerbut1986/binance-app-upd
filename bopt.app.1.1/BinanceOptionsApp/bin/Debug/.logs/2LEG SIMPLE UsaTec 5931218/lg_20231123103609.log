@@ -1,0 +1,155 @@
+10:36:09.850953> StopEquity = 866.12
+10:36:09.851953> Open Hedge on MT5 5931218 MT4 62903090
+10:36:09.896923> BUY UsaTec 1.00 signal received at 16029.85 on MT5 5931218
+10:36:09.896923> SELL .USTECHCash 1.00 signal received at 16026.60 on MT4 62903090
+10:36:09.896923> BUY .USTECHCash 1.00 signal received at 16028.70 on MT4 62903090
+10:36:09.959884> BUY OK UsaTec at 16029.85;Gap=0.00;Price=16029.85;Slippage=0.0;Execution=61.961 ms
+10:36:09.959884> SELL UsaTec 1.00 signal received at 16028.36 on MT5 5931218
+10:36:10.021846> SELL OK UsaTec at 0.00;Gap=0.00;Price=16028.36;Slippage=-1602836.0;Execution=60.959 ms
+10:36:10.188743> BUY OK .USTECHCash at 16028.90;Gap=0.00;Price=16028.70;Slippage=-20.0;Execution=287.821 ms
+10:36:10.256701> SELL OK .USTECHCash at 16026.80;Gap=0.00;Price=16026.60;Slippage=20.0;Execution=358.778 ms
+10:36:10.271691> SELL UsaTec 1.00 signal received at 16028.83 on MT5 5931218
+10:36:10.271691> BUY UsaTec 1.00 signal received at 16030.14 on MT5 5931218
+10:36:10.333653> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.14;Slippage=1603014.0;Execution=60.961 ms
+10:36:10.333653> SELL OK UsaTec at 16028.83;Gap=0.00;Price=16028.83;Slippage=0.0;Execution=60.961 ms
+10:36:10.411605> SELL UsaTec 1.00 signal received at 16028.83 on MT5 5931218
+10:36:10.411605> BUY UsaTec 1.00 signal received at 16030.14 on MT5 5931218
+10:36:10.480563> SELL OK UsaTec at 16028.83;Gap=0.00;Price=16028.83;Slippage=0.0;Execution=66.957 ms
+10:36:10.488559> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.14;Slippage=1603014.0;Execution=75.952 ms
+10:36:10.597494> BUY UsaTec 1.00 signal received at 16030.38 on MT5 5931218
+10:36:10.597494> SELL UsaTec 1.00 signal received at 16028.83 on MT5 5931218
+10:36:10.674517> BUY OK UsaTec at 16030.38;Gap=0.00;Price=16030.38;Slippage=0.0;Execution=76.025 ms
+10:36:10.674517> SELL OK UsaTec at 0.00;Gap=0.00;Price=16028.83;Slippage=-1602883.0;Execution=74.026 ms
+10:36:10.690581> SELL UsaTec 1.00 signal received at 16028.95 on MT5 5931218
+10:36:10.690581> BUY UsaTec 1.00 signal received at 16030.51 on MT5 5931218
+10:36:10.752754> SELL OK UsaTec at 16028.95;Gap=0.00;Price=16028.95;Slippage=0.0;Execution=62.174 ms
+10:36:10.752754> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.51;Slippage=1603051.0;Execution=59.177 ms
+10:36:10.799884> SELL UsaTec 1.00 signal received at 16028.95 on MT5 5931218
+10:36:10.799884> BUY UsaTec 1.00 signal received at 16030.51 on MT5 5931218
+10:36:10.860951> SELL OK UsaTec at 16028.95;Gap=0.00;Price=16028.95;Slippage=0.0;Execution=60.066 ms
+10:36:10.875941> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.51;Slippage=1603051.0;Execution=75.056 ms
+10:36:11.821003> BUY UsaTec 1.00 signal received at 16030.51 on MT5 5931218
+10:36:11.821003> SELL UsaTec 1.00 signal received at 16028.95 on MT5 5931218
+10:36:11.881479> BUY OK UsaTec at 16030.51;Gap=0.00;Price=16030.51;Slippage=0.0;Execution=59.477 ms
+10:36:11.896471> SELL OK UsaTec at 0.00;Gap=0.00;Price=16028.95;Slippage=-1602895.0;Execution=71.470 ms
+10:36:11.912460> BUY UsaTec 1.00 signal received at 16030.69 on MT5 5931218
+10:36:11.912460> SELL UsaTec 1.00 signal received at 16029.27 on MT5 5931218
+10:36:11.973423> BUY OK UsaTec at 16030.69;Gap=0.00;Price=16030.69;Slippage=0.0;Execution=59.963 ms
+10:36:11.989413> SELL OK UsaTec at 0.00;Gap=0.00;Price=16029.27;Slippage=-1602927.0;Execution=75.954 ms
+10:36:13.197631> BUY UsaTec 1.00 signal received at 16030.52 on MT5 5931218
+10:36:13.285483> SELL UsaTec 1.00 signal received at 16029.19 on MT5 5931218
+10:36:13.349444> BUY OK UsaTec at 16030.45;Gap=0.00;Price=16030.52;Slippage=7.0;Execution=150.814 ms
+10:36:13.349444> SELL OK UsaTec at 0.00;Gap=0.00;Price=16029.19;Slippage=-1602919.0;Execution=63.961 ms
+10:36:13.365434> SELL UsaTec 1.00 signal received at 16029.01 on MT5 5931218
+10:36:13.365434> BUY UsaTec 1.00 signal received at 16030.45 on MT5 5931218
+10:36:13.427396> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.45;Slippage=1603045.0;Execution=60.963 ms
+10:36:13.427396> SELL OK UsaTec at 16029.01;Gap=0.00;Price=16029.01;Slippage=0.0;Execution=60.963 ms
+10:36:13.614431> BUY UsaTec 1.00 signal received at 16030.70 on MT5 5931218
+10:36:13.614431> SELL UsaTec 1.00 signal received at 16029.02 on MT5 5931218
+10:36:13.677083> BUY OK UsaTec at 16030.70;Gap=0.00;Price=16030.70;Slippage=0.0;Execution=61.653 ms
+10:36:13.692074> SELL OK UsaTec at 0.00;Gap=0.00;Price=16029.02;Slippage=-1602902.0;Execution=73.645 ms
+10:36:13.707066> SELL UsaTec 1.00 signal received at 16029.02 on MT5 5931218
+10:36:13.707066> BUY UsaTec 1.00 signal received at 16030.70 on MT5 5931218
+10:36:13.783019> SELL OK UsaTec at 16029.02;Gap=0.00;Price=16029.02;Slippage=0.0;Execution=74.953 ms
+10:36:13.798009> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.70;Slippage=1603070.0;Execution=89.944 ms
+10:36:13.892950> Drawdown reached. Trading stopped.
+10:36:13.893950> BUY UsaTec 1.00 signal received at 16030.51 on MT5 5931218
+10:36:13.894951> SELL UsaTec 1.00 signal received at 16028.96 on MT5 5931218
+10:36:13.953915> BUY OK UsaTec at 16030.51;Gap=0.00;Price=16030.51;Slippage=0.0;Execution=59.965 ms
+10:36:13.969904> SELL OK UsaTec at 0.00;Gap=0.00;Price=16028.96;Slippage=-1602896.0;Execution=71.957 ms
+10:36:13.985896> BUY UsaTec 1.00 signal received at 16030.51 on MT5 5931218
+10:36:13.985896> SELL UsaTec 1.00 signal received at 16028.96 on MT5 5931218
+10:36:14.046856> BUY OK UsaTec at 16030.63;Gap=0.00;Price=16030.51;Slippage=-12.0;Execution=59.963 ms
+10:36:14.046856> SELL OK UsaTec at 0.00;Gap=0.00;Price=16028.96;Slippage=-1602896.0;Execution=59.963 ms
+10:36:14.061846> BUY UsaTec 1.00 signal received at 16030.63 on MT5 5931218
+10:36:14.061846> SELL UsaTec 1.00 signal received at 16029.08 on MT5 5931218
+10:36:14.125806> SELL OK UsaTec at 0.00;Gap=0.00;Price=16029.08;Slippage=-1602908.0;Execution=60.961 ms
+10:36:14.125806> BUY OK UsaTec at 16030.63;Gap=0.00;Price=16030.63;Slippage=0.0;Execution=62.960 ms
+10:36:14.351667> BUY UsaTec 1.00 signal received at 16030.51 on MT5 5931218
+10:36:14.351667> SELL UsaTec 1.00 signal received at 16028.95 on MT5 5931218
+10:36:14.414630> SELL OK UsaTec at 0.00;Gap=0.00;Price=16028.95;Slippage=-1602895.0;Execution=61.962 ms
+10:36:14.414630> BUY OK UsaTec at 16030.51;Gap=0.00;Price=16030.51;Slippage=0.0;Execution=61.962 ms
+10:36:14.445611> SELL UsaTec 1.00 signal received at 16029.05 on MT5 5931218
+10:36:14.445611> BUY UsaTec 1.00 signal received at 16030.66 on MT5 5931218
+10:36:14.508570> SELL OK UsaTec at 16029.05;Gap=0.00;Price=16029.05;Slippage=0.0;Execution=61.961 ms
+10:36:14.554542> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.66;Slippage=1603066.0;Execution=107.932 ms
+10:36:14.678466> SELL UsaTec 1.00 signal received at 16029.05 on MT5 5931218
+10:36:14.678466> BUY UsaTec 1.00 signal received at 16030.66 on MT5 5931218
+10:36:14.741426> SELL OK UsaTec at 16029.05;Gap=0.00;Price=16029.05;Slippage=0.0;Execution=61.960 ms
+10:36:14.757417> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.66;Slippage=1603066.0;Execution=77.952 ms
+10:36:15.352078> SELL UsaTec 1.00 signal received at 16028.92 on MT5 5931218
+10:36:15.352078> BUY UsaTec 1.00 signal received at 16030.54 on MT5 5931218
+10:36:15.428029> SELL OK UsaTec at 16028.92;Gap=0.00;Price=16028.92;Slippage=0.0;Execution=75.950 ms
+10:36:15.443020> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.54;Slippage=1603054.0;Execution=89.945 ms
+10:36:15.521971> SELL UsaTec 1.00 signal received at 16029.10 on MT5 5931218
+10:36:15.521971> BUY UsaTec 1.00 signal received at 16030.62 on MT5 5931218
+10:36:15.584931> SELL OK UsaTec at 16029.10;Gap=0.00;Price=16029.10;Slippage=0.0;Execution=61.961 ms
+10:36:15.584931> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.62;Slippage=1603062.0;Execution=61.961 ms
+10:36:15.631903> SELL UsaTec 1.00 signal received at 16028.96 on MT5 5931218
+10:36:15.631903> BUY UsaTec 1.00 signal received at 16030.50 on MT5 5931218
+10:36:15.699864> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.50;Slippage=1603050.0;Execution=63.963 ms
+10:36:15.699864> SELL OK UsaTec at 16028.96;Gap=0.00;Price=16028.96;Slippage=0.0;Execution=66.962 ms
+10:36:15.723846> BUY UsaTec 1.00 signal received at 16030.50 on MT5 5931218
+10:36:15.723846> SELL UsaTec 1.00 signal received at 16028.96 on MT5 5931218
+10:36:15.786807> SELL OK UsaTec at 0.00;Gap=0.00;Price=16028.96;Slippage=-1602896.0;Execution=61.962 ms
+10:36:15.786807> BUY OK UsaTec at 16030.50;Gap=0.00;Price=16030.50;Slippage=0.0;Execution=61.962 ms
+10:36:16.020663> SELL UsaTec 1.00 signal received at 16028.96 on MT5 5931218
+10:36:16.020663> BUY UsaTec 1.00 signal received at 16030.50 on MT5 5931218
+10:36:16.084622> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.50;Slippage=1603050.0;Execution=62.959 ms
+10:36:16.084622> SELL OK UsaTec at 16028.96;Gap=0.00;Price=16028.96;Slippage=0.0;Execution=62.959 ms
+10:36:17.168201> BUY UsaTec 1.00 signal received at 16030.24 on MT5 5931218
+10:36:17.168201> SELL UsaTec 1.00 signal received at 16028.72 on MT5 5931218
+10:36:17.228164> BUY OK UsaTec at 16030.24;Gap=0.00;Price=16030.24;Slippage=0.0;Execution=59.963 ms
+10:36:17.243157> SELL OK UsaTec at 0.00;Gap=0.00;Price=16028.72;Slippage=-1602872.0;Execution=73.955 ms
+10:36:17.259146> SELL UsaTec 1.00 signal received at 16028.72 on MT5 5931218
+10:36:17.259146> BUY UsaTec 1.00 signal received at 16030.24 on MT5 5931218
+10:36:17.342095> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.24;Slippage=1603024.0;Execution=70.958 ms
+10:36:17.342095> SELL OK UsaTec at 16028.72;Gap=0.00;Price=16028.72;Slippage=0.0;Execution=81.949 ms
+10:36:17.602962> SELL UsaTec 1.00 signal received at 16028.72 on MT5 5931218
+10:36:17.602962> BUY UsaTec 1.00 signal received at 16030.24 on MT5 5931218
+10:36:17.663921> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.24;Slippage=1603024.0;Execution=59.962 ms
+10:36:17.663921> SELL OK UsaTec at 16028.72;Gap=0.00;Price=16028.72;Slippage=0.0;Execution=59.962 ms
+10:36:17.789844> BUY UsaTec 1.00 signal received at 16030.47 on MT5 5931218
+10:36:17.789844> SELL UsaTec 1.00 signal received at 16028.74 on MT5 5931218
+10:36:17.866796> BUY OK UsaTec at 16030.47;Gap=0.00;Price=16030.47;Slippage=0.0;Execution=75.954 ms
+10:36:17.866796> SELL OK UsaTec at 0.00;Gap=0.00;Price=16028.74;Slippage=-1602874.0;Execution=75.954 ms
+10:36:17.882786> BUY UsaTec 1.00 signal received at 16030.70 on MT5 5931218
+10:36:17.882786> SELL UsaTec 1.00 signal received at 16029.27 on MT5 5931218
+10:36:17.945747> BUY OK UsaTec at 16030.70;Gap=0.00;Price=16030.70;Slippage=0.0;Execution=61.963 ms
+10:36:17.945747> SELL OK UsaTec at 0.00;Gap=0.00;Price=16029.27;Slippage=-1602927.0;Execution=61.963 ms
+10:36:19.032015> SELL UsaTec 1.00 signal received at 16028.99 on MT5 5931218
+10:36:19.032015> BUY UsaTec 1.00 signal received at 16030.73 on MT5 5931218
+10:36:19.094974> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.73;Slippage=1603073.0;Execution=61.961 ms
+10:36:19.094974> SELL OK UsaTec at 16028.99;Gap=0.00;Price=16028.99;Slippage=0.0;Execution=61.961 ms
+10:36:19.142944> BUY UsaTec 1.00 signal received at 16030.46 on MT5 5931218
+10:36:19.142944> SELL UsaTec 1.00 signal received at 16029.01 on MT5 5931218
+10:36:19.204907> BUY OK UsaTec at 16030.46;Gap=0.00;Price=16030.46;Slippage=0.0;Execution=60.963 ms
+10:36:19.219897> SELL OK UsaTec at 0.00;Gap=0.00;Price=16029.01;Slippage=-1602901.0;Execution=75.953 ms
+10:36:19.235888> SELL UsaTec 1.00 signal received at 16029.01 on MT5 5931218
+10:36:19.235888> BUY UsaTec 1.00 signal received at 16030.46 on MT5 5931218
+10:36:19.298848> SELL OK UsaTec at 16029.01;Gap=0.00;Price=16029.01;Slippage=0.0;Execution=61.962 ms
+10:36:19.298848> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.46;Slippage=1603046.0;Execution=61.962 ms
+10:36:19.579673> SELL UsaTec 1.00 signal received at 16029.01 on MT5 5931218
+10:36:19.579673> BUY UsaTec 1.00 signal received at 16030.46 on MT5 5931218
+10:36:19.640638> SELL OK UsaTec at 16029.00;Gap=0.00;Price=16029.01;Slippage=-1.0;Execution=59.962 ms
+10:36:19.640638> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.46;Slippage=1603046.0;Execution=59.962 ms
+10:36:19.656628> BUY UsaTec 1.00 signal received at 16030.71 on MT5 5931218
+10:36:19.656628> SELL UsaTec 1.00 signal received at 16029.00 on MT5 5931218
+10:36:19.718589> BUY OK UsaTec at 16030.71;Gap=0.00;Price=16030.71;Slippage=0.0;Execution=60.961 ms
+10:36:19.718589> SELL OK UsaTec at 0.00;Gap=0.00;Price=16029.00;Slippage=-1602900.0;Execution=60.961 ms
+10:36:20.365453> BUY UsaTec 1.00 signal received at 16030.43 on MT5 5931218
+10:36:20.368452> SELL UsaTec 1.00 signal received at 16029.54 on MT5 5931218
+10:36:20.433920> SELL OK UsaTec at 0.00;Gap=0.00;Price=16029.54;Slippage=-1602954.0;Execution=63.468 ms
+10:36:20.433920> BUY OK UsaTec at 16030.43;Gap=0.00;Price=16030.43;Slippage=0.0;Execution=68.467 ms
+10:36:20.449909> SELL UsaTec 1.00 signal received at 16029.88 on MT5 5931218
+10:36:20.449909> BUY UsaTec 1.00 signal received at 16030.59 on MT5 5931218
+10:36:20.548852> SELL OK UsaTec at 16029.88;Gap=0.00;Price=16029.88;Slippage=0.0;Execution=97.942 ms
+10:36:20.548852> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.59;Slippage=1603059.0;Execution=95.944 ms
+10:36:20.698756> SELL UsaTec 1.00 signal received at 16029.88 on MT5 5931218
+10:36:20.698756> BUY UsaTec 1.00 signal received at 16030.59 on MT5 5931218
+10:36:20.760718> BUY OK UsaTec at 0.00;Gap=0.00;Price=16030.59;Slippage=1603059.0;Execution=60.962 ms
+10:36:20.760718> SELL OK UsaTec at 16030.00;Gap=0.00;Price=16029.88;Slippage=12.0;Execution=60.962 ms
+10:36:20.775709> BUY UsaTec 1.00 signal received at 16031.46 on MT5 5931218
+10:36:20.776709> SELL UsaTec 1.00 signal received at 16030.00 on MT5 5931218
+10:36:20.837670> BUY OK UsaTec at 16031.46;Gap=0.00;Price=16031.46;Slippage=0.0;Execution=60.961 ms
+10:36:20.837670> SELL OK UsaTec at 0.00;Gap=0.00;Price=16030.00;Slippage=-1603000.0;Execution=60.961 ms

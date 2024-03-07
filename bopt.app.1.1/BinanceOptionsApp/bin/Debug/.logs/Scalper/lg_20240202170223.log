@@ -1,0 +1,94 @@
+17:02:37.529617> WebSocket connected! Start Partial @depth10 [MARGIN] process...
+17:02:37.535617> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+17:02:37.612633> WebSocket connected! Start [MARGIN] @depth@100ms process...
+17:02:37.716628> WebSocket connected! Start [MARGIN] @depth@100ms process...
+17:02:37.742628> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+17:02:37.776630> WebSocket connected! Start Partial @depth10 [MARGIN] process...
+17:02:37.784632> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:02:37.813634> WebSocket connected! Start Partial @depth10 [Future] process...
+17:02:37.885636> New Max DevBuy: 0.00000000 GapBuy:0.01600000 avgGapBuy:0.01600000 deviationBuy:0.00000000
+17:02:37.886635> Ask1: 99.1840 Bid1:99.1830 Ask2:99.21000000 Bid2:99.20000000
+17:02:37.886635> New Min DevSell: 0.00000000 GapSell:0.02700000 avgGapSell:0.02700000 deviationSell:0.00000000
+17:02:37.887636> Ask1: 99.1840 Bid1:99.1830 Ask2:99.21000000 Bid2:99.20000000
+17:02:38.040644> Binance - Vxxv1AWf[MARGIN] MARGIN Balance: 195.22412348 USDT
+17:02:38.534688> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:02:38.564674> WebSocket connected! Start Partial @depth10 [Future] process...
+17:02:38.693682> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5021 Message: Due to the order could not be filled immediately, the FOK order has been rejected. The order will not be recorded in the order history
+17:02:38.694684> [1Leg]: Sell FAILED solusdt;Gap=0;Price=99.20700
+17:06:21.557569> Received an unexpected EOF or 0 bytes from the transport stream.
+17:06:21.562562> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again..
+17:16:23.406544> New Max DevBuy: 0.07050000 GapBuy:0.15700000 avgGapBuy:0.08650000 deviationBuy:0.07050000
+17:16:23.407541> Ask1: 99.1830 Bid1:99.1820 Ask2:99.35000000 Bid2:99.34000000
+17:16:23.408541> New Min DevSell: 0.07050000 GapSell:0.16800000 avgGapSell:0.09750000 deviationSell:0.07050000
+17:16:23.408541> Ask1: 99.1830 Bid1:99.1820 Ask2:99.35000000 Bid2:99.34000000
+17:16:32.061999> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:16:32.062998> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+17:16:32.340013> New Max DevBuy: 0.0751666666666666666666666667 GapBuy:0.22700000 avgGapBuy:0.1518333333333333333333333333 deviationBuy:0.0751666666666666666666666667
+17:16:32.340013> Ask1: 99.1830 Bid1:99.1820 Ask2:99.42000000 Bid2:99.41000000
+17:16:32.376012> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+17:16:32.377015> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again..
+17:16:32.385013> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+17:16:32.386017> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again..
+17:16:32.388016> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+17:16:32.389016> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again..
+17:16:32.397015> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 0 USDT
+17:16:32.398017> New Max DevBuy: 0.07762500 GapBuy:0.24700000 avgGapBuy:0.16937500 deviationBuy:0.07762500
+17:16:32.399016> Ask1: 99.1830 Bid1:99.1820 Ask2:99.44000000 Bid2:99.43000000
+17:16:32.427018> New Max DevBuy: 0.12710000 GapBuy:0.31700000 avgGapBuy:0.18990000 deviationBuy:0.12710000
+17:16:32.427018> Ask1: 99.1830 Bid1:99.1820 Ask2:99.51000000 Bid2:99.50000000
+17:16:32.439018> New Max DevBuy: 0.1337272727272727272727272727 GapBuy:0.33700000 avgGapBuy:0.2032727272727272727272727273 deviationBuy:0.1337272727272727272727272727
+17:16:32.440019> Ask1: 99.1830 Bid1:99.1820 Ask2:99.53000000 Bid2:99.52000000
+17:16:32.484022> New Max DevBuy: 0.18675000 GapBuy:0.40700000 avgGapBuy:0.22025000 deviationBuy:0.18675000
+17:16:32.485022> Ask1: 99.1830 Bid1:99.1820 Ask2:99.61000000 Bid2:99.59000000
+17:16:32.593028> New Max DevBuy: 0.2907333333333333333333333333 GapBuy:0.55700000 avgGapBuy:0.2662666666666666666666666667 deviationBuy:0.2907333333333333333333333333
+17:16:32.594029> Ask1: 99.1830 Bid1:99.1820 Ask2:99.75000000 Bid2:99.74000000
+17:16:32.995049> New Max DevBuy: 0.3335882352941176470588235294 GapBuy:0.63700000 avgGapBuy:0.3034117647058823529411764706 deviationBuy:0.3335882352941176470588235294
+17:16:32.996052> Ask1: 99.1830 Bid1:99.1820 Ask2:99.83000000 Bid2:99.82000000
+17:16:33.478079> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:16:33.481078> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:16:33.981108> WebSocket connected! Start @depth [Future] process...
+17:16:33.996108> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:16:34.012112> WebSocket connected! Start @depth [Future] process...
+17:16:35.323183> New Min DevSell: -0.94550000 GapSell:-0.84800000 avgGapSell:0.09750000 deviationSell:-0.94550000
+17:16:35.341184> Ask1: 99.1830 Bid1:99.1820 Ask2:100.06000000 Bid2:100.05000000
+17:16:35.346185> New Max DevBuy: 0.38990000 GapBuy:0.87700000 avgGapBuy:0.48710000 deviationBuy:0.38990000
+17:16:35.346185> Ask1: 99.1830 Bid1:99.1820 Ask2:100.07000000 Bid2:100.06000000
+17:16:35.351187> New Max DevBuy: 0.4116666666666666666666666667 GapBuy:0.90700000 avgGapBuy:0.4953333333333333333333333333 deviationBuy:0.4116666666666666666666666667
+17:16:35.351187> Ask1: 99.1830 Bid1:99.1820 Ask2:100.10000000 Bid2:100.09000000
+17:16:35.413190> New Max DevBuy: 0.4168103448275862068965517241 GapBuy:0.95700000 avgGapBuy:0.5401896551724137931034482759 deviationBuy:0.4168103448275862068965517241
+17:16:35.413190> Ask1: 99.1830 Bid1:99.1820 Ask2:100.15000000 Bid2:100.14000000
+17:16:35.420190> New Max DevBuy: 0.4661475409836065573770491803 GapBuy:1.02700000 avgGapBuy:0.5608524590163934426229508197 deviationBuy:0.4661475409836065573770491803
+17:16:35.420190> Ask1: 99.1830 Bid1:99.1820 Ask2:100.22000000 Bid2:100.21000000
+17:16:35.423190> New Max DevBuy: 0.4881451612903225806451612903 GapBuy:1.05700000 avgGapBuy:0.5688548387096774193548387097 deviationBuy:0.4881451612903225806451612903
+17:16:35.423190> Ask1: 99.1830 Bid1:99.1820 Ask2:100.25000000 Bid2:100.24000000
+17:16:35.429191> New Max DevBuy: 0.4951538461538461538461538462 GapBuy:1.08700000 avgGapBuy:0.5918461538461538461538461538 deviationBuy:0.4951538461538461538461538462
+17:16:35.429191> Ask1: 99.1830 Bid1:99.1820 Ask2:100.28000000 Bid2:100.27000000
+17:16:35.548197> New Max DevBuy: 0.5300746268656716417910447761 GapBuy:1.13700000 avgGapBuy:0.6069253731343283582089552239 deviationBuy:0.5300746268656716417910447761
+17:16:35.549199> Ask1: 99.1830 Bid1:99.1820 Ask2:100.33000000 Bid2:100.32000000
+17:16:35.586201> New Max DevBuy: 0.5321323529411764705882352941 GapBuy:1.14700000 avgGapBuy:0.6148676470588235294117647059 deviationBuy:0.5321323529411764705882352941
+17:16:35.586201> Ask1: 99.1830 Bid1:99.1820 Ask2:100.34000000 Bid2:100.33000000
+17:16:36.400246> New Min DevSell: -1.21550000 GapSell:-1.11800000 avgGapSell:0.09750000 deviationSell:-1.21550000
+17:16:36.401247> Ask1: 99.1830 Bid1:99.1820 Ask2:100.18000000 Bid2:100.30000000
+17:16:37.395301> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:16:37.397302> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:16:37.408304> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:16:37.409312> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:16:37.434306> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+17:16:37.449305> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:16:38.705383> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:16:38.747380> WebSocket connected! Start @depth [Future] process...
+17:16:38.856387> WebSocket connected! Start @depth [Future] process...
+17:16:38.916390> New Max DevBuy: 0.71396000 GapBuy:1.54700000 avgGapBuy:0.83304000 deviationBuy:0.71396000
+17:16:38.916390> Ask1: 99.1830 Bid1:99.1820 Ask2:100.74000000 Bid2:100.73000000
+17:16:38.923395> New Max DevBuy: 0.71786000 GapBuy:1.55700000 avgGapBuy:0.83914000 deviationBuy:0.71786000
+17:16:38.923395> Ask1: 99.1830 Bid1:99.1820 Ask2:100.75000000 Bid2:100.74000000
+17:16:38.947401> New Max DevBuy: 0.77146000 GapBuy:1.61700000 avgGapBuy:0.84554000 deviationBuy:0.77146000
+17:16:38.947401> Ask1: 99.1830 Bid1:99.1820 Ask2:100.81000000 Bid2:100.80000000
+17:16:39.052398> New Max DevBuy: 0.85276000 GapBuy:1.70700000 avgGapBuy:0.85424000 deviationBuy:0.85276000
+17:16:39.053399> Ask1: 99.1830 Bid1:99.1820 Ask2:100.90000000 Bid2:100.89000000
+17:16:39.057398> New Max DevBuy: 0.85506000 GapBuy:1.71700000 avgGapBuy:0.86194000 deviationBuy:0.85506000
+17:16:39.057398> Ask1: 99.1830 Bid1:99.1820 Ask2:100.89000000 Bid2:100.88000000
+17:16:39.442422> New Max DevBuy: 0.88492000 GapBuy:1.85700000 avgGapBuy:0.97208000 deviationBuy:0.88492000
+17:16:39.442422> Ask1: 99.1830 Bid1:99.1820 Ask2:101.05000000 Bid2:101.04000000
+17:16:41.304529> New Min DevSell: -1.76550000 GapSell:-1.66800000 avgGapSell:0.09750000 deviationSell:-1.76550000
+17:16:41.304529> Ask1: 99.1830 Bid1:99.1820 Ask2:100.85000000 Bid2:100.85000000

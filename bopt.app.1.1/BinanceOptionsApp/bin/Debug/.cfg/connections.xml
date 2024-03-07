@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<ConnectionsModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Connections>
+    <ConnectionModel xsi:type="TestnetSpotConnectionModel">
+      <Name>TestnetSpot - mLOgzEPL[SPOT]</Name>
+      <Key>mLOgzEPLch3brP4Gmv7awKBfKty82Qx0kgJTJH2wwU1NPHVwDjQGJwzIMunEOm6b</Key>
+      <Secret>c3XB9DeWKgjEAYO7scqhH8mk67HtXeVEwB5tRk13kfnoHPWcTFPsPPFqAtI25DdT</Secret>
+      <AccountTradeType>SPOT</AccountTradeType>
+      <PositionMode>None</PositionMode>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="BinanceConnectionModel">
+      <Name>Binance - O6Lyrsb3[MARGIN]</Name>
+      <Key>O6Lyrsb3lGeGUskykMKeGZy6bpco0G6ICPmBHop3YvcZzTWQ9dEcWxcOwgCtQQop</Key>
+      <Secret>wRm9teiZbDDc2XyEZ8dQX4aR5CpDQTIwwRM4EoXMCPCI3FAh8hiuc913PwZekioh</Secret>
+      <AccountTradeType>MARGIN</AccountTradeType>
+      <PositionMode>None</PositionMode>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="BinanceOptionConnectionModel">
+      <Name>BinanceOption - O6Lyrsb3[OPTION]</Name>
+      <Key>O6Lyrsb3lGeGUskykMKeGZy6bpco0G6ICPmBHop3YvcZzTWQ9dEcWxcOwgCtQQop</Key>
+      <Secret>wRm9teiZbDDc2XyEZ8dQX4aR5CpDQTIwwRM4EoXMCPCI3FAh8hiuc913PwZekioh</Secret>
+      <AccountTradeType>OPTION</AccountTradeType>
+      <PositionMode>None</PositionMode>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="BinanceFutureConnectionModel">
+      <Name>BinanceFuture - O6Lyrsb3[USD_M]</Name>
+      <Key>O6Lyrsb3lGeGUskykMKeGZy6bpco0G6ICPmBHop3YvcZzTWQ9dEcWxcOwgCtQQop</Key>
+      <Secret>wRm9teiZbDDc2XyEZ8dQX4aR5CpDQTIwwRM4EoXMCPCI3FAh8hiuc913PwZekioh</Secret>
+      <AccountTradeType>USD_M</AccountTradeType>
+      <PositionMode>None</PositionMode>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="TestnetConnectionModel">
+      <Name>Testnet - 35eacc69[MARGIN]</Name>
+      <Key>35eacc691699c8889cf7fa2f63dedb569b3e03734ad32fdc3e13c9287f4e3180</Key>
+      <Secret>bf6d8284ca688a1f1de50c3fc3b9743bc52e5dc425dbaebc0140d62792882273</Secret>
+      <AccountTradeType>MARGIN</AccountTradeType>
+      <PositionMode>None</PositionMode>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="BinanceFutureConnectionModel">
+      <Name>BinanceFuture - O6Lyrsb3[COIN_M]</Name>
+      <Key>O6Lyrsb3lGeGUskykMKeGZy6bpco0G6ICPmBHop3YvcZzTWQ9dEcWxcOwgCtQQop</Key>
+      <Secret>wRm9teiZbDDc2XyEZ8dQX4aR5CpDQTIwwRM4EoXMCPCI3FAh8hiuc913PwZekioh</Secret>
+      <AccountTradeType>COIN_M</AccountTradeType>
+      <PositionMode>None</PositionMode>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="BinanceConnectionModel">
+      <Name>Binance - Vxxv1AWf[MARGIN]</Name>
+      <Key>Vxxv1AWfhFpZq2e0IcNjzUCJouMc9IKf8YSFNMk43OtfpQLYKP1qvybKVbV00Rr9</Key>
+      <Secret>YdJAdCnhfnSaS2n0BCGijOMYtbAT7nXBfLKYSIP4nH0TDKP80tHUEm3vZ1WXMOmn</Secret>
+      <AccountTradeType>MARGIN</AccountTradeType>
+      <PositionMode>None</PositionMode>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="BinanceFutureConnectionModel">
+      <Name>BinanceFuture - Vxxv1AWf[USD_M]</Name>
+      <Key>Vxxv1AWfhFpZq2e0IcNjzUCJouMc9IKf8YSFNMk43OtfpQLYKP1qvybKVbV00Rr9</Key>
+      <Secret>YdJAdCnhfnSaS2n0BCGijOMYtbAT7nXBfLKYSIP4nH0TDKP80tHUEm3vZ1WXMOmn</Secret>
+      <AccountTradeType>USD_M</AccountTradeType>
+      <PositionMode>None</PositionMode>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="BinanceConnectionModel">
+      <Name>Binance - Vxxv1AWf[SPOT]</Name>
+      <Key>Vxxv1AWfhFpZq2e0IcNjzUCJouMc9IKf8YSFNMk43OtfpQLYKP1qvybKVbV00Rr9</Key>
+      <Secret>YdJAdCnhfnSaS2n0BCGijOMYtbAT7nXBfLKYSIP4nH0TDKP80tHUEm3vZ1WXMOmn</Secret>
+      <AccountTradeType>SPOT</AccountTradeType>
+      <PositionMode>None</PositionMode>
+    </ConnectionModel>
+  </Connections>
+</ConnectionsModel>

@@ -1,0 +1,59 @@
+19:13:34.380681> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.00000000 USDT
+19:13:34.766093> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:13:34.766093> WebSocket connected! Start @depth [Future] process...
+19:13:34.767097> WebSocket connected! Start Partial @depth20 [SPOT] process...
+19:13:34.770099> WebSocket connected! Start Partial @depth20 [Future] process...
+19:13:35.129832> WebSocket connected! Start Partial @depth20 [SPOT] process...
+19:13:35.567979> WebSocket connected! Start Partial @depth20 [Future] process...
+19:13:35.577968> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:13:35.589970> WebSocket connected! Start @depth [Future] process...
+19:13:35.652974> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 0.00070730 USDT
+19:13:47.242322>  DevSELL (+): -62.60000000 avgGapSell:121.82000000 
+19:13:50.291521>  DevSELL (+): -147.98000000 avgGapSell:121.82000000 
+19:13:51.559594>  DevBUY (-): 156.57000000 avgGapBuy:121.91000000 
+19:14:15.497288>  DevSELL (+): -73.65000000 avgGapSell:121.82000000 
+19:14:27.631973>  DevSELL (+): -70.32000000 avgGapSell:121.82000000 
+19:14:42.491144> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+19:14:42.492106> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+19:14:43.516826> WebSocket connected! Start @depth [Future] process...
+19:14:45.713983> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+19:14:45.713983> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+19:14:47.122626> WebSocket connected! Start @depth [Future] process...
+19:16:07.110014> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+19:16:07.110014> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+19:16:08.107146> WebSocket connected! Start @depth [Future] process...
+19:16:40.986403> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+19:16:40.986403> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+19:16:42.006758> WebSocket connected! Start @depth [Future] process...
+19:17:09.942530> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+19:17:09.942530> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+19:17:10.965377> WebSocket connected! Start @depth [Future] process...
+19:20:35.379741>  DevBUY (+): 131.14000000 avgGapBuy:121.91000000 
+19:22:10.586722> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+19:22:10.587714> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+19:22:11.632069> WebSocket connected! Start @depth [Future] process...
+19:22:27.336844> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+19:22:27.342844> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+19:22:28.385568> WebSocket connected! Start @depth [Future] process...
+19:24:03.349560> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+19:24:03.350562> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+19:24:04.366117> WebSocket connected! Start @depth [Future] process...
+19:35:32.561705>  DevBUY (+): 200.79100000 avgGapBuy:104.20900000 
+19:35:32.736725>  DevBUY (-): 62.71100000 avgGapBuy:104.20900000 
+19:36:25.380221>  DevBUY (+): 66.35100000 avgGapBuy:104.20900000 
+19:46:43.286939>  DevBUY (+): 73.59287500 avgGapBuy:94.64712500 
+19:47:07.004404>  DevSELL (+): -75.54525000 avgGapSell:94.88525000 
+19:55:49.017403>  DevSELL (-): -62.42950000 avgGapSell:86.63950000 
+19:57:15.424106>  DevBUY (+): 68.10962500 avgGapBuy:86.42037500 
+19:57:15.927138>  DevBUY (+): 157.00962500 avgGapBuy:86.42037500 
+19:57:32.556090>  DevSELL (-): -71.17950000 avgGapSell:86.63950000 
+19:57:34.101178>  DevSELL (-): -75.08950000 avgGapSell:86.63950000 
+19:57:35.841279>  DevSELL (+): -81.54950000 avgGapSell:86.63950000 
+19:58:06.175017>  DevBUY (-): 74.53962500 avgGapBuy:86.42037500 
+19:58:06.743049>  DevBUY (+): 101.23962500 avgGapBuy:86.42037500 
+19:58:32.826545> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+19:58:38.072850> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+19:58:38.074888> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+19:58:39.167844> WebSocket connected! Start @depth [Future] process...
+19:59:18.334145>  DevBUY (+): 66.83962500 avgGapBuy:86.42037500 
+19:59:18.691166>  DevBUY (-): 73.00962500 avgGapBuy:86.42037500 

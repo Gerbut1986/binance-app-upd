@@ -1,0 +1,118 @@
+﻿<Window x:Class="BinanceOptionsApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BinanceOptionsApp"
+        mc:Ignorable="d"
+        d:DesignWidth="1024" 
+        Title="Binance Options App" MinHeight="725" MinWidth="1184" WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded" Closing="Window_Closing" Foreground="White" MouseLeftButtonDown="Window_MouseLeftButtonDown">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="CustomStyles/TabControlStyles.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="CustomStyles/TextBoxStyles.xaml"></ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="551*"/>
+            <ColumnDefinition Width="21*"/>
+            <ColumnDefinition Width="16*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="8"></RowDefinition>
+            <RowDefinition Height="21"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <TabControl Name="tabDynamic" Background="Black" ItemsSource="{Binding}" SelectionChanged="TabDynamic_SelectionChanged" Grid.ColumnSpan="3">
+            <TabControl.Resources>
+                <DataTemplate x:Key="TabHeader" DataType="TabItem">
+                    <DockPanel>
+                        <Button Grid.Column="1" Height="15" Width="15" HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="btnDelete"
+                                DockPanel.Dock="Right" Margin="5,0,0,0" Padding="0" Click="BtnDelete_Click" 
+                                CommandParameter="{Binding RelativeSource={RelativeSource AncestorType={x:Type TabItem}}, Path=.}">
+                            <Button.Style>
+                                <Style TargetType="{x:Type Button}">
+                                    <Setter Property="Background" Value="Transparent"/>
+                                    <Setter Property="Cursor" Value="Hand"/>
+                                    <Setter Property="Focusable" Value="False"/>
+                                    <Setter Property="Template">
+                                        <Setter.Value>
+                                            <ControlTemplate TargetType="{x:Type Button}">
+                                                <Grid Background="{TemplateBinding Background}">
+                                                    <Grid.Resources>
+                                                        <Style TargetType="Path">
+                                                            <Setter Property="Stroke" Value="#fff"></Setter>
+                                                            <Style.Triggers>
+                                                                <DataTrigger Binding="{Binding IsSelected,RelativeSource={RelativeSource AncestorType=TabItem,Mode=FindAncestor}}" Value="True">
+                                                                    <Setter Property="Stroke" Value="#0234a6"></Setter>
+                                                                </DataTrigger>
+                                                            </Style.Triggers>
+                                                        </Style>
+                                                    </Grid.Resources>
+                                                    <Path x:Name="ButtonPath" 
+                                                                Margin="2"
+                                                                Data="M0,0 L1,1 M0,1 L1,0"
+                                                                StrokeThickness="2"
+                                                                StrokeStartLineCap="Flat"
+                                                                StrokeEndLineCap="Flat"
+                                                                Stretch="Uniform"
+                                                                VerticalAlignment="Center"
+                                                                HorizontalAlignment="Center">
+                                                    </Path>
+                                                </Grid>
+                                                <ControlTemplate.Triggers>
+                                                    <Trigger Property="IsEnabled" Value="False">
+                                                        <Setter Property="Visibility" Value="Hidden"/>
+                                                    </Trigger>
+                                                    <Trigger Property="IsMouseOver" Value="True">
+                                                        <Setter Property="Background" Value="#a0ffffff" />
+                                                        <Setter TargetName="ButtonPath" Property="Stroke" Value="#0234a6"/>
+                                                    </Trigger>
+                                                    <Trigger Property="IsPressed" Value="true">
+                                                        <Setter TargetName="ButtonPath" Property="Margin" Value="2.5,2.5,1.5,1.5" />
+                                                    </Trigger>
+                                                </ControlTemplate.Triggers>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+                        <Grid VerticalAlignment="Center" x:Name="headerGrid" 
+                              PreviewMouseRightButtonUp="HeaderGrid_PreviewMouseRightButtonUp"
+                              PreviewMouseDown="HeaderGrid_PreviewMouseDown">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="16"></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Image Width="18" Height="18" VerticalAlignment="Center" Visibility="{Binding RelativeSource={RelativeSource AncestorType={x:Type TabItem}},Path=DataContext.FeederOk,Converter={StaticResource bToV}}"></Image>
+                            <Image Width="18" Height="18" VerticalAlignment="Center" Visibility="{Binding RelativeSource={RelativeSource AncestorType={x:Type TabItem}},Path=DataContext.FeederOk,Converter={StaticResource bToVi}}"></Image>
+                            <TextBlock Grid.Column="1" Text="{Binding RelativeSource={RelativeSource AncestorType={x:Type TabItem}}, Path=DataContext.Title}" Margin="5,0,5,0" VerticalAlignment="Center" />
+                            <TextBox Visibility="{Binding RelativeSource={RelativeSource AncestorType={x:Type TabItem}}, Path=DataContext.IsInEditMode,Converter={StaticResource bToV}}"
+                                Grid.Column="1" BorderBrush="#ddd" Background="#c6d820" Foreground="DarkBlue" x:Name="editHeader" 
+                                     KeyUp="EditHeader_KeyUp" LostFocus="EditHeader_LostFocus">
+                                <TextBox.Effect>
+                                    <DropShadowEffect BlurRadius="5" Color="Green" Opacity="0.5"></DropShadowEffect>
+                                </TextBox.Effect>
+                            </TextBox>
+                        </Grid>
+                    </DockPanel>
+                </DataTemplate>
+            </TabControl.Resources>
+        </TabControl>
+
+        <Rectangle Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.ColumnSpan="3"/>
+        <Rectangle Grid.Row="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.ColumnSpan="3"/>
+        <TextBlock Background="Gray" Grid.Row="2" VerticalAlignment="Center" FontSize="14" HorizontalAlignment="Right" Margin="0,1,4,1" Grid.ColumnSpan="3">
+            Sergey Riehl © 2023-2024
+        </TextBlock>
+
+    </Grid>
+</Window>

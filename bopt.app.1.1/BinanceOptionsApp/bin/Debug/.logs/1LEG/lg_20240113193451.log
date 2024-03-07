@@ -1,0 +1,94 @@
+19:34:51.944094> Binance - O6Lyrsb3[SPOT] SPOT Balance: 0.00000000 USDT
+19:34:52.232112> Lenta has started...Start SubscribeToTradeStream @trade [spot] process...
+19:34:52.241121> WebSocket connected! Start [SPOT] @depth@100ms process...
+19:34:52.286104> WebSocket connected! Start Partial @depth10 [Future] process...
+19:34:52.490116> Lenta has started...Start SubscribeToTradeStream @trade [spot] process...
+19:34:52.514120> WebSocket connected! Start Partial @depth10 [Future] process...
+19:34:52.518119> WebSocket connected! Start [SPOT] @depth@100ms process...
+19:34:52.531120> WebSocket connected! Start Partial @depth10 [Future] process...
+19:34:52.568122> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:34:52.604124> WebSocket connected! Start @depth [Future] process...
+19:34:53.137301> BinanceFuture - O6Lyrsb3[SPOT] SPOT Balance: 7.73876153 USDT
+19:34:53.401323> WebSocket connected! Start @depth [Future] process...
+19:34:53.422404> WebSocket connected! Start Partial @depth10 [Future] process...
+19:34:53.440318> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:34:53.500322> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:53.500322> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:53.783341> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:53.787339> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:54.066239> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:54.067241> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:54.361257> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:54.362257> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:54.645000> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:54.646001> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:54.976721> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:54.976721> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:55.260435> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:55.268427> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:55.562443> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:55.572445> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:55.855576> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:55.855576> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:56.151594> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:56.152595> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:56.444286> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:56.444286> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:56.734303> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:56.734303> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:57.028319> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:57.029320> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:57.320336> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:57.321339> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:57.605354> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:57.606359> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:57.906372> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:57.907371> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:58.191387> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:58.192386> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:58.507405> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:58.524408> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:58.812424> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:58.823422> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:59.118439> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:59.118439> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:59.396456> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:59.397456> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:59.681479> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:59.682471> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:34:59.974489> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:34:59.980490> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:00.294509> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:00.295509> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:00.593527> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:00.594527> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:00.887539> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:00.887539> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:01.180559> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:01.181566> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:01.489578> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:01.490575> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:01.782592> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:01.782592> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:02.067612> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:02.068610> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:02.368012> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:02.424013> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:02.730037> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:02.730037> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:03.026045> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:03.026045> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:03.311064> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:03.312062> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:03.631080> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:03.632082> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:03.931100> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:03.932098> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:04.231116> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:04.231116> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:04.518131> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:04.518131> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:04.815148> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:04.822152> Sell FAILED XRPUSDT;Gap=;Price=0.57440
+19:35:05.148168> Binance - O6Lyrsb3[SPOT] Api Error Code: -1102 Message: Param 'orderid' or 'origclientorderid' must be sent, but both were empty/null!
+19:35:05.149168> Sell FAILED XRPUSDT;Gap=;Price=0.57440

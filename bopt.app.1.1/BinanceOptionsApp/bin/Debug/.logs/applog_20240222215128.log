@@ -1,0 +1,84 @@
+21:51:40.081173> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.00000000 USDT
+21:51:40.516330> WebSocket connected! Start @bookTicker [Future] process...
+21:51:40.545329> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+21:51:40.557328> WebSocket connected! Start Partial @depth20 [Future] process...
+21:51:40.572329> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:51:40.583330> WebSocket connected! Start [SPOT] @depth@100ms process...
+21:51:40.602331> WebSocket connected! Start @bookTicker ...
+21:51:40.609330> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+21:51:40.613334> WebSocket connected! Start @depth [Future] process...
+21:51:40.617333> WebSocket connected! Start Partial @depth20 [SPOT] process...
+21:51:40.727358> WebSocket connected! Start [SPOT] @depth@100ms process...
+21:51:40.785344> Exec time: 55673
+21:51:40.883354> WebSocket connected! Start @bookTicker ...
+21:51:40.910350> WebSocket connected! Start Partial @depth20 [SPOT] process...
+21:51:41.042358> Exec time: 440
+21:51:41.050358> WebSocket connected! Start Partial @depth20 [Future] process...
+21:51:41.078358> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 0.59335425 USDT
+21:51:41.081358> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:51:41.110367> WebSocket connected! Start @depth [Future] process...
+21:51:41.165363> WebSocket connected! Start @bookTicker [Future] process...
+21:51:41.188365> Exec time: 50
+21:51:41.192366> Exec time: 19
+21:51:41.368379> Exec time: 21
+21:51:41.372376> Exec time: 19
+21:51:41.643390> Exec time: 16
+21:51:41.644392> Exec time: 12
+21:51:41.648391> Exec time: 14
+21:51:41.648391> Exec time: 10
+21:51:41.651410> Exec time: 12
+21:51:41.656392> Exec time: 15
+21:51:41.668394> Exec time: 17
+21:51:41.673394> Exec time: 17
+21:51:41.679393> Exec time: 19
+21:51:41.680392> Exec time: 19
+21:51:41.681394> Exec time: 15
+21:51:41.681394> Exec time: 12
+21:51:41.685394> Exec time: 10
+21:51:41.685394> Exec time: 10
+21:51:41.685394> Exec time: 8
+21:51:41.686394> Exec time: 9
+21:51:41.830403> Exec time: 21
+21:51:41.834411> Exec time: 20
+21:51:42.106419> Exec time: 21
+21:51:42.116419> Exec time: 24
+21:51:42.393595> Exec time: 22
+21:51:42.400435> Exec time: 20
+21:51:42.718453> Exec time: 21
+21:51:42.725454> Exec time: 21
+21:51:42.992483> Exec time: 30
+21:51:42.997469> Exec time: 22
+21:51:43.143479> Exec time: 44
+21:51:43.152496> Exec time: 20
+21:51:43.344488> Exec time: 22
+21:51:43.350490> Exec time: 16
+21:51:43.497497> Exec time: 23
+21:51:43.502501> Exec time: 73
+21:51:43.717510> Exec time: 26
+21:51:43.722521> Exec time: 19
+21:51:43.886520> Exec time: 17
+21:51:43.890520> Exec time: 13
+21:51:44.040527> Exec time: 21
+21:51:44.040527> Exec time: 13
+21:51:44.066530> Exec time: 20
+21:51:44.071531> Exec time: 21
+21:51:44.218537> Exec time: 19
+21:51:44.226540> Exec time: 23
+21:51:44.420555> Exec time: 20
+21:51:44.426551> Exec time: 21
+21:51:44.570578> Exec time: 66
+21:51:44.575564> Exec time: 46
+21:51:44.738583> Exec time: 21
+21:51:44.743569> Exec time: 18
+21:51:44.898579> Exec time: 24
+21:51:44.902579> Exec time: 11
+21:51:45.050586> Exec time: 2385
+21:51:45.058586> Exec time: 12
+21:51:45.376978> Exec time: 19
+21:51:45.381948> Exec time: 24
+21:51:46.334572> Exec time: 23
+21:51:46.339571> Exec time: 22
+21:51:46.997284> Exec time: 30
+21:51:47.001279> Exec time: 38
+21:51:47.361301> Exec time: 19
+21:51:47.365295> Exec time: 16

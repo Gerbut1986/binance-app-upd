@@ -1,0 +1,209 @@
+﻿<UserControl x:Class="BinanceOptionsApp.Dashboard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="1100" Loaded="UserControl_Loaded">
+    
+    <Grid>      
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <GroupBox Foreground="White" Header="{DynamicResource locProcessors}" Margin="5" Grid.Row="0" Background="Gray">
+            <Grid Background="Gray">
+                <DataGrid  
+                          AutoGenerateColumns="False" IsReadOnly="True" CanUserReorderColumns="False" CanUserResizeRows="False"
+                          ItemsSource="{Binding Tabs}" Background="Gray" BorderThickness="0">
+                    <DataGrid.Columns>
+                        <DataGridTemplateColumn Header="">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Grid>
+                                        <!--<Image Source="Res/green-orb.png" Width="18" Height="18" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="{Binding FeederOk,Converter={StaticResource bToV}}"></Image>
+                                        <Image Source="Res/red-orb.png" Width="18" Height="18" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="{Binding FeederOk,Converter={StaticResource bToVi}}"></Image>-->
+                                    </Grid>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Grid Height="Auto" Margin="3,0,3,1">
+                                        <Button x:Name="buStart" Width="80" Click="BuStart_Click" Visibility="{Binding Started,Converter={StaticResource bToVi}}" Content="{DynamicResource locStart}"></Button>
+                                        <Button x:Name="buStop" Width="80" Click="BuStop_Click" Visibility="{Binding Started,Converter={StaticResource bToV}}" Content="{DynamicResource locStop}"></Button>
+                                    </Grid>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="{DynamicResource locName}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Title}" Foreground="#006dc5"></TextBlock>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+
+
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="{DynamicResource locFastBid}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock TextAlignment="Center" Foreground="#002344">
+                                        <TextBlock.Text>
+                                            <MultiBinding Converter="{StaticResource priceConv}">
+                                                <Binding Path="Fast"></Binding>
+                                                <Binding Path="Fast.Bid"></Binding>
+                                            </MultiBinding>
+                                        </TextBlock.Text>
+                                    </TextBlock>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="{DynamicResource locFastAsk}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock TextAlignment="Center" Foreground="#002344">
+                                        <TextBlock.Text>
+                                            <MultiBinding Converter="{StaticResource priceConv}">
+                                                <Binding Path="Fast"></Binding>
+                                                <Binding Path="Fast.Ask"></Binding>
+                                            </MultiBinding>
+                                        </TextBlock.Text>
+                                    </TextBlock>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="{DynamicResource locFastTime}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock TextAlignment="Center"
+                                        Foreground="#002344" Text="{Binding Fast.Time, Converter={StaticResource dtToTS}}"></TextBlock>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="{DynamicResource locFastLot}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock TextAlignment="Center"
+                                        Foreground="#002344"
+                                        Text="{Binding Fast.Volume, Converter={StaticResource volConv}}"></TextBlock>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="{DynamicResource locSlowBid}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock TextAlignment="Center" Foreground="#002344">
+                                        <TextBlock.Text>
+                                            <MultiBinding Converter="{StaticResource priceConv}">
+                                                <Binding Path="Slow"></Binding>
+                                                <Binding Path="Slow.Bid"></Binding>
+                                            </MultiBinding>
+                                        </TextBlock.Text>
+                                    </TextBlock>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="{DynamicResource locSlowAsk}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock TextAlignment="Center" Foreground="#002344">
+                                        <TextBlock.Text>
+                                            <MultiBinding Converter="{StaticResource priceConv}">
+                                                <Binding Path="Slow"></Binding>
+                                                <Binding Path="Slow.Ask"></Binding>
+                                            </MultiBinding>
+                                        </TextBlock.Text>
+                                    </TextBlock>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="{DynamicResource locSlowTime}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <!--<TextBlock TextAlignment="Center"
+                                        Foreground="#002344" Text="{Binding Slow.Time, Converter={StaticResource dtToTS}}"></TextBlock>-->
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="{DynamicResource locSlowLot}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <!--<TextBlock TextAlignment="Center"
+                                        Foreground="#002344" Text="{Binding Slow.Volume, Converter={StaticResource volConv}}"></TextBlock>-->
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="{DynamicResource locGapBuy}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <!--<TextBlock TextAlignment="Center"
+                                        Text="{Binding GapBuy,Converter={StaticResource gapConv}}" Foreground="{Binding GapBuy,Converter={StaticResource gapColorConv}}"></TextBlock>-->
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>                            
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="{DynamicResource locGapSell}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <!--<TextBlock TextAlignment="Center"
+                                        Text="{Binding GapBuy,Converter={StaticResource gapConv}}" Foreground="{Binding GapSell,Converter={StaticResource gapColorConv}}"></TextBlock>-->
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="{DynamicResource locTickChart}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <!--<Button Style="{StaticResource myChartButton}" x:Name="buChart" IsEnabled="{Binding Started,Converter={StaticResource bToBi}}"
+                                            Width="32" Height="32" Click="BuChart_Click"></Button>-->
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="{DynamicResource locLastLogMessage}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding LastLog}" 
+                                               Foreground="{Binding LastLogBrush}"></TextBlock>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+        </GroupBox>
+        
+        <GroupBox Foreground="White" Grid.Row="2" Header="{DynamicResource locConnections}" Margin="5" 
+                  Background="Black">
+            <Grid Background="Gray">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="42"></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="5">
+                    <ComboBox x:Name="comboAddConnection" MinWidth="130"></ComboBox>
+                    <Button x:Name="buAddConnection" Margin="5,0,0,0" MinWidth="140" Click="BuAddConnection_Click" Content="{DynamicResource locAddConnection}"></Button>
+                    <Button x:Name="buRemoveConnection" Margin="2,0,0,0" MinWidth="80" Click="BuRemoveConnection_Click" Content="{DynamicResource locRemoveConnection}"></Button>
+                    <Button x:Name="buEditConnection" Margin="5,0,0,0" MinWidth="80" Click="BuEditConnection_Click" Content="{DynamicResource locEditConnection}"></Button>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Right">
+                    <TextBlock x:Name="eaVersion" VerticalAlignment="Center" Foreground="White"></TextBlock>
+                </StackPanel>
+                <DataGrid x:Name="dgConnections" 
+                          Grid.Row="1" AutoGenerateColumns="False" IsReadOnly="True" CanUserReorderColumns="False" CanUserResizeRows="False"
+                          SelectionChanged="DgConnections_SelectionChanged" SelectionMode="Single" SelectionUnit="FullRow">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="{DynamicResource locName}" Binding="{Binding Name}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="{DynamicResource locType}" Binding="{Binding Type}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="{DynamicResource locLogin}" Binding="{Binding Login}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="{DynamicResource locAccount}" Binding="{Binding Account}"></DataGridTextColumn>
+                    </DataGrid.Columns>
+
+                </DataGrid>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</UserControl>

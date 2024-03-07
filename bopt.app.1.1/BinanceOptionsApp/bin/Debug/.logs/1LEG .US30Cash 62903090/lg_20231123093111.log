@@ -1,0 +1,7 @@
+09:31:11.153479> StopBalance = 552.42
+09:47:53.662340> BUY .US30Cash 1.00 signal received at 35297.70, fastSpread=48.00
+09:47:54.051167> BUY OK .US30Cash at 35299.70;Gap=163.37;Price=35297.70;Slippage=-200.0;Execution=386.825 ms; Execution2=388 ms
+09:59:55.022640> CLOSE .US30Cash 1.00 signal received at 35288.30, fastSpread=95.00
+09:59:55.333735> CLOSE OK .US30Cash at 35291.30;Gap=257.74;Price=35288.30;Slippage=300.0 by SL ;Execution=310.095 ms
+10:07:09.519717> BUY .US30Cash 1.00 signal received at 35280.70, fastSpread=98.00
+10:07:09.941480> BUY OK .US30Cash at 35280.70;Gap=199.39;Price=35280.70;Slippage=0.0;Execution=419.764 ms; Execution2=421 ms

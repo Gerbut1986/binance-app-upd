@@ -1,0 +1,194 @@
+﻿<ResourceDictionary
+    x:Class="BinanceOptionsApp.CustomStyles.CustomWindowStyle"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:cs="clr-namespace:BinanceOptionsApp.CustomStyles">
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="Resources.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+    
+    <Style x:Key="cwMinimizeButton" TargetType="{x:Type Button}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Grid>
+                        <Image Source="../res/minimize.png" Width="26" Height="26" x:Name="PART_Image"></Image>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="PART_Image" Property="Source" Value="../res/minimize2.png" />
+                        </Trigger>
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="PART_Image" Property="Opacity" Value="0.7" />
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <Style x:Key="cwCloseButton" TargetType="{x:Type Button}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Grid>
+                        <Image Source="../res/close.png" Width="26" Height="26" x:Name="PART_Image"></Image>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="PART_Image" Property="Source" Value="../res/close2.png" />
+                        </Trigger>
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="PART_Image" Property="Opacity" Value="0.7" />
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="cwWindowStyle" TargetType="{x:Type Window}">
+        <Setter Property="AllowsTransparency" Value="true" />
+        <Setter Property="WindowStyle" Value="None" />
+        <Setter Property="Background" Value="Transparent" />
+        <Setter Property="ResizeMode" Value="CanResizeWithGrip" />
+        <Setter Property="SnapsToDevicePixels" Value="True"></Setter>
+        <Setter Property="WindowChrome.WindowChrome">
+            <Setter.Value>
+                <WindowChrome
+                    NonClientFrameEdges="None"
+                    GlassFrameThickness="0"
+                    ResizeBorderThickness="7"
+                    CaptionHeight="{Binding Path=(cs:CustomWindowSettings.TitleHeight),RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window}}"
+                />
+            </Setter.Value>
+        </Setter>
+        <EventSetter Event="Loaded" Handler="WindowLoaded" />
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Window}">
+                    <Border x:Name="PART_Container" Padding="7 7 7 5" 
+                            SnapsToDevicePixels="True" RenderOptions.BitmapScalingMode="NearestNeighbor">
+                        <Grid TextOptions.TextRenderingMode="ClearType" TextOptions.TextFormattingMode="Display" 
+                              Background="{StaticResource cwWindowTitleBackground}">
+                            <Image Source="../Res/header.png" Width="376" Height="63"
+                                   VerticalAlignment="Top" HorizontalAlignment="Left" Margin="0,1,0,0"></Image>
+                            <Border x:Name="PART_Border" Width="Auto" Height="Auto" Background="#97e2f9"
+                                    BorderBrush="{StaticResource cwWindowBorderBrush}" BorderThickness="1" Padding="0">
+                                <DockPanel HorizontalAlignment="Stretch" Background="Transparent" VerticalAlignment="Stretch">
+                                    <Border x:Name="TitleBar" DockPanel.Dock="Top" Background="{StaticResource cwWindowTitleBackground}"
+                                        BorderThickness="0">
+                                        <Grid Height="{Binding Path=(cs:CustomWindowSettings.TitleHeight),RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window}}">
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="36"/>
+                                                <ColumnDefinition />
+                                                <ColumnDefinition x:Name="MinButtonColumn" Width="28"/>
+                                                <ColumnDefinition x:Name="MaxButtonColumn" Width="0"/>
+                                                <ColumnDefinition Width="28"/>
+                                                <ColumnDefinition Width="2"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Image x:Name="Icon" Grid.Column="0"
+                                                Source="{Binding Path=Icon, Mode=OneWay, RelativeSource={RelativeSource TemplatedParent}}" 
+                                                HorizontalAlignment="Right" Margin="4,2,0,2"
+                                                Width="32" Height="32"
+                                                
+                                                />
+                                            <TextBlock x:Name="Caption" Grid.Column="1" 
+                                                HorizontalAlignment="Left" VerticalAlignment="Center" Margin="4,2,0,0"
+                                                FontFamily="Arial" FontSize="16"
+                                                Text="{Binding Path=Title, Mode=OneWay, RelativeSource={RelativeSource TemplatedParent}}"
+                                                />
+                                            <Button x:Name="MinButton" WindowChrome.IsHitTestVisibleInChrome="True"
+                                                Grid.Column="2" VerticalAlignment="Top"
+                                                Margin="0,3,0,0"
+                                                Width="26" Height="26"
+                                                Click="MinButtonClick"
+                                                Focusable="False"
+                                                Style="{StaticResource cwMinimizeButton}"
+                                                >
+                                            </Button>
+                                            <Button Grid.Column="3" x:Name="MaxButton" WindowChrome.IsHitTestVisibleInChrome="True"
+                                                VerticalAlignment="Top"
+                                                Margin="0,3,0,0"
+                                                Width="26"
+                                                Height="26"
+                                                Click="MaxButtonClick"
+                                                Focusable="False"
+                                                >
+                                            </Button>
+                                            <Button WindowChrome.IsHitTestVisibleInChrome="True"
+                                                Grid.Column="4"
+                                                x:Name="CloseButton" 
+                                                VerticalAlignment="Top"
+                                                Margin="0,3,0,0"
+                                                Width="26"
+                                                Height="26"
+                                                Click="CloseButtonClick"
+                                                Focusable="False"
+                                                Style="{StaticResource cwCloseButton}"
+                                                >
+                                            </Button>
+                                        </Grid>
+                                    </Border>
+                                    <ContentPresenter />
+                                </DockPanel>
+                            </Border>
+                        </Grid>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="cs:CustomWindowSettings.StandardIcon" Value="False">
+                            <Setter TargetName="Icon" Property="Visibility" Value="Collapsed"></Setter>
+                        </Trigger>
+                        <Trigger Property="cs:CustomWindowSettings.StandardCaption" Value="False">
+                            <Setter TargetName="Caption" Property="Visibility" Value="Collapsed"></Setter>
+                        </Trigger>
+                        <Trigger Property="cs:CustomWindowSettings.AllowMaximize" Value="False">
+                            <Setter TargetName="MaxButton" Property="Visibility" Value="Collapsed"></Setter>
+                            <Setter TargetName="MaxButtonColumn" Property="Width" Value="0"></Setter>
+                        </Trigger>
+                        <Trigger Property="cs:CustomWindowSettings.AllowMinimize" Value="False">
+                            <Setter TargetName="MinButton" Property="Visibility" Value="Collapsed"></Setter>
+                            <Setter TargetName="MinButtonColumn" Property="Width" Value="0"></Setter>
+                        </Trigger>
+                        <Trigger Property="cs:CustomWindowSettings.UseCustomBackground" Value="True">
+                            <Setter TargetName="TitleBar" Property="Background" Value="{Binding Path=(cs:CustomWindowSettings.CustomBackground),RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window}}"></Setter>
+                        </Trigger>
+                        <Trigger Property="cs:CustomWindowSettings.UseImageBackground" Value="True">
+                            <Setter TargetName="TitleBar" Property="Background" Value="Transparent"></Setter>
+                            <Setter TargetName="PART_Border" Property="Background" Value="{Binding Path=(cs:CustomWindowSettings.ImageBackground),RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window}}"></Setter>
+                        </Trigger>
+                        <Trigger Property="cs:CustomWindowSettings.UseTitleColor" Value="True">
+                            <Setter TargetName="Caption" Property="Foreground" Value="{Binding Path=(cs:CustomWindowSettings.TitleColor),RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window}}"></Setter>
+                        </Trigger>
+                        <Trigger Property="WindowState" Value="Normal">
+                            <Setter TargetName="PART_Border" Property="Effect">
+                                <Setter.Value>
+                                    <DropShadowEffect
+                                        Color="black"
+                                        Opacity="0.5"
+                                        BlurRadius="7"
+                                        ShadowDepth="2"
+                                        Direction="315"/>
+                                </Setter.Value>
+                            </Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Style.Resources>
+            <Style TargetType="{x:Type StatusBar}">
+                <Style.Triggers>
+                    <DataTrigger Binding="{Binding IsActive, RelativeSource={RelativeSource AncestorType=Window}}" Value="True">
+                        <Setter Property="Foreground" Value="{StaticResource cwWindowStatusForeground}" />
+                        <Setter Property="Background" Value="{StaticResource cwWindowBorderBrush}" />
+                    </DataTrigger>
+                    <DataTrigger Binding="{Binding IsActive, RelativeSource={RelativeSource AncestorType=Window}}" Value="False">
+                        <Setter Property="Foreground" Value="{StaticResource cwWindowStatusForegroundInactive}" />
+                        <Setter Property="Background" Value="{StaticResource cwWindowBorderBrushInactive}" />
+                    </DataTrigger>
+                </Style.Triggers>
+            </Style>
+        </Style.Resources>
+    </Style>
+</ResourceDictionary>

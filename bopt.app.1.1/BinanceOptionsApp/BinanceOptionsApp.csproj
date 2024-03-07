@@ -1,0 +1,1281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DC0D2EA3-8886-4349-9913-BDD1F798ED91}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BinanceOptionsApp</RootNamespace>
+    <AssemblyName>BinanceOptionsApp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationIcon>AngryCat.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Activ.ContentGatewayApi, Version=2.3.0.1, Culture=neutral, PublicKeyToken=7ce2d61b4bd0bffa, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\Activ.ContentGatewayApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Activ.Middleware, Version=2.3.0.1, Culture=neutral, PublicKeyToken=7ce2d61b4bd0bffa, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\Activ.Middleware.dll</HintPath>
+    </Reference>
+    <Reference Include="Dsafa.WpfColorPicker, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dsafa.WpfColorPicker.1.3.0\lib\net462\Dsafa.WpfColorPicker.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.13.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>packages\log4net.2.0.3\lib\net40-full\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.SignalR.Client, Version=2.4.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.SignalR.Client.2.4.3\lib\net45\Microsoft.AspNet.SignalR.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Win32.Primitives.4.3.0\lib\net46\Microsoft.Win32.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationFramework.Aero" />
+    <Reference Include="RestSharp, Version=106.12.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.Client">
+      <HintPath>..\..\..\My WebSocket4Net\SuperSocket.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.ClientEngine, Version=0.10.0.0, Culture=neutral, PublicKeyToken=ee9af13f57f00acc" />
+    <Reference Include="System" />
+    <Reference Include="System.AppContext, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.AppContext.4.3.0\lib\net463\System.AppContext.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.CodeDom, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.CodeDom.6.0.0\lib\net461\System.CodeDom.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Specialized, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Collections.Specialized.4.3.0\lib\net46\System.Collections.Specialized.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Console, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Console.4.3.0\lib\net46\System.Console.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Diagnostics.DiagnosticSource.4.3.0\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tracing, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Diagnostics.Tracing.4.3.0\lib\net462\System.Diagnostics.Tracing.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Globalization.Calendars, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Globalization.Calendars.4.3.0\lib\net46\System.Globalization.Calendars.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.4.3.0\lib\net462\System.IO.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.Compression.4.3.0\lib\net46\System.IO.Compression.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.IO.Compression.ZipFile, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.Compression.ZipFile.4.3.0\lib\net46\System.IO.Compression.ZipFile.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.FileSystem.4.3.0\lib\net46\System.IO.FileSystem.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.FileSystem.Primitives.4.3.0\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Linq, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Linq.4.3.0\lib\net463\System.Linq.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Linq.Expressions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Linq.Expressions.4.3.0\lib\net463\System.Linq.Expressions.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net.Http, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Net.Http.4.3.0\lib\net46\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Net.NameResolution, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.NameResolution.4.3.0\lib\net46\System.Net.NameResolution.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Security, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Security.4.3.0\lib\net46\System.Net.Security.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Sockets, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Sockets.4.3.0\lib\net46\System.Net.Sockets.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Reflection.4.3.0\lib\net462\System.Reflection.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.4.3.0\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.Extensions.4.3.0\lib\net462\System.Runtime.Extensions.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.4.3.0\lib\net463\System.Runtime.InteropServices.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security.Cryptography.Algorithms, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Algorithms.4.3.0\lib\net463\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Encoding.4.3.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Primitives.4.3.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.X509Certificates.4.3.0\lib\net461\System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Text.RegularExpressions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.RegularExpressions.4.3.0\lib\net463\System.Text.RegularExpressions.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.ReaderWriter, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Xml.ReaderWriter.4.3.0\lib\net46\System.Xml.ReaderWriter.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="VisualMarketsEngine, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\bopt.app.1\BinanceOptionsApp\bin\Debug\VisualMarketsEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="websocket-sharp, Version=1.0.1.0, Culture=neutral, PublicKeyToken=5660b08a1845a91e, processorArchitecture=MSIL">
+      <HintPath>..\packages\WebSocketSharp-netstandard.1.0.1\lib\net45\websocket-sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="WebSocket4Net, Version=0.15.2.11, Culture=neutral, PublicKeyToken=eb4e154b696bf72a, processorArchitecture=MSIL">
+      <HintPath>..\packages\WebSocket4Net.0.15.2\lib\net45\WebSocket4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Websockets.Standard, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Websockets.Standard.1.0.0\lib\netstandard1.3\Websockets.Standard.dll</HintPath>
+    </Reference>
+    <Reference Include="Websockets.WebSocket4Net, Version=1.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Websockets.WebSocket4Net.1.0.2\lib\netstandard1.3\Websockets.WebSocket4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WPBrige, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\WPBrige.dll</HintPath>
+    </Reference>
+    <Reference Include="WpfScreenHelper, Version=0.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WpfScreenHelper.0.3.0.0\lib\net40\WpfScreenHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Yummy, Version=1.0.7858.26752, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\Yummy.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="AddHeader.xaml.cs">
+      <DependentUpon>AddHeader.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Arbitrage\Api\Clients\BaseClient.cs" />
+    <Compile Include="Arbitrage\Api\Clients\Client.cs" />
+    <Compile Include="Arbitrage\Api\Clients\ITcpClientEvents.cs" />
+    <Compile Include="Arbitrage\Api\Clients\ITcpIpClient.cs" />
+    <Compile Include="Arbitrage\Api\Clients\MsgTypes.cs" />
+    <Compile Include="Arbitrage\Api\Clients\StopTcpIpConnectionTimer.cs" />
+    <Compile Include="Arbitrage\Api\Clients\TcpIpClient.cs" />
+    <Compile Include="Arbitrage\Api\Clients\TcpIpReader.cs" />
+    <Compile Include="Arbitrage\Api\Clients\TcpIpReaderAction.cs" />
+    <Compile Include="Arbitrage\Api\Clients\TcpIpWriter.cs" />
+    <Compile Include="Arbitrage\Api\Dto\BrokerDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\BrokerFeatureDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\BrokerFeatureExDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\BrokerWithFeaturesDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\ClientRequestDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\ClientResponseDto`1.cs" />
+    <Compile Include="Arbitrage\Api\Dto\FeatureDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\IClientResponseDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\InstrumentDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\ProductDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\SubscriptionBrokerDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\SubscriptionBrokerExDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\SubscriptionDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\SubscriptionFeatureDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\SubscriptionFeatureExDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\SubscriptionLoginRequestDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\SubscriptionLoginResponseDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\SubscriptionRegisterRequestDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\SubscriptionRegisterResponseDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\SubscriptionWithFeaturesAndBrokersDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\TcpClientLoginRequestDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\TradingAccountDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\TradingAccountWithSubscriptionDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\TradingLogCreateRequestDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\TradingLogCreateResponseDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\TradingLogDto.cs" />
+    <Compile Include="Arbitrage\Api\Dto\TradingLogWithAccountDto.cs" />
+    <Compile Include="Arbitrage\Api\Enums\ResponseStatus.cs" />
+    <Compile Include="Arbitrage\Api\Enums\SubscriptionStatus.cs" />
+    <Compile Include="Arbitrage\Api\Enums\TcpConnectorType.cs" />
+    <Compile Include="Arbitrage\Api\Enums\TcpMessageType.cs" />
+    <Compile Include="Arbitrage\Api\Json\IClientJsonConverter.cs" />
+    <Compile Include="Arbitrage\Api\Json\Net\ClientJsonConverter.cs" />
+    <Compile Include="Arbitrage\Api\Security\ComputerId.cs" />
+    <Compile Include="Arbitrage\Api\Security\Helpers.cs" />
+    <Compile Include="Arbitrage\App\SerialNumber.cs" />
+    <Compile Include="CircularProgressBar.xaml.cs">
+      <DependentUpon>CircularProgressBar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Connections\ConnectionModel.cs" />
+    <Compile Include="Editors\BinanceOptions.xaml.cs">
+      <DependentUpon>BinanceOptions.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Editors\EditorBinanceFutures.xaml.cs">
+      <DependentUpon>EditorBinanceFutures.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Editors\EditorTestNetSpot.xaml.cs">
+      <DependentUpon>EditorTestNetSpot.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\Extensions\ExMethod.cs" />
+    <Compile Include="Helpers\Extensions\ObjConverter.cs" />
+    <Compile Include="Helpers\_.cs" />
+    <Compile Include="Models\Algo\OptChainLogic.cs" />
+    <Compile Include="Models\Algo\ZigZagFuture.cs" />
+    <Compile Include="Models\Algo\ZigZagSpot.cs" />
+    <Compile Include="Models\InputItemModel.cs" />
+    <Compile Include="Models\OptChainExecution.cs" />
+    <Compile Include="Models\ProjectModel.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Future\AggTradeFuture.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Future\BookTickerF.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Future\BookTickerFuture.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Future\DepthFuture.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Future\DepthHttpReqFuture.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Future\DepthLimit.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Future\MarketDepthUpdateFuture.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Future\Quote.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Future\QuoteFuture.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Future\QuoteAskBidFuture.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Future\TimeAndSaleFuture.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Future\TimeAndSale_BidAskFuture.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Spot\BookTickerSpot.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Spot\Depth.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Spot\DepthSpot.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Spot\MarketDepthUpdate.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Spot\MarketDepthUpdateSpot.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Spot\MyTradeSpot.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Spot\PartialDepthSpot.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Spot\QuoteSpot.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Spot\QuoteAskBid.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Spot\TimeAndSale.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Spot\TimeAndSale_BidAsk.cs" />
+    <Compile Include="MultiTerminal\Connections\BinanceFutureClient.cs" />
+    <Compile Include="MultiTerminal\Connections\BinanceOptionClient.cs" />
+    <Compile Include="MultiTerminal\Connections\ConnectorsFactory.cs" />
+    <Compile Include="Connections\InternalProvidersConnectionModel.cs" />
+    <Compile Include="Controls\DecimalTextBox.cs" />
+    <Compile Include="Controls\DiagnosticsGrid.xaml.cs">
+      <DependentUpon>DiagnosticsGrid.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DoubleTextBox.cs" />
+    <Compile Include="Controls\IntegerTextBox.cs" />
+    <Compile Include="Controls\NumericStringExtensions.cs" />
+    <Compile Include="Converters\BooleanConverter.cs" />
+    <Compile Include="Converters\BoolToVisibilityConverter.cs" />
+    <Compile Include="Converters\DateTimeConverter.cs" />
+    <Compile Include="Converters\DecimalConverter.cs" />
+    <Compile Include="Converters\GapBrushConverter.cs" />
+    <Compile Include="Converters\MinMaxBackConverter.cs" />
+    <Compile Include="Converters\PriceConverter.cs" />
+    <Compile Include="Converters\TickSpeedConverter.cs" />
+    <Compile Include="Converters\ToCharsConverter.cs" />
+    <Compile Include="CustomStyles\CustomWindowSettings.cs" />
+    <Compile Include="CustomStyles\CustomWindowStyle.cs" />
+    <Compile Include="CustomStyles\LocalExtensions.cs" />
+    <Compile Include="Dashboard.xaml.cs">
+      <DependentUpon>Dashboard.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DashHeader.xaml.cs">
+      <DependentUpon>DashHeader.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DataSubscribe.cs" />
+    <Compile Include="Data\Lists.cs" />
+    <Compile Include="Editors\EditorBase.cs" />
+    <Compile Include="Editors\EditorBinance.xaml.cs">
+      <DependentUpon>EditorBinance.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Editors\EditorTestNet.xaml.cs">
+      <DependentUpon>EditorTestNet.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\EMailSender.cs" />
+    <Compile Include="Helpers\Enumerations.cs" />
+    <Compile Include="Helpers\EnumToItemsSource.cs" />
+    <Compile Include="Helpers\GridHelpers.cs" />
+    <Compile Include="Helpers\IOHelper.cs" />
+    <Compile Include="Helpers\MetatraderInstances.cs" />
+    <Compile Include="Helpers\MovingAverage.cs" />
+    <Compile Include="Helpers\PropertyCopier.cs" />
+    <Compile Include="Helpers\RegistryExtensions.cs" />
+    <Compile Include="Helpers\Ring.cs" />
+    <Compile Include="Helpers\ThreadSafeQueue.cs" />
+    <Compile Include="HiddenLogs.cs" />
+    <Compile Include="Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MessageWindow.xaml.cs">
+      <DependentUpon>MessageWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Model.cs" />
+    <Compile Include="Models\AlgoControlModel.cs" />
+    <Compile Include="Models\AlgoOneLegMultiModel.cs" />
+    <Compile Include="Models\AlgoOneLegMultiVisualizers.cs" />
+    <Compile Include="Models\BaseModel.cs" />
+    <Compile Include="Models\ConfigModel.cs" />
+    <Compile Include="Models\LoginModel.cs" />
+    <Compile Include="Models\OptionsModel.cs" />
+    <Compile Include="Models\ProviderModel.cs" />
+    <Compile Include="Models\TradeModel.cs" />
+    <Compile Include="Mouse.cs" />
+    <Compile Include="MultiTerminal\Connections\BaseCryptoClient.cs" />
+    <Compile Include="MultiTerminal\Connections\BinanceCryptoClient.cs" />
+    <Compile Include="MultiTerminal\Connections\BinanceTestnetCryptoClient.cs" />
+    <Compile Include="MultiTerminal\Connections\Details\Binance\Dto.cs" />
+    <Compile Include="MultiTerminal\Connections\Details\Binance\EndPoints.cs" />
+    <Compile Include="MultiTerminal\Connections\Details\Binance\Extensions.cs" />
+    <Compile Include="MultiTerminal\Connections\API\Future\ExchangeInfoModel.cs" />
+    <Compile Include="MultiTerminal\Connections\IConnector.cs" />
+    <Compile Include="MultiTerminal\Connections\Models\BinanceConnectionModel.cs" />
+    <Compile Include="MultiTerminal\Connections\Models\BinanceFutureConnectionModel.cs" />
+    <Compile Include="MultiTerminal\Connections\Models\BinanceOptionConnectionModel.cs" />
+    <Compile Include="MultiTerminal\Connections\Models\BinancePositionMode.cs" />
+    <Compile Include="MultiTerminal\Connections\BinanceTestnetSpotClient.cs" />
+    <Compile Include="MultiTerminal\Connections\Models\ConnectionModel.cs" />
+    <Compile Include="MultiTerminal\Connections\Models\ConnectionsModel.cs" />
+    <Compile Include="MultiTerminal\Connections\Models\CryptoConnectionModel.cs" />
+    <Compile Include="MultiTerminal\Connections\Models\TestnetConnectionModel.cs" />
+    <Compile Include="MultiTerminal\Connections\Models\TestnetSpotConnectionModel.cs" />
+    <Compile Include="MultiTerminal\Connections\OpenInterestModel.cs" />
+    <Compile Include="MultiTerminal\Connections\OptChain.cs" />
+    <Compile Include="MultiTerminal\Connections\TickerData.cs" />
+    <Compile Include="MyParallel.cs" />
+    <Compile Include="OptionsDialog.xaml.cs">
+      <DependentUpon>OptionsDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="OrderTypeEditor.xaml.cs">
+      <DependentUpon>OrderTypeEditor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PriceMarker.xaml.cs">
+      <DependentUpon>PriceMarker.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Processors\IProcessorInput.cs" />
+    <Compile Include="ProviderControl.xaml.cs">
+      <DependentUpon>ProviderControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProviderDescription.xaml.cs">
+      <DependentUpon>ProviderDescription.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProviderEditDialog.xaml.cs">
+      <DependentUpon>ProviderEditDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StringValueDialog.xaml.cs">
+      <DependentUpon>StringValueDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TickOptimizer.xaml.cs">
+      <DependentUpon>TickOptimizer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TickOptimizerOG.xaml.cs">
+      <DependentUpon>TickOptimizerOG.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TradeLatencyArbitrage.xaml.cs">
+      <DependentUpon>TradeLatencyArbitrage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TradeMultiLegSpread.xaml.cs">
+      <DependentUpon>TradeMultiLegSpread.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TradeOneLeg.xaml.cs">
+      <DependentUpon>TradeOneLeg.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TradeProcessor.cs" />
+    <Compile Include="TradeScalper.xaml.cs">
+      <DependentUpon>TradeScalper.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TradeTabEvent.cs" />
+    <Compile Include="TradeTabInterface.cs" />
+    <Compile Include="TradeVisualizer.xaml.cs">
+      <DependentUpon>TradeVisualizer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BinanceOptionsAppService\ManagerInstaller.cs" />
+    <Compile Include="BinanceOptionsAppService\ScmAccessRights.cs" />
+    <Compile Include="BinanceOptionsAppService\ServiceAccessRights.cs" />
+    <Compile Include="BinanceOptionsAppService\ServiceBootFlag.cs" />
+    <Compile Include="BinanceOptionsAppService\ServiceControl.cs" />
+    <Compile Include="BinanceOptionsAppService\ServiceError.cs" />
+    <Compile Include="BinanceOptionsAppService\ServiceState.cs" />
+    <Compile Include="TradeZigZag.xaml.cs">
+      <DependentUpon>TradeZigZag.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TwoLegArbFutureUSD_M.xaml.cs">
+      <DependentUpon>TwoLegArbFutureUSD_M.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TwoLegFutures.xaml.cs">
+      <DependentUpon>TwoLegFutures.xaml</DependentUpon>
+    </Compile>
+    <Page Include="AddHeader.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CircularProgressBar.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Controls\DiagnosticsGrid.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CustomStyles\ButtonStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CustomStyles\CheckBoxStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CustomStyles\ComboBoxStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CustomStyles\ContextMenuStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CustomStyles\CustomWindowStyle.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CustomStyles\DataGridStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CustomStyles\GroupBoxStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CustomStyles\ListBoxStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CustomStyles\MenuStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CustomStyles\Resources.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CustomStyles\ScrollBarStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CustomStyles\Styles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CustomStyles\TabControlStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CustomStyles\TextBoxStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Dashboard.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="DashHeader.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Editors\BinanceOptions.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Editors\EditorBinance.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Editors\EditorBinanceFutures.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Editors\EditorTestNet.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Editors\EditorTestNetSpot.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Lang\Chinese.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Lang\English.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Login.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="MessageWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="OptionsDialog.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="OrderTypeEditor.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PriceMarker.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ProviderControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ProviderDescription.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ProviderEditDialog.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StringValueDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TickOptimizer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TickOptimizerOG.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TradeLatencyArbitrage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TradeMultiLegSpread.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="TradeOneLeg.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="TradeScalper.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TradeVisualizer.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="TradeZigZag.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TwoLegArbFutureUSD_M.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TwoLegFutures.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agreement.rtf" />
+    <None Include="app.manifest" />
+    <None Include="bin\Debug\.cfg\.fix\lmaxfix - craigaustin.cfg" />
+    <None Include="bin\Debug\.cfg\.fix\lmaxfix - keezn1991aud.cfg" />
+    <None Include="bin\Debug\.cfg\.fix\lmaxfix - mad450.cfg" />
+    <None Include="bin\Debug\.cfg\.fix\lmaxfix - sergeywp2019.cfg" />
+    <None Include="bin\Debug\.cfg\.fix\lmaxfix-sergey-demo.cfg" />
+    <None Include="bin\Debug\.cfg\.fix\lmaxfix-sergeywp.cfg" />
+    <None Include="bin\Debug\.cfg\.fix\onezerofix - balayogesh.cfg" />
+    <None Include="bin\Debug\.cfg\.srv\ActivTradesCorp-5.srv" />
+    <None Include="bin\Debug\.cfg\.srv\AdmiralMarkets-Demo.srv" />
+    <None Include="bin\Debug\.cfg\.srv\Dukascopy-demo-1.srv" />
+    <None Include="bin\Debug\.cfg\.srv\RoboForex-DemoPro.srv" />
+    <None Include="bin\Debug\.cfg\.srv\RoboForex-ProCent-7.srv" />
+    <None Include="bin\Debug\.cfg\.ssl\QuickFixn-TestCA.cer" />
+    <None Include="bin\Debug\.cfg\.ssl\QuickFixn-TestClient.pfx" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 24452142\20220325151742.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 24452142\20220325151743.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 24452142\20220325163110.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 5680154\20220325221525.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 5680154\20220325221541.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 5680154\20220325221706.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 5680154\20220325221727.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 5680154\20220325223032.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 932440\20220324134548.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 932440\20220324161141.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 932440\20220325132013.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 932440\20220325132216.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 932440\20220325132237.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 932440\20220325135253.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 932440\20220325135305.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 932440\20220325144035.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 932440\20220325144230.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 932440\20220325144532.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 932440\20220325144538.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 932440\20220325144602.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 932440\20220325151537.1leg" />
+    <None Include="bin\Debug\.data\1LEG EURUSD 932440\20220325151631.1leg" />
+    <None Include="bin\Debug\.logs\1LEG .FRANCECash 290003\db_20220412220058.log" />
+    <None Include="bin\Debug\.logs\1LEG .FRANCECash 290003\db_20220412220221.log" />
+    <None Include="bin\Debug\.logs\1LEG .FRANCECash 290003\lg_20220412220058.log" />
+    <None Include="bin\Debug\.logs\1LEG .FRANCECash 290003\lg_20220412220221.log" />
+    <None Include="bin\Debug\.logs\1LEG .FRANCECash 290003\qu_20220412220058.log" />
+    <None Include="bin\Debug\.logs\1LEG .FRANCECash 290003\qu_20220412220221.log" />
+    <None Include="bin\Debug\.logs\1LEG .UK100Cash 290003\db_20220412220359.log" />
+    <None Include="bin\Debug\.logs\1LEG .UK100Cash 290003\db_20220412220441.log" />
+    <None Include="bin\Debug\.logs\1LEG .UK100Cash 290003\db_20220412220728.log" />
+    <None Include="bin\Debug\.logs\1LEG .UK100Cash 290003\db_20220412221740.log" />
+    <None Include="bin\Debug\.logs\1LEG .UK100Cash 290003\db_20220414233313.log" />
+    <None Include="bin\Debug\.logs\1LEG .UK100Cash 290003\lg_20220412220359.log" />
+    <None Include="bin\Debug\.logs\1LEG .UK100Cash 290003\lg_20220412220441.log" />
+    <None Include="bin\Debug\.logs\1LEG .UK100Cash 290003\lg_20220412220728.log" />
+    <None Include="bin\Debug\.logs\1LEG .UK100Cash 290003\lg_20220412221740.log" />
+    <None Include="bin\Debug\.logs\1LEG .UK100Cash 290003\lg_20220414233313.log" />
+    <None Include="bin\Debug\.logs\1LEG .UK100Cash 290003\qu_20220412220359.log" />
+    <None Include="bin\Debug\.logs\1LEG .UK100Cash 290003\qu_20220412220441.log" />
+    <None Include="bin\Debug\.logs\1LEG .UK100Cash 290003\qu_20220412220728.log" />
+    <None Include="bin\Debug\.logs\1LEG .UK100Cash 290003\qu_20220412221740.log" />
+    <None Include="bin\Debug\.logs\1LEG .UK100Cash 290003\qu_20220414233313.log" />
+    <None Include="bin\Debug\.logs\1LEG .US30Cash 62903090\db_20231123093111.log" />
+    <None Include="bin\Debug\.logs\1LEG .US30Cash 62903090\lg_20231123093111.log" />
+    <None Include="bin\Debug\.logs\1LEG .US30Cash 62903090\qu_20231123093111.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECash100 290003\db_20220414234055.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECash100 290003\qu_20220414234055.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECH100 290003\db_20220414233542.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECH100 290003\db_20220414233600.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECH100 290003\qu_20220414233542.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECH100 290003\qu_20220414233600.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220414234130.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220414234221.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220414234245.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220414234308.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220414234329.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220414234344.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220414234410.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220419231039.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220419231106.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220419231320.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220419231405.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220419231454.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220419231506.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220419231721.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220419231944.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220419233610.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220420000619.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220420000641.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220420000703.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220420000734.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220420000753.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220420003519.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220420004345.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220420004504.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220420004653.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220420004727.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220420004748.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220420004830.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220509190714.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220509190735.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220509190845.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220509190908.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220509191414.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220509191714.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220509192521.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220509192637.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220509193029.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220509193216.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220509212040.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220512224147.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\db_20220512235117.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\lg_20220419231454.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\lg_20220419231944.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\lg_20220509192637.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\lg_20220509193216.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220414234130.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220414234221.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220414234245.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220414234308.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220414234329.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220414234344.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220414234410.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220419231039.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220419231106.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220419231320.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220419231405.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220419231454.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220419231506.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220419231721.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220419231944.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220419233610.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220420000619.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220420000641.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220420000703.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220420000734.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220420000753.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220420003519.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220420004345.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220420004504.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220420004653.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220420004727.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220420004748.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220420004830.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220509190714.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220509190735.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220509190845.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220509190908.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220509191414.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220509191714.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220509192521.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220509192637.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220509193029.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220509193216.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220509212040.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220512224147.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash 290003\qu_20220512235117.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash100 290003\db_20220414234113.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash100 290003\db_20220414234121.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash100 290003\qu_20220414234113.log" />
+    <None Include="bin\Debug\.logs\1LEG .USTECHCash100 290003\qu_20220414234121.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 24452142\db_20220325151742.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 24452142\db_20220325151743.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 24452142\db_20220325163110.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 24452142\qu_20220325151742.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 24452142\qu_20220325151743.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 24452142\qu_20220325163110.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 290003\db_20220412215742.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 290003\qu_20220412215742.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 5680154\db_20220325221525.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 5680154\db_20220325221541.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 5680154\db_20220325221706.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 5680154\db_20220325221727.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 5680154\db_20220325223032.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 5680154\lg_20220325221525.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 5680154\lg_20220325221541.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 5680154\qu_20220325221525.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 5680154\qu_20220325221541.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 5680154\qu_20220325221706.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 5680154\qu_20220325221727.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 5680154\qu_20220325223032.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\db_20220324134548.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\db_20220324161141.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\db_20220325132013.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\db_20220325132216.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\db_20220325132237.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\db_20220325135253.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\db_20220325135305.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\db_20220325144034.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\db_20220325144230.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\db_20220325144532.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\db_20220325144538.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\db_20220325144602.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\db_20220325151537.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\db_20220325151631.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\lg_20220325132013.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\lg_20220325144034.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\lg_20220325144230.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\qu_20220324134548.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\qu_20220324161141.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\qu_20220325132013.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\qu_20220325132216.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\qu_20220325132237.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\qu_20220325135253.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\qu_20220325135305.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\qu_20220325144034.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\qu_20220325144230.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\qu_20220325144532.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\qu_20220325144538.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\qu_20220325144602.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\qu_20220325151537.log" />
+    <None Include="bin\Debug\.logs\1LEG EURUSD 932440\qu_20220325151631.log" />
+    <None Include="bin\Debug\.logs\1LEG Fra40 5680154\db_20220404154843.log" />
+    <None Include="bin\Debug\.logs\1LEG Fra40 5680154\db_20220404155141.log" />
+    <None Include="bin\Debug\.logs\1LEG Fra40 5680154\db_20220412212636.log" />
+    <None Include="bin\Debug\.logs\1LEG Fra40 5680154\db_20220412212642.log" />
+    <None Include="bin\Debug\.logs\1LEG Fra40 5680154\lg_20220404154843.log" />
+    <None Include="bin\Debug\.logs\1LEG Fra40 5680154\lg_20220404155141.log" />
+    <None Include="bin\Debug\.logs\1LEG Fra40 5680154\lg_20220412212642.log" />
+    <None Include="bin\Debug\.logs\1LEG Fra40 5680154\qu_20220404154843.log" />
+    <None Include="bin\Debug\.logs\1LEG Fra40 5680154\qu_20220404155141.log" />
+    <None Include="bin\Debug\.logs\1LEG Fra40 5680154\qu_20220412212636.log" />
+    <None Include="bin\Debug\.logs\1LEG Fra40 5680154\qu_20220412212642.log" />
+    <None Include="bin\Debug\.logs\1LEG UsaTec 290003\db_20220414233459.log" />
+    <None Include="bin\Debug\.logs\1LEG UsaTec 290003\qu_20220414233459.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\db_20231123085337.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\db_20231123103435.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\db_20231123103506.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\db_20231123103524.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\db_20231123103609.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\db_20231123110458.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\db_20231123110617.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\db_20231123110633.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\lg_20231123085337.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\lg_20231123103435.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\lg_20231123103506.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\lg_20231123103524.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\lg_20231123103609.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\lg_20231123110458.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\lg_20231123110617.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\lg_20231123110633.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\qu_20231123085337.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\qu_20231123103435.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\qu_20231123103506.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\qu_20231123103524.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\qu_20231123103609.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\qu_20231123110458.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\qu_20231123110617.log" />
+    <None Include="bin\Debug\.logs\2LEG SIMPLE UsaTec 5931218\qu_20231123110633.log" />
+    <None Include="bin\Debug\.logs\applog_20220325131929.log" />
+    <None Include="bin\Debug\.logs\applog_20220325135204.log" />
+    <None Include="bin\Debug\.logs\applog_20220325221321.log" />
+    <None Include="bin\Debug\.logs\applog_20220404152933.log" />
+    <None Include="bin\Debug\.logs\applog_20220412212552.log" />
+    <None Include="bin\Debug\.logs\applog_20220412215116.log" />
+    <None Include="bin\Debug\.logs\applog_20220412221722.log" />
+    <None Include="bin\Debug\.logs\applog_20220414233240.log" />
+    <None Include="bin\Debug\.logs\applog_20220419231005.log" />
+    <None Include="bin\Debug\.logs\applog_20220419231708.log" />
+    <None Include="bin\Debug\.logs\applog_20220509192141.log" />
+    <None Include="bin\Debug\.logs\applog_20231123085110.log" />
+    <None Include="bin\Debug\.presets\gtf.preset" />
+    <None Include="bin\Debug\.presets\gtf1.preset" />
+    <None Include="bin\Debug\.tmp\95.217.54.178-443.sym" />
+    <None Include="bin\Debug\.tmp\demo-mt4-ld-dc-01.dukascopy.com-443.sym" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BALAYOGESH_Q-ONEGMOZ_Q.body" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BALAYOGESH_Q-ONEGMOZ_Q.event.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BALAYOGESH_Q-ONEGMOZ_Q.header" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BALAYOGESH_Q-ONEGMOZ_Q.messages.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BALAYOGESH_Q-ONEGMOZ_Q.seqnums" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BALAYOGESH_Q-ONEGMOZ_Q.session" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BALAYOGESH_T-ONEGMOZ_T.body" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BALAYOGESH_T-ONEGMOZ_T.event.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BALAYOGESH_T-ONEGMOZ_T.header" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BALAYOGESH_T-ONEGMOZ_T.messages.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BALAYOGESH_T-ONEGMOZ_T.seqnums" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BALAYOGESH_T-ONEGMOZ_T.session" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BUsN2WCPEaDWrbS-LMXBD.body" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BUsN2WCPEaDWrbS-LMXBD.event.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BUsN2WCPEaDWrbS-LMXBD.header" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BUsN2WCPEaDWrbS-LMXBD.messages.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BUsN2WCPEaDWrbS-LMXBD.seqnums" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BUsN2WCPEaDWrbS-LMXBD.session" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BUsN2WCPEaDWrbS-LMXBDM.body" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BUsN2WCPEaDWrbS-LMXBDM.event.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BUsN2WCPEaDWrbS-LMXBDM.header" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BUsN2WCPEaDWrbS-LMXBDM.messages.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BUsN2WCPEaDWrbS-LMXBDM.seqnums" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-BUsN2WCPEaDWrbS-LMXBDM.session" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-CraigAustin-LMXBD.body" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-CraigAustin-LMXBD.event.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-CraigAustin-LMXBD.header" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-CraigAustin-LMXBD.messages.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-CraigAustin-LMXBD.seqnums" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-CraigAustin-LMXBD.session" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-CraigAustin-LMXBDM.body" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-CraigAustin-LMXBDM.event.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-CraigAustin-LMXBDM.header" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-CraigAustin-LMXBDM.messages.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-CraigAustin-LMXBDM.seqnums" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-CraigAustin-LMXBDM.session" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-keezn1991AUD-LMXBL.body" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-keezn1991AUD-LMXBL.event.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-keezn1991AUD-LMXBL.header" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-keezn1991AUD-LMXBL.messages.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-keezn1991AUD-LMXBL.seqnums" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-keezn1991AUD-LMXBL.session" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-keezn1991AUD-LMXBLM.body" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-keezn1991AUD-LMXBLM.event.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-keezn1991AUD-LMXBLM.header" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-keezn1991AUD-LMXBLM.messages.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-keezn1991AUD-LMXBLM.seqnums" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-keezn1991AUD-LMXBLM.session" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP-LMXBL.body" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP-LMXBL.event.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP-LMXBL.header" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP-LMXBL.messages.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP-LMXBL.seqnums" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP-LMXBL.session" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP-LMXBLM.body" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP-LMXBLM.event.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP-LMXBLM.header" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP-LMXBLM.messages.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP-LMXBLM.seqnums" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP-LMXBLM.session" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBD.body" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBD.event.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBD.header" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBD.messages.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBD.seqnums" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBD.session" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBDM.body" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBDM.event.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBDM.header" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBDM.messages.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBDM.seqnums" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBDM.session" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBL.body" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBL.event.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBL.header" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBL.messages.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBL.seqnums" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBL.session" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBLM.body" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBLM.event.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBLM.header" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBLM.messages.current.log" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBLM.seqnums" />
+    <None Include="bin\Debug\.tmp\FIX.4.4-SergeyWP2019-LMXBLM.session" />
+    <None Include="bin\Debug\.tmp\mt4-demopro.roboforex.com-443.sym" />
+    <None Include="bin\Release\WesternpipsPrivate7.exe.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\MT4EA.ex4" />
+    <None Include="Resources\MT5EA.ex5" />
+    <None Include="Res\options.psd" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Кнопка.png" />
+    <Resource Include="bin\Debug\.cfg\.dict\celerfix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\cfhfix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\ctraderfix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\dukasfix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\exantefix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\flextradefix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\fortexfix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\fxcmfix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\fxpigfix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\goldimatrixfix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\integralfix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\lmaxfix-market.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\lmaxfix-trading.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\ogmfix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\onezerofix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\primexmfix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\saxofix43.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\tradermadefix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\xenfinfix.xml" />
+    <Resource Include="bin\Debug\.cfg\.dict\xtrd.xml" />
+    <Resource Include="AngryCat.ico" />
+    <Content Include="bin\Debug\.cfg\.tools\Newtonsoft.Json.dll" />
+    <Resource Include="bin\Debug\.cfg\connections.xml" />
+    <Resource Include="bin\Debug\.cfg\login.xml" />
+    <Resource Include="bin\Debug\.cfg\main.xml" />
+    <Resource Include="bin\Debug\.cfg\options.xml" />
+    <Resource Include="bin\Debug\.dict\celerfix.xml" />
+    <Resource Include="bin\Debug\.dict\cfhfix.xml" />
+    <Resource Include="bin\Debug\.dict\ctraderfix.xml" />
+    <Resource Include="bin\Debug\.dict\dukasfix.xml" />
+    <Resource Include="bin\Debug\.dict\exantefix.xml" />
+    <Resource Include="bin\Debug\.dict\flextradefix.xml" />
+    <Resource Include="bin\Debug\.dict\fortexfix.xml" />
+    <Resource Include="bin\Debug\.dict\fxcmfix.xml" />
+    <Resource Include="bin\Debug\.dict\fxpigfix.xml" />
+    <Resource Include="bin\Debug\.dict\goldimatrixfix.xml" />
+    <Resource Include="bin\Debug\.dict\integralfix.xml" />
+    <Resource Include="bin\Debug\.dict\lmaxfix-market.xml" />
+    <Resource Include="bin\Debug\.dict\lmaxfix-trading.xml" />
+    <Resource Include="bin\Debug\.dict\ogmfix.xml" />
+    <Resource Include="bin\Debug\.dict\onezerofix.xml" />
+    <Resource Include="bin\Debug\.dict\primexmfix.xml" />
+    <Resource Include="bin\Debug\.dict\saxofix43.xml" />
+    <Resource Include="bin\Debug\.dict\tradermadefix.xml" />
+    <Resource Include="bin\Debug\.dict\xenfinfix.xml" />
+    <Resource Include="bin\Debug\.dict\xtrd.xml" />
+    <Content Include="bin\Debug\Activ.ContentGatewayApi.dll" />
+    <Content Include="bin\Debug\Activ.Middleware.dll" />
+    <Content Include="bin\Debug\LmaxClientLibrary.dll" />
+    <Content Include="bin\Debug\LoginId.dll" />
+    <Content Include="bin\Debug\Microsoft.AspNet.SignalR.Client.dll" />
+    <Content Include="bin\Debug\Microsoft.AspNet.SignalR.Client.pdb" />
+    <Resource Include="bin\Debug\Microsoft.AspNet.SignalR.Client.xml" />
+    <Content Include="bin\Debug\MT4ServerAPI.dll" />
+    <Content Include="bin\Debug\Newtonsoft.Json.dll" />
+    <Resource Include="bin\Debug\Newtonsoft.Json.xml" />
+    <Content Include="bin\Debug\QuickFix.dll" />
+    <Content Include="bin\Debug\RestSharp.dll" />
+    <Resource Include="bin\Debug\RestSharp.xml" />
+    <Content Include="bin\Debug\SuperSocket.ClientEngine.dll" />
+    <Content Include="bin\Debug\System.CodeDom.dll" />
+    <Resource Include="bin\Debug\System.CodeDom.xml" />
+    <Content Include="bin\Debug\System.Numerics.Vectors.dll" />
+    <Resource Include="bin\Debug\System.Numerics.Vectors.xml" />
+    <Content Include="bin\Debug\TWSLib.dll" />
+    <Content Include="bin\Debug\VisualMarketsEngine.dll" />
+    <Content Include="bin\Debug\websocket-sharp.dll" />
+    <Resource Include="bin\Debug\websocket-sharp.xml" />
+    <Content Include="bin\Debug\WebSocket4Net.dll" />
+    <Content Include="bin\Debug\WPBrige.dll" />
+    <Content Include="bin\Debug\Yummy.Charts.dll" />
+    <Content Include="bin\Debug\Yummy.dll" />
+    <Resource Include="bin\Release\.cfg\connections.xml" />
+    <Resource Include="bin\Release\.cfg\login.xml" />
+    <Resource Include="bin\Release\.cfg\main.xml" />
+    <Content Include="bin\Release\Activ.ContentGatewayApi.dll" />
+    <Content Include="bin\Release\Activ.Middleware.dll" />
+    <Content Include="bin\Release\Dsafa.WpfColorPicker.dll" />
+    <Resource Include="bin\Release\Dsafa.WpfColorPicker.xml" />
+    <Content Include="bin\Release\Microsoft.AspNet.SignalR.Client.dll" />
+    <Content Include="bin\Release\Microsoft.AspNet.SignalR.Client.pdb" />
+    <Resource Include="bin\Release\Microsoft.AspNet.SignalR.Client.xml" />
+    <Content Include="bin\Release\Newtonsoft.Json.dll" />
+    <Resource Include="bin\Release\Newtonsoft.Json.xml" />
+    <Content Include="bin\Release\RestSharp.dll" />
+    <Resource Include="bin\Release\RestSharp.xml" />
+    <Content Include="bin\Release\SuperSocket.ClientEngine.dll" />
+    <Content Include="bin\Release\System.CodeDom.dll" />
+    <Resource Include="bin\Release\System.CodeDom.xml" />
+    <Content Include="bin\Release\System.Numerics.Vectors.dll" />
+    <Resource Include="bin\Release\System.Numerics.Vectors.xml" />
+    <Content Include="bin\Release\VisualMarketsEngine.dll" />
+    <Content Include="bin\Release\websocket-sharp.dll" />
+    <Resource Include="bin\Release\websocket-sharp.xml" />
+    <Content Include="bin\Release\WebSocket4Net.dll" />
+    <Content Include="bin\Release\WesternpipsPrivate7.exe" />
+    <Content Include="bin\Release\WesternpipsPrivate7.pdb" />
+    <Content Include="bin\Release\WPBrige.dll" />
+    <Content Include="bin\Release\WpfScreenHelper.dll" />
+    <Content Include="bin\Release\WpfScreenHelper.pdb" />
+    <Content Include="bin\Release\Yummy.Charts.dll" />
+    <Content Include="bin\Release\Yummy.dll" />
+    <Content Include="Resources\Activ.ContentGatewayApi.dll" />
+    <Content Include="Resources\Activ.Middleware.dll" />
+    <Content Include="Resources\LmaxClientLibrary.dll" />
+    <Resource Include="Resources\Newtonsoft.Json.xml" />
+    <Content Include="Resources\Newtonsoft.Json.dll" />
+    <Content Include="Resources\QuickFix.dll" />
+    <Content Include="Resources\RestSharp.dll" />
+    <Resource Include="Resources\RestSharp.xml" />
+    <Content Include="Resources\TWSLib.dll" />
+    <Content Include="Resources\VisualMarketsEngine.dll" />
+    <Content Include="Resources\WPBrige.dll" />
+    <Content Include="Resources\Yummy.Charts.dll" />
+    <Content Include="Resources\Yummy.dll" />
+    <Resource Include="Res\add.png" />
+    <Resource Include="Res\addProvider.png" />
+    <Resource Include="Res\AppIcon.ico" />
+    <Resource Include="Res\chart.png" />
+    <Resource Include="Res\chart2.png" />
+    <Resource Include="Res\chi.png" />
+    <Resource Include="Res\chi1.png" />
+    <Resource Include="Res\close.png" />
+    <Resource Include="Res\close2.png" />
+    <Resource Include="Res\dashicon.png" />
+    <Resource Include="Res\dashicon2.png" />
+    <Resource Include="Res\deleteProvider.png" />
+    <Resource Include="Res\editProvider.png" />
+    <Resource Include="Res\eng.png" />
+    <Resource Include="Res\eng1.png" />
+    <Resource Include="Res\green-orb.png" />
+    <Resource Include="Res\header.png" />
+    <Resource Include="Res\home.png" />
+    <Resource Include="Res\home2.png" />
+    <Resource Include="Res\lights.png" />
+    <Resource Include="Res\loginback.png" />
+    <Resource Include="Res\minimize.png" />
+    <Resource Include="Res\minimize2.png" />
+    <Resource Include="Res\openfile.png" />
+    <Resource Include="Res\options.png" />
+    <Resource Include="Res\options_hover.png" />
+    <Resource Include="Res\red-orb.png" />
+    <Resource Include="Res\savefile.png" />
+    <Resource Include="Res\start.png" />
+    <Resource Include="Res\status.png" />
+    <Resource Include="Res\stop.png" />
+    <Resource Include="Res\yellow-orb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\.cfg\.tools\" />
+    <Folder Include="bin\Release\.logs\" />
+    <Folder Include="bin\Release\.tmp\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,1013 @@
+12:43:05.608214> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.00000000 USDT
+12:43:06.013232> WebSocket connected! Start Partial @depth20 [Future] process...
+12:43:06.013232> WebSocket connected! Start @depth [Future] process...
+12:43:06.014231> WebSocket connected! Start [SPOT] @depth@100ms process...
+12:43:06.016233> WebSocket connected! Start @bookTicker [Future] process...
+12:43:06.044234> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+12:43:06.055240> WebSocket connected! Start Partial @depth20 [SPOT] process...
+12:43:06.074234> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:43:06.075238> WebSocket connected! Start @bookTicker ...
+12:43:06.141240> WebSocket connected! Start [SPOT] @depth@100ms process...
+12:43:06.142242> WebSocket connected! Start @bookTicker ...
+12:43:06.142242> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+12:43:06.202243> WebSocket connected! Start Partial @depth20 [SPOT] process...
+12:43:06.601275> WebSocket connected! Start @depth [Future] process...
+12:43:06.617265> WebSocket connected! Start Partial @depth20 [Future] process...
+12:43:06.637266> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 6.25838444 USDT
+12:43:06.697272> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:43:06.706271> WebSocket connected! Start @bookTicker [Future] process...
+12:44:44.557750> (Closing... Elapsted: 60076 ms.)
+12:44:44.562751> (Closing... Elapsted: 60078 ms.)
+12:44:44.708761> (Closing... Elapsted: 60223 ms.)
+12:44:44.716759> (Closing... Elapsted: 60230 ms.)
+12:44:45.610327> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:45.625344> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:45.650328> (Closing... Elapsted: 61163 ms.)
+12:44:45.651329> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:45.652330> BookTicker was closed by Custom!
+12:44:45.654329> (Closing... Elapsted: 61166 ms.)
+12:44:45.655330> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:45.655330> BookTicker was closed by Custom!
+12:44:45.766347> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:45.771358> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:46.320128> (Closing... Elapsted: 61825 ms.)
+12:44:46.321128> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.321128> BookTicker was closed by Custom!
+12:44:46.323129> (Closing... Elapsted: 61828 ms.)
+12:44:46.324128> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.324128> BookTicker was closed by Custom!
+12:44:46.325129> (Closing... Elapsted: 61829 ms.)
+12:44:46.325129> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.325129> BookTicker was closed by Custom!
+12:44:46.327129> (Closing... Elapsted: 61830 ms.)
+12:44:46.327129> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.327129> BookTicker was closed by Custom!
+12:44:46.328129> (Closing... Elapsted: 61830 ms.)
+12:44:46.329129> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.329129> BookTicker was closed by Custom!
+12:44:46.330129> (Closing... Elapsted: 61831 ms.)
+12:44:46.330129> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.330129> BookTicker was closed by Custom!
+12:44:46.332130> (Closing... Elapsted: 61832 ms.)
+12:44:46.332130> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.332130> BookTicker was closed by Custom!
+12:44:46.333129> (Closing... Elapsted: 61833 ms.)
+12:44:46.334130> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.334130> BookTicker was closed by Custom!
+12:44:46.335129> (Closing... Elapsted: 61834 ms.)
+12:44:46.335129> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.335129> BookTicker was closed by Custom!
+12:44:46.336129> (Closing... Elapsted: 61835 ms.)
+12:44:46.337129> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.337129> BookTicker was closed by Custom!
+12:44:46.338130> (Closing... Elapsted: 61836 ms.)
+12:44:46.338130> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.338130> BookTicker was closed by Custom!
+12:44:46.352130> (Closing... Elapsted: 61850 ms.)
+12:44:46.353131> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.353131> BookTicker was closed by Custom!
+12:44:46.386131> (Closing... Elapsted: 61883 ms.)
+12:44:46.387131> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.387131> BookTicker was closed by Custom!
+12:44:46.389133> (Closing... Elapsted: 61884 ms.)
+12:44:46.389133> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.389133> BookTicker was closed by Custom!
+12:44:46.391132> (Closing... Elapsted: 61885 ms.)
+12:44:46.391132> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.391132> BookTicker was closed by Custom!
+12:44:46.392133> (Closing... Elapsted: 61886 ms.)
+12:44:46.392133> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.393133> BookTicker was closed by Custom!
+12:44:46.396134> (Closing... Elapsted: 61889 ms.)
+12:44:46.396134> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.396134> BookTicker was closed by Custom!
+12:44:46.410135> (Closing... Elapsted: 61903 ms.)
+12:44:46.411134> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.411134> BookTicker was closed by Custom!
+12:44:46.539151> (Closing... Elapsted: 62030 ms.)
+12:44:46.541162> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.542152> BookTicker was closed by Custom!
+12:44:46.545143> (Closing... Elapsted: 62033 ms.)
+12:44:46.546142> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.546142> BookTicker was closed by Custom!
+12:44:46.548142> (Closing... Elapsted: 62034 ms.)
+12:44:46.548142> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.548142> BookTicker was closed by Custom!
+12:44:46.549143> (Closing... Elapsted: 62035 ms.)
+12:44:46.550143> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.550143> BookTicker was closed by Custom!
+12:44:46.551143> (Closing... Elapsted: 62036 ms.)
+12:44:46.552141> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.552141> BookTicker was closed by Custom!
+12:44:46.556141> (Closing... Elapsted: 62039 ms.)
+12:44:46.556141> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:46.556141> BookTicker was closed by Custom!
+12:44:46.650155> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:46.736153> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.021176> (Closing... Elapsted: 62504 ms.)
+12:44:47.021176> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.022169> BookTicker was closed by Custom!
+12:44:47.032175> (Closing... Elapsted: 62514 ms.)
+12:44:47.032175> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.033172> BookTicker was closed by Custom!
+12:44:47.034169> (Closing... Elapsted: 62515 ms.)
+12:44:47.034169> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.034169> BookTicker was closed by Custom!
+12:44:47.036168> (Closing... Elapsted: 62516 ms.)
+12:44:47.036168> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.036168> BookTicker was closed by Custom!
+12:44:47.037171> (Closing... Elapsted: 62517 ms.)
+12:44:47.037171> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.038170> BookTicker was closed by Custom!
+12:44:47.040170> (Closing... Elapsted: 62519 ms.)
+12:44:47.040170> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.040170> BookTicker was closed by Custom!
+12:44:47.041171> (Closing... Elapsted: 62520 ms.)
+12:44:47.042171> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.042171> BookTicker was closed by Custom!
+12:44:47.130176> (Closing... Elapsted: 62607 ms.)
+12:44:47.131175> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.132175> BookTicker was closed by Custom!
+12:44:47.327185> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.337187> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.341188> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.351189> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.367192> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.369191> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.429199> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.430195> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.431198> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.431198> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.431198> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.432194> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.432194> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.432194> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.433193> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.476197> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.479198> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.480196> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.629204> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.631215> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.632204> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.633210> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.643205> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.654204> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:47.853217> (Closing... Elapsted: 63328 ms.)
+12:44:47.854217> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.854217> BookTicker was closed by Custom!
+12:44:47.858214> (Closing... Elapsted: 63332 ms.)
+12:44:47.859218> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.859218> BookTicker was closed by Custom!
+12:44:47.861216> (Closing... Elapsted: 63334 ms.)
+12:44:47.862220> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.862220> BookTicker was closed by Custom!
+12:44:47.864227> (Closing... Elapsted: 63335 ms.)
+12:44:47.865219> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.865219> BookTicker was closed by Custom!
+12:44:47.867217> (Closing... Elapsted: 63336 ms.)
+12:44:47.867217> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.868218> BookTicker was closed by Custom!
+12:44:47.869218> (Closing... Elapsted: 63337 ms.)
+12:44:47.869218> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.870218> BookTicker was closed by Custom!
+12:44:47.871217> (Closing... Elapsted: 63338 ms.)
+12:44:47.872221> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.872221> BookTicker was closed by Custom!
+12:44:47.919221> (Closing... Elapsted: 63383 ms.)
+12:44:47.920220> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.920220> BookTicker was closed by Custom!
+12:44:47.921221> (Closing... Elapsted: 63384 ms.)
+12:44:47.922221> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.922221> BookTicker was closed by Custom!
+12:44:47.923221> (Closing... Elapsted: 63385 ms.)
+12:44:47.923221> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.923221> BookTicker was closed by Custom!
+12:44:47.924221> (Closing... Elapsted: 63386 ms.)
+12:44:47.925223> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.925223> BookTicker was closed by Custom!
+12:44:47.930222> (Closing... Elapsted: 63391 ms.)
+12:44:47.930222> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.931224> BookTicker was closed by Custom!
+12:44:47.933221> (Closing... Elapsted: 63394 ms.)
+12:44:47.934223> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.934223> BookTicker was closed by Custom!
+12:44:47.936220> (Closing... Elapsted: 63396 ms.)
+12:44:47.937221> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.937221> BookTicker was closed by Custom!
+12:44:47.941222> (Closing... Elapsted: 63399 ms.)
+12:44:47.941222> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.942222> BookTicker was closed by Custom!
+12:44:47.943222> (Closing... Elapsted: 63400 ms.)
+12:44:47.943222> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.943222> BookTicker was closed by Custom!
+12:44:47.944221> (Closing... Elapsted: 63401 ms.)
+12:44:47.944221> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.945223> BookTicker was closed by Custom!
+12:44:47.951222> (Closing... Elapsted: 63407 ms.)
+12:44:47.951222> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.951222> BookTicker was closed by Custom!
+12:44:47.954224> (Closing... Elapsted: 63409 ms.)
+12:44:47.954224> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.954224> BookTicker was closed by Custom!
+12:44:47.958222> (Closing... Elapsted: 63413 ms.)
+12:44:47.959223> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.959223> BookTicker was closed by Custom!
+12:44:47.960223> (Closing... Elapsted: 63414 ms.)
+12:44:47.960223> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.960223> BookTicker was closed by Custom!
+12:44:47.961223> (Closing... Elapsted: 63415 ms.)
+12:44:47.962223> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:47.962223> BookTicker was closed by Custom!
+12:44:48.021233> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:48.022226> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:48.040226> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:48.099232> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:48.099232> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:48.100232> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:48.100232> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:48.129245> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:48.476253> (Closing... Elapsted: 63929 ms.)
+12:44:48.477253> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.477253> BookTicker was closed by Custom!
+12:44:48.479253> (Closing... Elapsted: 63932 ms.)
+12:44:48.479253> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.479253> BookTicker was closed by Custom!
+12:44:48.481252> (Closing... Elapsted: 63933 ms.)
+12:44:48.481252> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.481252> BookTicker was closed by Custom!
+12:44:48.483254> (Closing... Elapsted: 63935 ms.)
+12:44:48.483254> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.484252> BookTicker was closed by Custom!
+12:44:48.485253> (Closing... Elapsted: 63936 ms.)
+12:44:48.486255> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.486255> BookTicker was closed by Custom!
+12:44:48.489253> (Closing... Elapsted: 63938 ms.)
+12:44:48.489253> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.490255> BookTicker was closed by Custom!
+12:44:48.492254> (Closing... Elapsted: 63942 ms.)
+12:44:48.493255> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.494258> BookTicker was closed by Custom!
+12:44:48.496256> (Closing... Elapsted: 63944 ms.)
+12:44:48.496256> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.497253> BookTicker was closed by Custom!
+12:44:48.503262> (Closing... Elapsted: 63949 ms.)
+12:44:48.504265> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.505274> BookTicker was closed by Custom!
+12:44:48.510259> (Closing... Elapsted: 63954 ms.)
+12:44:48.511269> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.511269> BookTicker was closed by Custom!
+12:44:48.516259> (Closing... Elapsted: 63958 ms.)
+12:44:48.517263> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.517263> BookTicker was closed by Custom!
+12:44:48.519255> (Closing... Elapsted: 63960 ms.)
+12:44:48.519255> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.519255> BookTicker was closed by Custom!
+12:44:48.522255> (Closing... Elapsted: 63961 ms.)
+12:44:48.522255> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.522255> BookTicker was closed by Custom!
+12:44:48.524254> (Closing... Elapsted: 63963 ms.)
+12:44:48.524254> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.524254> BookTicker was closed by Custom!
+12:44:48.526254> (Closing... Elapsted: 63964 ms.)
+12:44:48.526254> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.527256> BookTicker was closed by Custom!
+12:44:48.528254> (Closing... Elapsted: 63965 ms.)
+12:44:48.529257> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.529257> BookTicker was closed by Custom!
+12:44:48.530256> (Closing... Elapsted: 63966 ms.)
+12:44:48.531256> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.531256> BookTicker was closed by Custom!
+12:44:48.533255> (Closing... Elapsted: 63968 ms.)
+12:44:48.533255> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.534256> BookTicker was closed by Custom!
+12:44:48.535255> (Closing... Elapsted: 63969 ms.)
+12:44:48.535255> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.536256> BookTicker was closed by Custom!
+12:44:48.538256> (Closing... Elapsted: 63971 ms.)
+12:44:48.538256> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.538256> BookTicker was closed by Custom!
+12:44:48.540257> (Closing... Elapsted: 63973 ms.)
+12:44:48.540257> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.550257> BookTicker was closed by Custom!
+12:44:48.553256> (Closing... Elapsted: 63976 ms.)
+12:44:48.554256> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.554256> BookTicker was closed by Custom!
+12:44:48.557258> (Closing... Elapsted: 63978 ms.)
+12:44:48.558257> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.558257> BookTicker was closed by Custom!
+12:44:48.560256> (Closing... Elapsted: 63980 ms.)
+12:44:48.560256> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:48.560256> BookTicker was closed by Custom!
+12:44:48.894276> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:48.904278> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:48.906278> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:48.912277> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:48.937279> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.005283> (Closing... Elapsted: 64424 ms.)
+12:44:49.005283> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.006285> BookTicker was closed by Custom!
+12:44:49.008283> (Closing... Elapsted: 64425 ms.)
+12:44:49.008283> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.009283> BookTicker was closed by Custom!
+12:44:49.010284> (Closing... Elapsted: 64426 ms.)
+12:44:49.010284> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.011283> BookTicker was closed by Custom!
+12:44:49.017290> (Closing... Elapsted: 64430 ms.)
+12:44:49.018288> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.018288> BookTicker was closed by Custom!
+12:44:49.021285> (Closing... Elapsted: 64432 ms.)
+12:44:49.021285> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.021285> BookTicker was closed by Custom!
+12:44:49.024286> (Closing... Elapsted: 64434 ms.)
+12:44:49.025286> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.025286> BookTicker was closed by Custom!
+12:44:49.027284> (Closing... Elapsted: 64436 ms.)
+12:44:49.028286> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.028286> BookTicker was closed by Custom!
+12:44:49.028286> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.029285> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.031286> (Closing... Elapsted: 64439 ms.)
+12:44:49.031286> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.031286> BookTicker was closed by Custom!
+12:44:49.062287> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.064286> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.064286> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.070285> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.072287> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.075287> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.083287> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.124288> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.126289> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.129288> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.129288> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.130290> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.130290> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.131290> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.131290> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.554313> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.562314> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.569315> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.569315> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.570316> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.572318> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.574327> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.579320> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.580315> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.586326> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.592327> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.597321> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.608317> (Closing... Elapsted: 65015 ms.)
+12:44:49.608317> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.608317> BookTicker was closed by Custom!
+12:44:49.610317> (Closing... Elapsted: 65016 ms.)
+12:44:49.610317> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.610317> BookTicker was closed by Custom!
+12:44:49.611318> (Closing... Elapsted: 65017 ms.)
+12:44:49.611318> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.612319> BookTicker was closed by Custom!
+12:44:49.613334> (Closing... Elapsted: 65018 ms.)
+12:44:49.613334> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.613334> BookTicker was closed by Custom!
+12:44:49.615316> (Closing... Elapsted: 65019 ms.)
+12:44:49.615316> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.615316> BookTicker was closed by Custom!
+12:44:49.616318> (Closing... Elapsted: 65020 ms.)
+12:44:49.617319> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.617319> BookTicker was closed by Custom!
+12:44:49.618319> (Closing... Elapsted: 65021 ms.)
+12:44:49.618319> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.618319> BookTicker was closed by Custom!
+12:44:49.620318> (Closing... Elapsted: 65022 ms.)
+12:44:49.620318> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.620318> BookTicker was closed by Custom!
+12:44:49.622318> (Closing... Elapsted: 65023 ms.)
+12:44:49.622318> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.622318> BookTicker was closed by Custom!
+12:44:49.624318> (Closing... Elapsted: 65024 ms.)
+12:44:49.624318> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.624318> BookTicker was closed by Custom!
+12:44:49.625319> (Closing... Elapsted: 65025 ms.)
+12:44:49.626318> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.626318> BookTicker was closed by Custom!
+12:44:49.627318> (Closing... Elapsted: 65026 ms.)
+12:44:49.627318> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.627318> BookTicker was closed by Custom!
+12:44:49.629318> (Closing... Elapsted: 65027 ms.)
+12:44:49.629318> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.629318> BookTicker was closed by Custom!
+12:44:49.630320> (Closing... Elapsted: 65028 ms.)
+12:44:49.631318> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.631318> BookTicker was closed by Custom!
+12:44:49.632319> (Closing... Elapsted: 65029 ms.)
+12:44:49.632319> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.633319> BookTicker was closed by Custom!
+12:44:49.634320> (Closing... Elapsted: 65030 ms.)
+12:44:49.635319> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.635319> BookTicker was closed by Custom!
+12:44:49.636320> (Closing... Elapsted: 65031 ms.)
+12:44:49.636320> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.636320> BookTicker was closed by Custom!
+12:44:49.638320> (Closing... Elapsted: 65032 ms.)
+12:44:49.638320> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.638320> BookTicker was closed by Custom!
+12:44:49.640321> (Closing... Elapsted: 65033 ms.)
+12:44:49.640321> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.640321> BookTicker was closed by Custom!
+12:44:49.641320> (Closing... Elapsted: 65034 ms.)
+12:44:49.642320> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.642320> BookTicker was closed by Custom!
+12:44:49.643319> (Closing... Elapsted: 65035 ms.)
+12:44:49.643319> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.644320> BookTicker was closed by Custom!
+12:44:49.645320> (Closing... Elapsted: 65036 ms.)
+12:44:49.645320> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.645320> BookTicker was closed by Custom!
+12:44:49.647320> (Closing... Elapsted: 65037 ms.)
+12:44:49.647320> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.647320> BookTicker was closed by Custom!
+12:44:49.648319> (Closing... Elapsted: 65038 ms.)
+12:44:49.649321> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.649321> BookTicker was closed by Custom!
+12:44:49.650320> (Closing... Elapsted: 65039 ms.)
+12:44:49.651321> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.651321> BookTicker was closed by Custom!
+12:44:49.652321> (Closing... Elapsted: 65040 ms.)
+12:44:49.652321> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.664322> BookTicker was closed by Custom!
+12:44:49.667319> (Closing... Elapsted: 65042 ms.)
+12:44:49.667319> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.667319> BookTicker was closed by Custom!
+12:44:49.668319> (Closing... Elapsted: 65043 ms.)
+12:44:49.669321> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.669321> BookTicker was closed by Custom!
+12:44:49.669321> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.669321> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.670321> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.671322> (Closing... Elapsted: 65045 ms.)
+12:44:49.671322> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.671322> BookTicker was closed by Custom!
+12:44:49.673322> (Closing... Elapsted: 65046 ms.)
+12:44:49.673322> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.673322> BookTicker was closed by Custom!
+12:44:49.674321> (Closing... Elapsted: 65047 ms.)
+12:44:49.675321> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.675321> BookTicker was closed by Custom!
+12:44:49.676322> (Closing... Elapsted: 65048 ms.)
+12:44:49.676322> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.677322> BookTicker was closed by Custom!
+12:44:49.678322> (Closing... Elapsted: 65049 ms.)
+12:44:49.678322> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.678322> BookTicker was closed by Custom!
+12:44:49.680322> (Closing... Elapsted: 65050 ms.)
+12:44:49.680322> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.680322> BookTicker was closed by Custom!
+12:44:49.681322> (Closing... Elapsted: 65051 ms.)
+12:44:49.682324> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.683321> BookTicker was closed by Custom!
+12:44:49.684323> (Closing... Elapsted: 65053 ms.)
+12:44:49.685322> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.685322> BookTicker was closed by Custom!
+12:44:49.686322> (Closing... Elapsted: 65054 ms.)
+12:44:49.687322> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.687322> BookTicker was closed by Custom!
+12:44:49.688321> (Closing... Elapsted: 65055 ms.)
+12:44:49.688321> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.689322> BookTicker was closed by Custom!
+12:44:49.699323> (Closing... Elapsted: 65065 ms.)
+12:44:49.699323> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.699323> BookTicker was closed by Custom!
+12:44:49.703321> (Closing... Elapsted: 65068 ms.)
+12:44:49.703321> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.704324> BookTicker was closed by Custom!
+12:44:49.705322> (Closing... Elapsted: 65071 ms.)
+12:44:49.706324> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.706324> BookTicker was closed by Custom!
+12:44:49.713323> (Closing... Elapsted: 65072 ms.)
+12:44:49.714324> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.714324> BookTicker was closed by Custom!
+12:44:49.715323> (Closing... Elapsted: 65073 ms.)
+12:44:49.715323> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.716324> BookTicker was closed by Custom!
+12:44:49.717323> (Closing... Elapsted: 65074 ms.)
+12:44:49.717323> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.717323> BookTicker was closed by Custom!
+12:44:49.718324> (Closing... Elapsted: 65075 ms.)
+12:44:49.719323> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.719323> BookTicker was closed by Custom!
+12:44:49.720324> (Closing... Elapsted: 65076 ms.)
+12:44:49.720324> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.721325> BookTicker was closed by Custom!
+12:44:49.722324> (Closing... Elapsted: 65077 ms.)
+12:44:49.722324> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.723322> BookTicker was closed by Custom!
+12:44:49.724326> (Closing... Elapsted: 65077 ms.)
+12:44:49.727323> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.728331> BookTicker was closed by Custom!
+12:44:49.729323> (Closing... Elapsted: 65083 ms.)
+12:44:49.729323> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.730324> BookTicker was closed by Custom!
+12:44:49.733323> (Closing... Elapsted: 65086 ms.)
+12:44:49.734325> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.734325> BookTicker was closed by Custom!
+12:44:49.737332> (Closing... Elapsted: 65088 ms.)
+12:44:49.737332> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.737332> BookTicker was closed by Custom!
+12:44:49.748342> (Closing... Elapsted: 65098 ms.)
+12:44:49.751334> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.752326> BookTicker was closed by Custom!
+12:44:49.758326> (Closing... Elapsted: 65104 ms.)
+12:44:49.759330> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.760331> BookTicker was closed by Custom!
+12:44:49.762326> (Closing... Elapsted: 65106 ms.)
+12:44:49.763324> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.763324> BookTicker was closed by Custom!
+12:44:49.765327> (Closing... Elapsted: 65108 ms.)
+12:44:49.766326> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.766326> BookTicker was closed by Custom!
+12:44:49.768327> (Closing... Elapsted: 65109 ms.)
+12:44:49.768327> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.768327> BookTicker was closed by Custom!
+12:44:49.774326> (Closing... Elapsted: 65115 ms.)
+12:44:49.774326> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.775327> BookTicker was closed by Custom!
+12:44:49.776341> (Closing... Elapsted: 65116 ms.)
+12:44:49.777327> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.778331> BookTicker was closed by Custom!
+12:44:49.784343> (Closing... Elapsted: 65121 ms.)
+12:44:49.785353> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.786341> BookTicker was closed by Custom!
+12:44:49.790326> (Closing... Elapsted: 65123 ms.)
+12:44:49.790326> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.792328> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.792328> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.791339> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.799328> BookTicker was closed by Custom!
+12:44:49.806329> (Closing... Elapsted: 65135 ms.)
+12:44:49.807334> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.807334> BookTicker was closed by Custom!
+12:44:49.809332> (Closing... Elapsted: 65136 ms.)
+12:44:49.809332> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:49.810329> BookTicker was closed by Custom!
+12:44:49.924339> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+12:44:49.925337> WebSocket [SubscribeBookTickerStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+12:44:49.998339> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.999340> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:49.999340> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.021340> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.028341> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.028341> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.218352> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.225352> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.226352> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.229353> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.231357> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.231357> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.232354> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.232354> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.906397> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.907392> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.908392> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.910390> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.911390> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.912392> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.913392> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.915392> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.915392> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.918392> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.918392> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.918392> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.922392> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.923391> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.923391> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.925405> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.961395> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.973395> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.975396> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.975396> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.980395> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.982395> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.984394> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.985397> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.986396> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:50.990397> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.003397> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.004399> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.005398> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.006397> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.006397> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.007398> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.008398> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.034400> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.035400> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.036402> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.036402> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.036402> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.037400> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.037400> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.037400> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.037400> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.038400> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.038400> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.038400> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.039402> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.049402> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.050402> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.142406> (Closing... Elapsted: 66468 ms.)
+12:44:51.142406> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.142406> BookTicker was closed by Custom!
+12:44:51.144405> (Closing... Elapsted: 66469 ms.)
+12:44:51.144405> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.144405> BookTicker was closed by Custom!
+12:44:51.145406> (Closing... Elapsted: 66470 ms.)
+12:44:51.145406> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.146405> BookTicker was closed by Custom!
+12:44:51.147405> (Closing... Elapsted: 66471 ms.)
+12:44:51.147405> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.147405> BookTicker was closed by Custom!
+12:44:51.148405> (Closing... Elapsted: 66472 ms.)
+12:44:51.148405> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.149406> BookTicker was closed by Custom!
+12:44:51.150406> (Closing... Elapsted: 66473 ms.)
+12:44:51.150406> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.150406> BookTicker was closed by Custom!
+12:44:51.152406> (Closing... Elapsted: 66474 ms.)
+12:44:51.152406> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.152406> BookTicker was closed by Custom!
+12:44:51.154406> (Closing... Elapsted: 66475 ms.)
+12:44:51.154406> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.154406> BookTicker was closed by Custom!
+12:44:51.155406> (Closing... Elapsted: 66476 ms.)
+12:44:51.155406> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.156406> BookTicker was closed by Custom!
+12:44:51.157406> (Closing... Elapsted: 66477 ms.)
+12:44:51.157406> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.157406> BookTicker was closed by Custom!
+12:44:51.159405> (Closing... Elapsted: 66478 ms.)
+12:44:51.159405> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.159405> BookTicker was closed by Custom!
+12:44:51.160406> (Closing... Elapsted: 66479 ms.)
+12:44:51.160406> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.161407> BookTicker was closed by Custom!
+12:44:51.162406> (Closing... Elapsted: 66480 ms.)
+12:44:51.162406> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.162406> BookTicker was closed by Custom!
+12:44:51.164407> (Closing... Elapsted: 66480 ms.)
+12:44:51.164407> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.164407> BookTicker was closed by Custom!
+12:44:51.171407> (Closing... Elapsted: 66482 ms.)
+12:44:51.172407> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.172407> BookTicker was closed by Custom!
+12:44:51.173407> (Closing... Elapsted: 66483 ms.)
+12:44:51.174407> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.174407> BookTicker was closed by Custom!
+12:44:51.178406> (Closing... Elapsted: 66487 ms.)
+12:44:51.179408> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.179408> BookTicker was closed by Custom!
+12:44:51.180407> (Closing... Elapsted: 66488 ms.)
+12:44:51.181407> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.181407> BookTicker was closed by Custom!
+12:44:51.182409> (Closing... Elapsted: 66489 ms.)
+12:44:51.183408> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.183408> BookTicker was closed by Custom!
+12:44:51.184408> (Closing... Elapsted: 66490 ms.)
+12:44:51.185410> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.185410> BookTicker was closed by Custom!
+12:44:51.186408> (Closing... Elapsted: 66491 ms.)
+12:44:51.187408> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.187408> BookTicker was closed by Custom!
+12:44:51.188409> (Closing... Elapsted: 66492 ms.)
+12:44:51.189408> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.189408> BookTicker was closed by Custom!
+12:44:51.190408> (Closing... Elapsted: 66493 ms.)
+12:44:51.190408> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.191409> BookTicker was closed by Custom!
+12:44:51.193408> (Closing... Elapsted: 66495 ms.)
+12:44:51.194410> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.194410> BookTicker was closed by Custom!
+12:44:51.195409> (Closing... Elapsted: 66496 ms.)
+12:44:51.195409> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.196408> BookTicker was closed by Custom!
+12:44:51.197408> (Closing... Elapsted: 66497 ms.)
+12:44:51.197408> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.198409> BookTicker was closed by Custom!
+12:44:51.199409> (Closing... Elapsted: 66498 ms.)
+12:44:51.199409> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.199409> BookTicker was closed by Custom!
+12:44:51.201410> (Closing... Elapsted: 66499 ms.)
+12:44:51.201410> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.201410> BookTicker was closed by Custom!
+12:44:51.203409> (Closing... Elapsted: 66500 ms.)
+12:44:51.203409> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.203409> BookTicker was closed by Custom!
+12:44:51.204410> (Closing... Elapsted: 66501 ms.)
+12:44:51.205409> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.205409> BookTicker was closed by Custom!
+12:44:51.207409> (Closing... Elapsted: 66502 ms.)
+12:44:51.207409> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.207409> BookTicker was closed by Custom!
+12:44:51.209411> (Closing... Elapsted: 66503 ms.)
+12:44:51.209411> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.210411> BookTicker was closed by Custom!
+12:44:51.211411> (Closing... Elapsted: 66504 ms.)
+12:44:51.211411> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.211411> BookTicker was closed by Custom!
+12:44:51.213409> (Closing... Elapsted: 66505 ms.)
+12:44:51.213409> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.214410> BookTicker was closed by Custom!
+12:44:51.215412> (Closing... Elapsted: 66506 ms.)
+12:44:51.216410> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.216410> BookTicker was closed by Custom!
+12:44:51.217410> (Closing... Elapsted: 66507 ms.)
+12:44:51.218411> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.218411> BookTicker was closed by Custom!
+12:44:51.219410> (Closing... Elapsted: 66508 ms.)
+12:44:51.220410> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.220410> BookTicker was closed by Custom!
+12:44:51.221411> (Closing... Elapsted: 66509 ms.)
+12:44:51.222410> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.222410> BookTicker was closed by Custom!
+12:44:51.223410> (Closing... Elapsted: 66510 ms.)
+12:44:51.223410> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.224411> BookTicker was closed by Custom!
+12:44:51.225411> (Closing... Elapsted: 66511 ms.)
+12:44:51.226411> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.226411> BookTicker was closed by Custom!
+12:44:51.228412> (Closing... Elapsted: 66512 ms.)
+12:44:51.228412> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.229426> BookTicker was closed by Custom!
+12:44:51.232430> (Closing... Elapsted: 66514 ms.)
+12:44:51.232430> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.233417> BookTicker was closed by Custom!
+12:44:51.235410> (Closing... Elapsted: 66515 ms.)
+12:44:51.235410> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.235410> BookTicker was closed by Custom!
+12:44:51.237411> (Closing... Elapsted: 66516 ms.)
+12:44:51.237411> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.238411> BookTicker was closed by Custom!
+12:44:51.239411> (Closing... Elapsted: 66517 ms.)
+12:44:51.239411> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.240417> BookTicker was closed by Custom!
+12:44:51.242411> (Closing... Elapsted: 66518 ms.)
+12:44:51.242411> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.242411> BookTicker was closed by Custom!
+12:44:51.244409> (Closing... Elapsted: 66519 ms.)
+12:44:51.244409> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.245412> BookTicker was closed by Custom!
+12:44:51.267412> (Closing... Elapsted: 66541 ms.)
+12:44:51.267412> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.268413> BookTicker was closed by Custom!
+12:44:51.270414> (Closing... Elapsted: 66542 ms.)
+12:44:51.270414> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.271413> BookTicker was closed by Custom!
+12:44:51.273413> (Closing... Elapsted: 66544 ms.)
+12:44:51.273413> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.274413> BookTicker was closed by Custom!
+12:44:51.275414> (Closing... Elapsted: 66545 ms.)
+12:44:51.276413> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.276413> BookTicker was closed by Custom!
+12:44:51.278413> (Closing... Elapsted: 66546 ms.)
+12:44:51.278413> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.279413> BookTicker was closed by Custom!
+12:44:51.281412> (Closing... Elapsted: 66547 ms.)
+12:44:51.297414> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.298413> BookTicker was closed by Custom!
+12:44:51.300413> (Closing... Elapsted: 66549 ms.)
+12:44:51.301414> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.301414> BookTicker was closed by Custom!
+12:44:51.303414> (Closing... Elapsted: 66551 ms.)
+12:44:51.304414> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.304414> BookTicker was closed by Custom!
+12:44:51.306415> (Closing... Elapsted: 66552 ms.)
+12:44:51.306415> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.307414> BookTicker was closed by Custom!
+12:44:51.308415> (Closing... Elapsted: 66553 ms.)
+12:44:51.308415> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.309414> BookTicker was closed by Custom!
+12:44:51.311415> (Closing... Elapsted: 66554 ms.)
+12:44:51.311415> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.312415> BookTicker was closed by Custom!
+12:44:51.314415> (Closing... Elapsted: 66556 ms.)
+12:44:51.315416> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.315416> BookTicker was closed by Custom!
+12:44:51.317415> (Closing... Elapsted: 66557 ms.)
+12:44:51.318414> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.318414> BookTicker was closed by Custom!
+12:44:51.333416> (Closing... Elapsted: 66559 ms.)
+12:44:51.334419> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.335440> BookTicker was closed by Custom!
+12:44:51.337416> (Closing... Elapsted: 66561 ms.)
+12:44:51.338417> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.339416> BookTicker was closed by Custom!
+12:44:51.342419> (Closing... Elapsted: 66564 ms.)
+12:44:51.343416> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.343416> BookTicker was closed by Custom!
+12:44:51.350417> (Closing... Elapsted: 66571 ms.)
+12:44:51.351417> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.351417> BookTicker was closed by Custom!
+12:44:51.354417> (Closing... Elapsted: 66573 ms.)
+12:44:51.354417> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.355419> BookTicker was closed by Custom!
+12:44:51.357417> (Closing... Elapsted: 66574 ms.)
+12:44:51.357417> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.358417> BookTicker was closed by Custom!
+12:44:51.359416> (Closing... Elapsted: 66575 ms.)
+12:44:51.360418> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.360418> BookTicker was closed by Custom!
+12:44:51.362420> (Closing... Elapsted: 66576 ms.)
+12:44:51.362420> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.363417> BookTicker was closed by Custom!
+12:44:51.364418> (Closing... Elapsted: 66577 ms.)
+12:44:51.364418> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.365419> BookTicker was closed by Custom!
+12:44:51.366418> (Closing... Elapsted: 66578 ms.)
+12:44:51.367417> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.373418> BookTicker was closed by Custom!
+12:44:51.383428> (Closing... Elapsted: 66589 ms.)
+12:44:51.398418> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.399420> BookTicker was closed by Custom!
+12:44:51.401421> (Closing... Elapsted: 66591 ms.)
+12:44:51.402420> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.402420> BookTicker was closed by Custom!
+12:44:51.420420> (Closing... Elapsted: 66608 ms.)
+12:44:51.420420> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.421421> BookTicker was closed by Custom!
+12:44:51.433421> (Closing... Elapsted: 66619 ms.)
+12:44:51.437422> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.438422> BookTicker was closed by Custom!
+12:44:51.440421> (Closing... Elapsted: 66621 ms.)
+12:44:51.440421> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.441422> BookTicker was closed by Custom!
+12:44:51.442422> (Closing... Elapsted: 66622 ms.)
+12:44:51.443422> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.443422> BookTicker was closed by Custom!
+12:44:51.445422> (Closing... Elapsted: 66624 ms.)
+12:44:51.446423> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.446423> BookTicker was closed by Custom!
+12:44:51.455423> (Closing... Elapsted: 66632 ms.)
+12:44:51.455423> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.456425> BookTicker was closed by Custom!
+12:44:51.459425> (Closing... Elapsted: 66635 ms.)
+12:44:51.460425> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.460425> BookTicker was closed by Custom!
+12:44:51.466424> (Closing... Elapsted: 66640 ms.)
+12:44:51.467424> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.467424> BookTicker was closed by Custom!
+12:44:51.469424> (Closing... Elapsted: 66642 ms.)
+12:44:51.478425> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.479423> BookTicker was closed by Custom!
+12:44:51.481425> (Closing... Elapsted: 66650 ms.)
+12:44:51.481425> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.481425> BookTicker was closed by Custom!
+12:44:51.483425> (Closing... Elapsted: 66652 ms.)
+12:44:51.484425> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.484425> BookTicker was closed by Custom!
+12:44:51.486427> (Closing... Elapsted: 66654 ms.)
+12:44:51.486427> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.486427> BookTicker was closed by Custom!
+12:44:51.488426> (Closing... Elapsted: 66655 ms.)
+12:44:51.488426> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.489425> BookTicker was closed by Custom!
+12:44:51.491425> (Closing... Elapsted: 66657 ms.)
+12:44:51.491425> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.491425> BookTicker was closed by Custom!
+12:44:51.502425> (Closing... Elapsted: 66668 ms.)
+12:44:51.503425> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.504434> BookTicker was closed by Custom!
+12:44:51.507426> (Closing... Elapsted: 66670 ms.)
+12:44:51.508426> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.508426> BookTicker was closed by Custom!
+12:44:51.514427> (Closing... Elapsted: 66673 ms.)
+12:44:51.515425> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.515425> BookTicker was closed by Custom!
+12:44:51.517428> (Closing... Elapsted: 66674 ms.)
+12:44:51.517428> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.518427> BookTicker was closed by Custom!
+12:44:51.520427> (Closing... Elapsted: 66675 ms.)
+12:44:51.520427> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.521427> BookTicker was closed by Custom!
+12:44:51.522427> (Closing... Elapsted: 66676 ms.)
+12:44:51.523426> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.523426> BookTicker was closed by Custom!
+12:44:51.527425> (Closing... Elapsted: 66680 ms.)
+12:44:51.528431> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.528431> BookTicker was closed by Custom!
+12:44:51.530427> (Closing... Elapsted: 66682 ms.)
+12:44:51.530427> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.531428> BookTicker was closed by Custom!
+12:44:51.531428> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.541426> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.543427> (Closing... Elapsted: 66694 ms.)
+12:44:51.544431> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.544431> BookTicker was closed by Custom!
+12:44:51.546427> WebSocket connected! Start @depth [Future] process...
+12:44:51.546427> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.547429> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.547429> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.547429> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.547429> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.548431> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.548431> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.548431> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.549429> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.549429> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.551427> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.551427> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:51.655433> (Closing... Elapsted: 66804 ms.)
+12:44:51.655433> WebSocket [SubscribeBookTickerStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+12:44:51.656443> BookTicker was closed by Custom!
+12:44:53.048513> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.048513> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.050516> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.050516> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.051515> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.051515> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.051515> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.051515> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.051515> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.052515> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.059515> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.059515> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.058514> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.059515> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.065516> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.065516> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.067518> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.067518> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.068516> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.068516> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.069516> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.069516> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.070517> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.070517> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.073516> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.073516> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.074516> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.074516> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.075517> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.077516> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.077516> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.078517> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.078517> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.080517> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.080517> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.081517> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.081517> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.082517> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.085517> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.085517> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.087515> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.089518> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.098518> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.104518> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.115518> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.115518> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.116519> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.118519> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.120520> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.121517> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.121517> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.122519> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.123520> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.123520> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.124519> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.124519> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.125519> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.126520> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.126520> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.130519> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.130519> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.130519> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.155518> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.250525> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.256526> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.261527> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.265527> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.269527> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.274528> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.278531> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.282527> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.314530> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.317529> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.398535> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:53.402557> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.916623> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.917623> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.917623> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.925625> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.926622> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.927622> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.927622> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.929622> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.940435> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.970623> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.975625> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.975625> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.975625> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.976626> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.976626> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.976626> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.976626> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.977626> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.977626> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.977626> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:44:54.977626> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...

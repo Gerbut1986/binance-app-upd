@@ -1,0 +1,46 @@
+15:42:43.514014> Binance - O6Lyrsb3[MARGIN] MARGIN Balance: 0 USDT
+15:42:44.365063> BinanceFuture - O6Lyrsb3[USD_M] USD_M Balance: 0 USDT
+15:42:44.366062> WebSocket connected! Start [MARGIN] @depth@100ms process...
+15:42:44.697080> WebSocket connected! Start Partial @depth10 [MARGIN] process...
+15:42:44.698081> WebSocket connected! Start Partial @depth10 [Future] process...
+15:42:44.765083> Binance - O6Lyrsb3[MARGIN] MARGIN Balance: 0 USDT
+15:42:45.208109> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+15:42:45.233111> WebSocket connected! Start [MARGIN] @depth@100ms process...
+15:42:45.285114> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+15:42:47.222226> BinanceFuture - O6Lyrsb3[USD_M] USD_M Balance: 0 USDT
+15:42:47.224227> WebSocket connected! Start Partial @depth10 [Future] process...
+15:42:47.359234> WebSocket connected! Start Partial @depth10 [MARGIN] process...
+15:42:48.545304> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:42:48.546308> [1Leg]: Sell FAILED solusdt;Gap=-0.07800000;Price=100.16
+15:42:52.273352> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:42:52.273352> [1Leg]: Sell FAILED solusdt;Gap=-0.03200000;Price=100.14
+15:42:53.131343> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:42:53.136350> [1Leg]: Sell FAILED solusdt;Gap=-0.03800000;Price=100.11
+15:42:54.096789> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:42:54.102789> [1Leg]: Sell FAILED solusdt;Gap=-0.04600000;Price=100.11
+15:42:54.752918> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:42:54.753918> [1Leg]: Sell FAILED solusdt;Gap=-0.04600000;Price=100.11
+15:42:55.398955> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:42:55.433957> [1Leg]: Sell FAILED solusdt;Gap=-0.04600000;Price=100.11
+15:42:56.083000> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:42:56.084000> [1Leg]: Sell FAILED solusdt;Gap=-0.04600000;Price=100.11
+15:42:56.697034> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:42:56.698035> [1Leg]: Sell FAILED solusdt;Gap=-0.05200000;Price=100.11
+15:42:57.327079> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:42:57.328077> [1Leg]: Sell FAILED solusdt;Gap=-0.03100000;Price=100.11
+15:42:57.949218> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:42:57.949218> [1Leg]: Sell FAILED solusdt;Gap=-0.03100000;Price=100.11
+15:42:58.601851> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:42:58.602851> [1Leg]: Sell FAILED solusdt;Gap=-0.03100000;Price=100.11
+15:42:59.309893> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:42:59.310892> [1Leg]: Sell FAILED solusdt;Gap=-0.04300000;Price=100.11
+15:43:00.351677> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:43:00.352678> [1Leg]: Sell FAILED solusdt;Gap=-0.04500000;Price=100.11
+15:43:01.622808> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:43:01.623808> [1Leg]: Sell FAILED solusdt;Gap=-0.03500000;Price=100.11
+15:43:02.477519> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:43:02.477519> [1Leg]: Sell FAILED solusdt;Gap=-0.03500000;Price=100.11
+15:43:03.096626> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:43:03.097626> [1Leg]: Sell FAILED solusdt;Gap=-0.04100000;Price=100.11
+15:43:04.847755> Binance - O6Lyrsb3[MARGIN] Api Error Code: -2010 Message: Account has insufficient balance for requested action.
+15:43:04.848755> [1Leg]: Sell FAILED solusdt;Gap=-0.03900000;Price=100.11

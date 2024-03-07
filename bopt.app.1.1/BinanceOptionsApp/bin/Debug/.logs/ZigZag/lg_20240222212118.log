@@ -1,0 +1,183 @@
+21:21:18.978378> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.00000000 USDT
+21:21:19.429404> WebSocket connected! Start @bookTicker [Future] process...
+21:21:19.429404> WebSocket connected! Start Partial @depth20 [Future] process...
+21:21:19.431403> WebSocket connected! Start @depth [Future] process...
+21:21:19.429404> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+21:21:19.453404> WebSocket connected! Start Partial @depth20 [SPOT] process...
+21:21:19.463405> WebSocket connected! Start @bookTicker ...
+21:21:19.464403> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:21:19.465406> WebSocket connected! Start [SPOT] @depth@100ms process...
+21:21:19.541411> WebSocket connected! Start @bookTicker ...
+21:21:19.546410> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+21:21:19.547410> WebSocket connected! Start [SPOT] @depth@100ms process...
+21:21:19.547410> WebSocket connected! Start Partial @depth20 [SPOT] process...
+21:21:19.632414> Exec time: 129997
+21:21:19.733421> Exec time: 9878
+21:21:19.733421> Exec time: 0
+21:21:19.734422> Exec time: 0
+21:21:19.734422> Exec time: 0
+21:21:19.738422> Exec time: 0
+21:21:19.768430> Exec time: 0
+21:21:19.792428> Exec time: 0
+21:21:19.835426> Exec time: 0
+21:21:19.862428> Exec time: 0
+21:21:19.871430> Exec time: 0
+21:21:19.906430> Exec time: 0
+21:21:20.039440> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 0.59335425 USDT
+21:21:20.048440> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:21:20.051442> WebSocket connected! Start Partial @depth20 [Future] process...
+21:21:20.056441> Exec time: 0
+21:21:20.059442> WebSocket connected! Start @depth [Future] process...
+21:21:20.077449> WebSocket connected! Start @bookTicker [Future] process...
+21:21:20.353584> Exec time: 0
+21:21:20.366581> Exec time: 0
+21:21:20.565592> Exec time: 0
+21:21:20.566591> Exec time: 0
+21:21:20.566591> Exec time: 0
+21:21:20.566591> Exec time: 0
+21:21:20.566591> Exec time: 0
+21:21:20.568591> Exec time: 0
+21:21:20.578595> Exec time: 0
+21:21:20.579597> Exec time: 0
+21:21:20.579597> Exec time: 0
+21:21:20.580595> Exec time: 0
+21:21:20.580595> Exec time: 0
+21:21:20.581597> Exec time: 0
+21:21:20.581597> Exec time: 0
+21:21:20.581597> Exec time: 0
+21:21:20.582595> Exec time: 0
+21:21:20.582595> Exec time: 0
+21:21:20.589597> Exec time: 0
+21:21:20.614595> Exec time: 0
+21:21:20.615594> Exec time: 0
+21:21:20.616595> Exec time: 0
+21:21:20.616595> Exec time: 0
+21:21:20.617594> Exec time: 0
+21:21:20.692599> Exec time: 0
+21:21:20.703600> Exec time: 0
+21:21:20.703600> Exec time: 0
+21:21:20.709600> Exec time: 0
+21:21:20.716602> Exec time: 0
+21:21:20.716602> Exec time: 0
+21:21:20.716602> Exec time: 0
+21:21:20.717602> Exec time: 0
+21:21:20.717602> Exec time: 0
+21:21:20.729602> Exec time: 0
+21:21:20.730602> Exec time: 0
+21:21:20.731601> Exec time: 0
+21:21:20.839607> Exec time: 0
+21:21:20.853607> Exec time: 0
+21:21:20.945613> Exec time: 0
+21:21:20.957622> Exec time: 0
+21:21:21.094620> Exec time: 0
+21:21:21.109622> Exec time: 0
+21:21:21.512032> Exec time: 0
+21:21:21.526028> Exec time: 0
+21:21:21.939055> Exec time: 0
+21:21:21.953053> Exec time: 0
+21:21:22.806318> Exec time: 0
+21:21:22.820300> Exec time: 0
+21:21:23.125365> Exec time: 0
+21:21:23.139319> Exec time: 0
+21:21:23.373336> Exec time: 0
+21:21:23.387330> Exec time: 0
+21:21:23.398332> Exec time: 0
+21:21:23.407340> Exec time: 0
+21:21:23.553343> Exec time: 0
+21:21:23.557346> Exec time: 0
+21:21:23.704354> Exec time: 0
+21:21:23.717352> Exec time: 0
+21:21:23.925361> Exec time: 0
+21:21:23.940368> Exec time: 0
+21:21:24.042369> Exec time: 0
+21:21:24.048369> Exec time: 0
+21:21:24.059371> Exec time: 0
+21:21:24.072370> Exec time: 0
+21:21:24.209388> Exec time: 0
+21:21:24.223380> Exec time: 9976
+21:21:24.459401> Exec time: 0
+21:21:24.473394> Exec time: 0
+21:21:24.805413> Exec time: 0
+21:21:24.823414> Exec time: 0
+21:21:25.177449> Exec time: 0
+21:21:25.190436> Exec time: 0
+21:21:25.269445> Exec time: 0
+21:21:25.283439> Exec time: 0
+21:21:25.392447> Exec time: 0
+21:21:25.396456> Exec time: 0
+21:21:25.406449> Exec time: 0
+21:21:25.410447> Exec time: 0
+21:21:25.547464> Exec time: 0
+21:21:25.560462> Exec time: 0
+21:21:25.718465> Exec time: 0
+21:21:25.731468> Exec time: 0
+21:21:25.882481> Exec time: 0
+21:21:25.895482> Exec time: 0
+21:21:25.914475> Exec time: 0
+21:21:25.927475> Exec time: 0
+21:21:26.064486> Exec time: 0
+21:21:26.078485> Exec time: 0
+21:21:26.550567> Exec time: 0
+21:21:26.563532> Exec time: 0
+21:21:27.380566> Exec time: 0
+21:21:27.393561> Exec time: 0
+21:21:27.595574> Exec time: 0
+21:21:27.608577> Exec time: 0
+21:21:27.747580> Exec time: 0
+21:21:27.760581> Exec time: 0
+21:21:27.986595> Exec time: 0
+21:21:28.001609> Exec time: 0
+21:21:28.047599> Exec time: 0
+21:21:28.054600> Exec time: 0
+21:21:28.055600> Exec time: 0
+21:21:28.060608> Exec time: 0
+21:21:28.068606> Exec time: 0
+21:21:28.068606> Exec time: 0
+21:21:28.206609> Exec time: 0
+21:21:28.222608> Exec time: 0
+21:21:28.478152> Exec time: 0
+21:21:28.491151> Exec time: 0
+21:21:28.684163> Exec time: 0
+21:21:28.687160> Exec time: 0
+21:21:29.147189> Exec time: 0
+21:21:29.161180> Exec time: 0
+21:21:29.336192> Exec time: 0
+21:21:29.344193> Exec time: 0
+21:21:29.345206> Exec time: 0
+21:21:29.346201> Exec time: 0
+21:21:29.351197> Exec time: 0
+21:21:29.358192> Exec time: 0
+21:21:29.358192> Exec time: 0
+21:21:29.358192> Exec time: 0
+21:21:29.494201> Exec time: 0
+21:21:29.507201> Exec time: 0
+21:21:29.813217> Exec time: 0
+21:21:29.827220> Exec time: 0
+21:21:30.138237> Exec time: 0
+21:21:30.150237> Exec time: 0
+21:21:30.359263> Exec time: 0
+21:21:30.374252> Exec time: 0
+21:21:30.690092> Exec time: 0
+21:21:30.704090> Exec time: 0
+21:21:30.985107> Exec time: 0
+21:21:30.999104> Exec time: 0
+21:21:31.149113> Exec time: 0
+21:21:31.150115> Exec time: 0
+21:21:31.150115> Exec time: 0
+21:21:31.151115> Exec time: 0
+21:21:31.151115> Exec time: 0
+21:21:31.151115> Exec time: 0
+21:21:31.152114> Exec time: 0
+21:21:31.152114> Exec time: 0
+21:21:31.152114> Exec time: 0
+21:21:31.153115> Exec time: 0
+21:21:31.153115> Exec time: 0
+21:21:31.153115> Exec time: 0
+21:21:31.289143> Exec time: 0
+21:21:31.307123> Exec time: 0
+21:21:31.471132> Exec time: 0
+21:21:31.484142> Exec time: 0
+21:21:31.620142> Exec time: 0
+21:21:31.634144> Exec time: 0
+21:21:31.774163> Exec time: 0
+21:21:31.787152> Exec time: 0

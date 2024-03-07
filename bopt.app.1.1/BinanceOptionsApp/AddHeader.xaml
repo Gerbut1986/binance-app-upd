@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="BinanceOptionsApp.AddHeader"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BinanceOptionsApp"
+             mc:Ignorable="d" 
+             d:DesignHeight="32" d:DesignWidth="32" Background="Transparent">
+    <Grid>
+        <Image Height="24" Width="24" Source="Res/add.png" VerticalAlignment="Center" HorizontalAlignment="Center"></Image>
+    </Grid>
+</UserControl>

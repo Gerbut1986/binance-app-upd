@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<ConnectionsModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Connections>
+    <ConnectionModel xsi:type="LMaxApiConnectionModel">
+      <Login>lijunjie</Login>
+      <Password>lijunjie123</Password>
+      <Name>LMaxApi - xxx</Name>
+      <Demo>false</Demo>
+      <Url>https://trade.lmaxtrader.com</Url>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="MT5ConnectionModel">
+      <Login>2033535</Login>
+      <Password>p7JriPgs</Password>
+      <Name>MT5 - 2033535</Name>
+      <Srv>185.96.244.101:441</Srv>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="MT5ConnectionModel">
+      <Login>2042486</Login>
+      <Password>0PWOoxGQ</Password>
+      <Name>MT5 - 2042486</Name>
+      <Srv>185.96.244.199:443</Srv>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="MT5ConnectionModel">
+      <Login>2042537</Login>
+      <Password>8D0RcRpL</Password>
+      <Name>MT5 - 2042537</Name>
+      <Srv>149.28.32.189:444</Srv>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="MT4ConnectionModel">
+      <Login>10919</Login>
+      <Password>Po6ZlJS</Password>
+      <Name>MT4 - 10919Longhorn</Name>
+      <Srv>Longhorn-Real2.srv</Srv>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="MT5ConnectionModel">
+      <Login>45077812</Login>
+      <Password>Wh@6ylPf</Password>
+      <Name>MT5 - 45077812</Name>
+      <Srv>52.56.175.12:1951</Srv>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="MT5ConnectionModel">
+      <Login>17383112</Login>
+      <Password>Lc1Ew9h2</Password>
+      <Name>MT5 - 17383112</Name>
+      <Srv>46.4.22.204:443</Srv>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="MT4ConnectionModel">
+      <Login>157760</Login>
+      <Password>6wpRrSSs</Password>
+      <Name>MT4 - 157760</Name>
+      <Srv>IG-LIVE.srv</Srv>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="MT4ConnectionModel">
+      <Login>143276</Login>
+      <Password>ntaBb8Cc</Password>
+      <Name>MT4143276</Name>
+      <Srv>IG-LIVE.srv</Srv>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="MT4ConnectionModel">
+      <Login>171699</Login>
+      <Password>cd66Ee55</Password>
+      <Name>MT4 - 171699</Name>
+      <Srv>IG-LIVE.srv</Srv>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="OneZeroFixConnectionModel">
+      <Login>FRYTRADE</Login>
+      <Password>T34w2qmoDS</Password>
+      <Name>OneZeroFix - FRYTRADE</Name>
+      <TradeSession>true</TradeSession>
+      <UseLogging>true</UseLogging>
+      <UseSSL>true</UseSSL>
+      <SenderCompIdQuote>FRYTRADE_Q</SenderCompIdQuote>
+      <SenderCompIdTrade>FRYTRADE_T</SenderCompIdTrade>
+      <TargetCompIdQuote>OZ_Q</TargetCompIdQuote>
+      <TargetCompIdTrade>OZ_T</TargetCompIdTrade>
+      <HostQuote>216.93.241.29</HostQuote>
+      <HostTrade>216.93.241.29</HostTrade>
+      <PortQuote>23985</PortQuote>
+      <PortTrade>23985</PortTrade>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="MT5ConnectionModel">
+      <Login>422871</Login>
+      <Password>Hi71c444</Password>
+      <Name>MT5 - 422871</Name>
+      <Srv>217.138.254.198:443</Srv>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="MT5ConnectionModel">
+      <Login>49728</Login>
+      <Password>JKucKPHS</Password>
+      <Name>MT5 - 49728</Name>
+      <Srv>103.100.72.66:443</Srv>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="MT5ConnectionModel">
+      <Login>49855</Login>
+      <Password>B6anNbGe</Password>
+      <Name>MT5 - 49855</Name>
+      <Srv>103.100.72.66:443</Srv>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="LMaxApiConnectionModel">
+      <Login>SergeyWP2</Login>
+      <Password>leto2020D</Password>
+      <Name>LMaxApi - SergeyWP2</Name>
+      <Demo>false</Demo>
+      <Url>https://trade.lmaxtrader.com/</Url>
+    </ConnectionModel>
+    <ConnectionModel xsi:type="MT5ConnectionModel">
+      <Login>5435236</Login>
+      <Password>k9eWxgLF</Password>
+      <Name>MT5 - 5435236</Name>
+      <Srv>ecn-london.fxpro.com:443</Srv>
+    </ConnectionModel>
+  </Connections>
+</ConnectionsModel>

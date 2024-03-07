@@ -1,0 +1,110 @@
+﻿<UserControl x:Class="BinanceOptionsApp.TickOptimizerOG"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BinanceOptionsApp"
+             xmlns:controls="clr-namespace:BinanceOptionsApp.Controls"
+             xmlns:vm="clr-namespace:VisualMarketsEngine;assembly=VisualMarketsEngine"
+             xmlns:models="clr-namespace:BinanceOptionsApp.Models"
+             mc:Ignorable="d"
+             d:DesignHeight="750" d:DesignWidth="1420">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="83*"></RowDefinition>
+            <RowDefinition Height="479*"/>
+            <RowDefinition Height="25*"></RowDefinition>
+            <RowDefinition Height="163*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="952*"></ColumnDefinition>
+            <ColumnDefinition Width="91*"/>
+            <ColumnDefinition Width="377*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Margin="0,0,465,0" Grid.RowSpan="2" RenderTransformOrigin="0.525,0.384">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="53*"></RowDefinition>
+                <RowDefinition Height="509*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid Height="54" VerticalAlignment="Top" Grid.RowSpan="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="0*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="87*"></RowDefinition>
+                    <RowDefinition Height="194*"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <GroupBox Header="1 LEG" Margin="5,-10,0,-17" Grid.Row="0" 
+                      IsEnabled="{Binding Started,Converter={StaticResource bToBi}}" 
+                      Background="Silver" Foreground="White" Grid.RowSpan="2">
+                    <Grid Background="{StaticResource cwGrayBackground}">
+                        <local:ProviderControl VerticalAlignment="Center" x:Name="fast" Margin="5,-14,5,0" Height="56"></local:ProviderControl>
+                    </Grid>
+                </GroupBox>
+
+                <GroupBox Foreground="White" Header="2 LEG" Margin="10,-10,-464,-17" IsEnabled="{Binding Started,Converter={StaticResource bToBi}}" 
+                      Background="Silver" Grid.RowSpan="2" Grid.Column="1">
+                    <Grid Background="{StaticResource cwGrayBackground}">
+                        <local:ProviderControl x:Name="slow" Margin="5,-5" Height="Auto"/>
+                    </Grid>
+                </GroupBox>
+            </Grid>
+        </Grid>
+
+        <GroupBox Margin="3,0,0,3" Padding="5" Grid.Row="1" Grid.ColumnSpan="3">
+            <GroupBox.Header>
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <TextBlock Foreground="White" VerticalAlignment="Center">View Chart</TextBlock>
+                    <Button Margin="5,0,0,0" VerticalAlignment="Center" x:Name="navigateTo" Click="NavigateTo_Click" Height="20">Navigate to</Button>
+                </StackPanel>
+            </GroupBox.Header>
+            <TabControl x:Name="tabs">
+            </TabControl>
+        </GroupBox>
+
+        <GroupBox Header="    Log" Grid.Row="2" Grid.ColumnSpan="3" Margin="5,6,5,5"  MouseRightButtonUp="DgLog_MouseRightButtonUp"
+                  Background="Silver" Grid.RowSpan="2">
+            <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" 
+                          Background="Black" Foreground="White">
+                <TextBlock x:Name="logBlock" TextWrapping="Wrap" FontFamily="Courier" Margin="5"></TextBlock>
+            </ScrollViewer>
+        </GroupBox>
+        <Button x:Name="logClear" Background="DarkRed" Foreground="White" Click="LogClear_Click" MinWidth="22" Margin="0,1,929,0" Grid.Row="2">X</Button>
+        <Button  x:Name="buStart" Background="Green" Foreground="White" Click="BuStart_Click" Visibility="{Binding Started,Converter={StaticResource bToVi}}" Content="{DynamicResource locStart}"
+                                Margin="11,2,19,48" Grid.Column="1"/>
+        <Button  x:Name="buStop" Background="Red" Foreground="White" Click="BuStop_Click" Visibility="{Binding Started,Converter={StaticResource bToV}}" Content="{DynamicResource locStop}"
+                                     Margin="11,2,19,49" Grid.Column="1"/>
+
+
+        <Label Foreground="White" Content="ASK:" Grid.Column="2" HorizontalAlignment="Left" Margin="52,10,0,0" VerticalAlignment="Top" Width="38" Height="26"/>
+        <Label Foreground="White" Content="BID:" Grid.Column="2" HorizontalAlignment="Left" Margin="52,33,0,0" VerticalAlignment="Top" Width="43" Height="26"/>
+
+        <TextBox Grid.Column="2" HorizontalAlignment="Left" IsReadOnly="True" TextAlignment="Center" Height="20" Margin="95,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" FontWeight="Bold" FontFamily="Palatino Linotype">
+            <MultiBinding Converter="{StaticResource priceConv}">
+                <Binding Path="Leg1"></Binding>
+                <Binding Path="Leg1.Ask"></Binding>
+            </MultiBinding>
+        </TextBox>
+        <TextBox Grid.Column="2" HorizontalAlignment="Left" IsReadOnly="True" TextAlignment="Center" Height="20" Margin="95,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" FontWeight="Bold" FontFamily="Palatino Linotype">
+            <MultiBinding Converter="{StaticResource priceConv}">
+                <Binding Path="Leg1"></Binding>
+                <Binding Path="Leg1.Bid"></Binding>
+            </MultiBinding>
+        </TextBox>
+        <TextBox Grid.Column="2" HorizontalAlignment="Left" IsReadOnly="True" TextAlignment="Center" Height="20" Margin="204,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" FontWeight="Bold" FontFamily="Palatino Linotype">
+            <MultiBinding Converter="{StaticResource priceConv}">
+                <Binding Path="Leg2"></Binding>
+                <Binding Path="Leg2.Ask"></Binding>
+            </MultiBinding>
+        </TextBox>
+        <TextBox Grid.Column="2" HorizontalAlignment="Left" IsReadOnly="True" TextAlignment="Center" Height="20" Margin="204,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" FontWeight="Bold" FontFamily="Palatino Linotype">
+            <MultiBinding Converter="{StaticResource priceConv}">
+                <Binding Path="Leg2"></Binding>
+                <Binding Path="Leg2.Bid"></Binding>
+            </MultiBinding>
+        </TextBox>
+    </Grid>
+</UserControl>
+

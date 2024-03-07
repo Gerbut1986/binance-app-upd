@@ -1,0 +1,195 @@
+21:12:34.078732> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.00000000 USDT
+21:12:34.881779> WebSocket connected! Start @bookTicker ...
+21:12:34.882778> WebSocket connected! Start Partial @depth20 [SPOT] process...
+21:12:34.884779> WebSocket connected! Start [SPOT] @depth@100ms process...
+21:12:34.884779> WebSocket connected! Start @bookTicker ...
+21:12:34.885779> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:12:34.885779> WebSocket connected! Start Partial @depth20 [SPOT] process...
+21:12:34.887778> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+21:12:34.894777> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+21:12:34.908781> WebSocket connected! Start Partial @depth20 [Future] process...
+21:12:34.947782> WebSocket connected! Start @depth [Future] process...
+21:12:34.948782> WebSocket connected! Start [SPOT] @depth@100ms process...
+21:12:34.980784> WebSocket connected! Start @bookTicker [Future] process...
+21:12:35.112791> WebSocket connected! Start @depth [Future] process...
+21:12:35.155794> WebSocket connected! Start @bookTicker [Future] process...
+21:12:35.167797> WebSocket connected! Start Partial @depth20 [Future] process...
+21:12:35.167797> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:12:35.257798> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 0.59335425 USDT
+21:12:35.417809> Exec time: 12.0013
+21:12:35.432809> Exec time: 18.0012
+21:12:35.504814> Exec time: 0
+21:12:35.517815> Exec time: 0
+21:12:35.612821> Exec time: 0
+21:12:35.638823> Exec time: 0
+21:12:36.007843> Exec time: 0
+21:12:36.020844> Exec time: 0
+21:12:36.162855> Exec time: 0
+21:12:36.172854> Exec time: 0
+21:12:36.710892> Exec time: 0
+21:12:36.758886> Exec time: 0
+21:12:37.021901> Exec time: 0
+21:12:37.039902> Exec time: 0
+21:12:37.198910> Exec time: 0
+21:12:37.218914> Exec time: 0
+21:12:37.750953> Exec time: 0
+21:12:37.766957> Exec time: 0
+21:12:38.575948> Exec time: 0
+21:12:38.594935> Exec time: 1.0003
+21:12:38.858947> Exec time: 0
+21:12:38.876962> Exec time: 0
+21:12:39.009958> Exec time: 0
+21:12:39.027959> Exec time: 0
+21:12:39.631443> Exec time: 0
+21:12:39.650453> Exec time: 0
+21:12:40.129122> Exec time: 0
+21:12:40.147122> Exec time: 0
+21:12:40.681202> Exec time: 0
+21:12:40.700197> Exec time: 0
+21:12:40.890205> Exec time: 0
+21:12:40.908208> Exec time: 0
+21:12:41.605248> Exec time: 0
+21:12:41.627247> Exec time: 0
+21:12:42.279538> Exec time: 0
+21:12:42.296536> Exec time: 0
+21:12:42.857004> Exec time: 0
+21:12:42.875001> Exec time: 0
+21:12:43.250037> Exec time: 0
+21:12:43.269035> Exec time: 0
+21:12:43.401039> Exec time: 0
+21:12:43.419032> Exec time: 0
+21:12:43.527049> Exec time: 0
+21:12:43.545048> Exec time: 0
+21:12:43.677046> Exec time: 0
+21:12:43.695055> Exec time: 0
+21:12:44.104077> Exec time: 0
+21:12:44.122076> Exec time: 0
+21:12:44.487107> Exec time: 0
+21:12:44.505108> Exec time: 0
+21:12:44.783125> Exec time: 0
+21:12:44.801114> Exec time: 0
+21:12:44.938118> Exec time: 0
+21:12:44.952120> Exec time: 0
+21:12:45.290153> Exec time: 0
+21:12:45.291139> Exec time: 0
+21:12:45.292142> Exec time: 0
+21:12:45.292142> Exec time: 0
+21:12:45.292142> Exec time: 0
+21:12:45.293140> Exec time: 0
+21:12:45.299139> Exec time: 0
+21:12:45.300140> Exec time: 0
+21:12:45.300140> Exec time: 0
+21:12:45.301139> Exec time: 0
+21:12:45.301139> Exec time: 0
+21:12:45.302139> Exec time: 0
+21:12:45.302139> Exec time: 0
+21:12:45.302139> Exec time: 0
+21:12:45.303140> Exec time: 0
+21:12:45.303140> Exec time: 0
+21:12:45.303140> Exec time: 0
+21:12:45.304140> Exec time: 0
+21:12:45.304140> Exec time: 0
+21:12:45.304140> Exec time: 0
+21:12:45.305140> Exec time: 0
+21:12:45.305140> Exec time: 0
+21:12:45.305140> Exec time: 0
+21:12:45.305140> Exec time: 0
+21:12:45.306140> Exec time: 0
+21:12:45.309140> Exec time: 0
+21:12:45.309140> Exec time: 0
+21:12:45.310140> Exec time: 0
+21:12:45.310140> Exec time: 0
+21:12:45.310140> Exec time: 0
+21:12:45.310140> Exec time: 0
+21:12:45.317141> Exec time: 0
+21:12:45.318143> Exec time: 0
+21:12:45.318143> Exec time: 0
+21:12:45.319141> Exec time: 0
+21:12:45.319141> Exec time: 0
+21:12:45.319141> Exec time: 0
+21:12:45.319141> Exec time: 0
+21:12:45.320141> Exec time: 0
+21:12:45.320141> Exec time: 0
+21:12:45.320141> Exec time: 0
+21:12:45.320141> Exec time: 0
+21:12:45.320141> Exec time: 0
+21:12:45.321141> Exec time: 0
+21:12:45.321141> Exec time: 0
+21:12:45.321141> Exec time: 0
+21:12:45.321141> Exec time: 0
+21:12:45.322142> Exec time: 0
+21:12:45.322142> Exec time: 0
+21:12:45.322142> Exec time: 0
+21:12:45.355142> Exec time: 0
+21:12:45.358147> Exec time: 0
+21:12:45.372146> Exec time: 0
+21:12:45.377157> Exec time: 0
+21:12:45.459149> Exec time: 0
+21:12:45.460150> Exec time: 0
+21:12:45.461149> Exec time: 0
+21:12:45.477150> Exec time: 0
+21:12:45.479150> Exec time: 0
+21:12:45.479150> Exec time: 0
+21:12:45.612159> Exec time: 0
+21:12:45.632169> Exec time: 0
+21:12:45.785198> Exec time: 0
+21:12:45.804177> Exec time: 0
+21:12:46.751027> Exec time: 0
+21:12:46.770020> Exec time: 0
+21:12:46.920029> Exec time: 0
+21:12:46.939029> Exec time: 0
+21:12:47.100039> Exec time: 0
+21:12:47.119040> Exec time: 0
+21:12:48.179107> Exec time: 0
+21:12:48.197100> Exec time: 0
+21:12:48.331107> Exec time: 0
+21:12:48.349108> Exec time: 0
+21:12:48.835414> Exec time: 0
+21:12:48.854386> Exec time: 0
+21:12:52.698241> Exec time: 0
+21:12:52.717145> Exec time: 0
+21:12:52.848154> Exec time: 0
+21:12:52.867155> Exec time: 0
+21:12:52.902157> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.00000000 USDT
+21:12:53.261177> Exec time: 0
+21:12:53.279181> Exec time: 0
+21:12:53.409190> Exec time: 0
+21:12:53.428192> Exec time: 0
+21:12:53.464187> WebSocket connected! Start [SPOT] @depth@100ms process...
+21:12:53.485190> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:12:53.583195> WebSocket connected! Start Partial @depth20 [SPOT] process...
+21:12:53.587196> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+21:12:53.587196> WebSocket connected! Start @bookTicker ...
+21:12:53.588198> WebSocket connected! Start Partial @depth20 [Future] process...
+21:12:53.589195> WebSocket connected! Start @bookTicker [Future] process...
+21:12:53.590197> Exec time: 0
+21:12:53.593197> WebSocket connected! Start @depth [Future] process...
+21:12:53.595196> Exec time: 0
+21:12:53.638198> WebSocket connected! Start [SPOT] @depth@100ms process...
+21:12:53.639199> WebSocket connected! Start Partial @depth20 [SPOT] process...
+21:12:53.658199> WebSocket connected! Start @bookTicker ...
+21:12:53.663199> Lenta has started...Start SubscribeToTradeStream @trade [{accType}] process...
+21:12:53.860217> Exec time: 0
+21:12:53.863227> Exec time: 0
+21:12:53.879211> Exec time: 0
+21:12:54.169228> WebSocket connected! Start @depth [Future] process...
+21:12:54.181241> WebSocket connected! Start @bookTicker [Future] process...
+21:12:54.253233> WebSocket connected! Start Partial @depth20 [Future] process...
+21:12:54.253233> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:12:54.262238> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 0.59335425 USDT
+21:12:54.267234> Exec time: 0
+21:12:54.267234> Exec time: 0
+21:12:54.288237> Exec time: 0
+21:12:54.288237> Exec time: 0
+21:12:54.335238> Exec time: 0
+21:12:54.336242> Exec time: 0
+21:12:54.337238> Exec time: 0
+21:12:54.367240> Exec time: 0
+21:12:54.458246> Exec time: 0
+21:12:54.459247> Exec time: 0
+21:12:54.476265> Exec time: 0
+21:12:54.478247> Exec time: 0
+21:12:54.689259> Exec time: 0
+21:12:54.690261> Exec time: 0
+21:12:54.706269> Exec time: 0
+21:12:54.706269> Exec time: 0

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<LockStateStorageModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SlowIds>
+    <string>11869843</string>
+  </SlowIds>
+  <Slow2Ids>
+    <string>11869375</string>
+  </Slow2Ids>
+  <SlowClosePrice>14448.58</SlowClosePrice>
+  <SlowClosePrice2>0</SlowClosePrice2>
+</LockStateStorageModel>

@@ -1,0 +1,35 @@
+22:20:18.854097> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.00000000 USDT
+22:20:19.087418> WebSocket connected! Start Partial @depth20 [SPOT] process...
+22:20:19.087418> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+22:20:19.109426> WebSocket connected! Start Partial @depth20 [SPOT] process...
+22:20:19.110419> WebSocket connected! Start @depth [Future] process...
+22:20:19.115420> WebSocket connected! Start Partial @depth20 [Future] process...
+22:20:19.349434> CallMarketDepth() => 1 times. 
+22:20:19.607187> WebSocket connected! Start Partial @depth20 [Future] process...
+22:20:19.613183> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+22:20:19.632185> WebSocket connected! Start @depth [Future] process...
+22:20:19.945203> CallMarketDepth() => 1 times. 
+22:20:20.346064> CallMarketDepth() => 1 times. 
+22:20:20.903783> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 0.00782936 USDT
+22:20:20.944774> CallMarketDepth() => 1 times. 
+22:20:21.346271> CallMarketDepth() => 1 times. 
+22:20:21.944934> CallMarketDepth() => 1 times. 
+22:20:22.345222> CallMarketDepth() => 1 times. 
+22:20:22.944675> CallMarketDepth() => 1 times. 
+22:20:23.345884> CallMarketDepth() => 1 times. 
+22:20:23.945507> CallMarketDepth() => 1 times. 
+22:20:24.346073> CallMarketDepth() => 1 times. 
+22:20:24.945227> CallMarketDepth() => 1 times. 
+22:20:25.346082> CallMarketDepth() => 1 times. 
+22:20:25.945302> CallMarketDepth() => 1 times. 
+22:20:26.346019> CallMarketDepth() => 1 times. 
+22:20:26.944743> CallMarketDepth() => 1 times. 
+22:20:27.357379> CallMarketDepth() => 1 times. 
+22:20:27.945390> CallMarketDepth() => 1 times. 
+22:20:28.347418> CallMarketDepth() => 1 times. 
+22:20:28.945238> CallMarketDepth() => 1 times. 
+22:20:29.348286> CallMarketDepth() => 1 times. 
+22:20:29.945202> CallMarketDepth() => 1 times. 
+22:20:30.346536> CallMarketDepth() => 1 times. 
+22:20:30.945360> CallMarketDepth() => 1 times. 
+22:20:31.346537> CallMarketDepth() => 1 times. 
